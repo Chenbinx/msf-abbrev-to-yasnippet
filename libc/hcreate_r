@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hcreate_r
+contributor: heychenbin@gmail.com
+# key: hcreate_r
+# group: H
+# --
+hcreate_r(${size_t NEL}, ${struct hsearch_data *HTAB});$0

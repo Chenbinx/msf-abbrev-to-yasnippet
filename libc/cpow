@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cpow
+contributor: heychenbin@gmail.com
+# key: cpow
+# group: C
+# --
+cpow(${complex double BASE}, ${complex double POWER});$0

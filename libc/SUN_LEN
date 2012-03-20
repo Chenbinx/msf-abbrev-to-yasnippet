@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: SUN_LEN
+contributor: heychenbin@gmail.com
+# key: SUN_LEN
+# group: S
+# --
+SUN_LEN(${_struct sockaddr_un *_ PTR});$0

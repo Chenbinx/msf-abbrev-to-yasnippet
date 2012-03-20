@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: realloc
+contributor: heychenbin@gmail.com
+# key: realloc
+# group: R
+# --
+realloc(${void *PTR}, ${size_t NEWSIZE});$0

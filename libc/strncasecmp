@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strncasecmp
+contributor: heychenbin@gmail.com
+# key: strncasecmp
+# group: S
+# --
+strncasecmp(${const char *S1}, ${const char *S2}, ${size_t N});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setkey
+contributor: heychenbin@gmail.com
+# key: setkey
+# group: S
+# --
+setkey(${const char *KEY});$0

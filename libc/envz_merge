@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: envz_merge
+contributor: heychenbin@gmail.com
+# key: envz_merge
+# group: E
+# --
+envz_merge(${char **ENVZ}, ${size_t *ENVZ_LEN}, ${const char *ENVZ2}, ${size_t ENVZ2_LEN}, ${int OVERRIDE});$0

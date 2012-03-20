@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: log1pf
+contributor: heychenbin@gmail.com
+# key: log1pf
+# group: L
+# --
+log1pf(${float X});$0

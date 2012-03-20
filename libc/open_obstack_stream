@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: open_obstack_stream
+contributor: heychenbin@gmail.com
+# key: open_obstack_stream
+# group: O
+# --
+open_obstack_stream(${struct obstack *OBSTACK});$0

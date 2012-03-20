@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_finish
+contributor: heychenbin@gmail.com
+# key: obstack_finish
+# group: O
+# --
+obstack_finish(${struct obstack *OBSTACK-PTR});$0

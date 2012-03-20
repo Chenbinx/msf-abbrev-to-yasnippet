@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: conj
+contributor: heychenbin@gmail.com
+# key: conj
+# group: C
+# --
+conj(${complex double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putw
+contributor: heychenbin@gmail.com
+# key: putw
+# group: P
+# --
+putw(${int W}, ${FILE *STREAM});$0

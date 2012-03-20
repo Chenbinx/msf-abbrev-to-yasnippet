@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isprint
+contributor: heychenbin@gmail.com
+# key: isprint
+# group: I
+# --
+isprint(${int C});$0

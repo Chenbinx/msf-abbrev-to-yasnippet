@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: truncate
+contributor: heychenbin@gmail.com
+# key: truncate
+# group: T
+# --
+truncate(${const char *FILENAME}, ${off_t LENGTH});$0

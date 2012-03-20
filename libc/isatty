@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isatty
+contributor: heychenbin@gmail.com
+# key: isatty
+# group: I
+# --
+isatty(${int FILEDES});$0

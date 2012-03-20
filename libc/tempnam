@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tempnam
+contributor: heychenbin@gmail.com
+# key: tempnam
+# group: T
+# --
+tempnam(${const char *DIR}, ${const char *PREFIX});$0

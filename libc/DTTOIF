@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: DTTOIF
+contributor: heychenbin@gmail.com
+# key: DTTOIF
+# group: D
+# --
+DTTOIF(${int DTYPE});$0

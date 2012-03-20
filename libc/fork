@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fork
+contributor: heychenbin@gmail.com
+# key: fork
+# group: F
+# --
+fork(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putwc
+contributor: heychenbin@gmail.com
+# key: putwc
+# group: P
+# --
+putwc(${wchar_t WC}, ${FILE *STREAM});$0

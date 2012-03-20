@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: recvmsg
+contributor: heychenbin@gmail.com
+# key: recvmsg
+# group: R
+# --
+recvmsg(${int SOCKET}, ${struct msghdr *MESSAGE}, ${int FLAGS});$0

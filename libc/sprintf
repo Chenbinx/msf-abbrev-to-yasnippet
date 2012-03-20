@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sprintf
+contributor: heychenbin@gmail.com
+# key: sprintf
+# group: S
+# --
+sprintf(${char *S}, ${const char *TEMPLATE}, ${...});$0

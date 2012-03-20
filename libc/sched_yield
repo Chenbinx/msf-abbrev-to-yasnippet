@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_yield
+contributor: heychenbin@gmail.com
+# key: sched_yield
+# group: S
+# --
+sched_yield(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setlocale
+contributor: heychenbin@gmail.com
+# key: setlocale
+# group: S
+# --
+setlocale(${int CATEGORY}, ${const char *LOCALE});$0

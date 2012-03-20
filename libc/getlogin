@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getlogin
+contributor: heychenbin@gmail.com
+# key: getlogin
+# group: G
+# --
+getlogin(${void});$0

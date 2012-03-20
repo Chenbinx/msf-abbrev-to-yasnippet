@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutex_trylock
+contributor: heychenbin@gmail.com
+# key: pthread_mutex_trylock
+# group: P
+# --
+pthread_mutex_trylock(${pthread_mutex_t *MUTEX});$0

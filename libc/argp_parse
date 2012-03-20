@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argp_parse
+contributor: heychenbin@gmail.com
+# key: argp_parse
+# group: A
+# --
+argp_parse(${const struct argp *ARGP}, ${int ARGC}, ${char **ARGV}, ${unsigned FLAGS}, ${int *ARG_INDEX}, ${void *INPUT});$0

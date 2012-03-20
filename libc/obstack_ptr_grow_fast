@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_ptr_grow_fast
+contributor: heychenbin@gmail.com
+# key: obstack_ptr_grow_fast
+# group: O
+# --
+obstack_ptr_grow_fast(${struct obstack *OBSTACK-PTR}, ${void *DATA});$0

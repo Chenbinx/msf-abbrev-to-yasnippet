@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gammaf
+contributor: heychenbin@gmail.com
+# key: gammaf
+# group: G
+# --
+gammaf(${float X});$0

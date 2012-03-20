@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_get_priority_max
+contributor: heychenbin@gmail.com
+# key: sched_get_priority_max
+# group: S
+# --
+sched_get_priority_max(${int *POLICY});$0

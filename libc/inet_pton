@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_pton
+contributor: heychenbin@gmail.com
+# key: inet_pton
+# group: I
+# --
+inet_pton(${int AF}, ${const char *CP}, ${void *BUF});$0

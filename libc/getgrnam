@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgrnam
+contributor: heychenbin@gmail.com
+# key: getgrnam
+# group: G
+# --
+getgrnam(${const char *NAME});$0

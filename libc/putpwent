@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putpwent
+contributor: heychenbin@gmail.com
+# key: putpwent
+# group: P
+# --
+putpwent(${const struct passwd *P}, ${FILE *STREAM});$0

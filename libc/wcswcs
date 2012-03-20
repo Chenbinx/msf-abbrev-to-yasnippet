@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcswcs
+contributor: heychenbin@gmail.com
+# key: wcswcs
+# group: W
+# --
+wcswcs(${const wchar_t *HAYSTACK}, ${const wchar_t *NEEDLE});$0

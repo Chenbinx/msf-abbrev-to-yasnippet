@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atoi
+contributor: heychenbin@gmail.com
+# key: atoi
+# group: A
+# --
+atoi(${const char *STRING});$0

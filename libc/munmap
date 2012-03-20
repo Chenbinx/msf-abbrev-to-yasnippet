@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: munmap
+contributor: heychenbin@gmail.com
+# key: munmap
+# group: M
+# --
+munmap(${void *ADDR}, ${size_t LENGTH});$0

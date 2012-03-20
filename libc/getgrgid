@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgrgid
+contributor: heychenbin@gmail.com
+# key: getgrgid
+# group: G
+# --
+getgrgid(${gid_t GID});$0

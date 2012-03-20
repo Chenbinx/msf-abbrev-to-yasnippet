@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: get_phys_pages
+contributor: heychenbin@gmail.com
+# key: get_phys_pages
+# group: G
+# --
+get_phys_pages(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strerror_r
+contributor: heychenbin@gmail.com
+# key: strerror_r
+# group: S
+# --
+strerror_r(${int ERRNUM}, ${char *BUF}, ${size_t N});$0

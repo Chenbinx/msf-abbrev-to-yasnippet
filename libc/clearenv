@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clearenv
+contributor: heychenbin@gmail.com
+# key: clearenv
+# group: C
+# --
+clearenv(${void});$0

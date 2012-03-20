@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_setparam
+contributor: heychenbin@gmail.com
+# key: sched_setparam
+# group: S
+# --
+sched_setparam(${pid_t PID}, ${const struct sched_param *PARAM});$0

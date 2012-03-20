@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getdelim
+contributor: heychenbin@gmail.com
+# key: getdelim
+# group: G
+# --
+getdelim(${char **LINEPTR}, ${size_t *N}, ${int DELIMITER}, ${FILE *STREAM});$0

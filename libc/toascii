@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: toascii
+contributor: heychenbin@gmail.com
+# key: toascii
+# group: T
+# --
+toascii(${int C});$0

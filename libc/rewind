@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rewind
+contributor: heychenbin@gmail.com
+# key: rewind
+# group: R
+# --
+rewind(${FILE *STREAM});$0

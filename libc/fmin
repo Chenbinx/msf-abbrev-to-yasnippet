@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmin
+contributor: heychenbin@gmail.com
+# key: fmin
+# group: F
+# --
+fmin(${double X}, ${double Y});$0

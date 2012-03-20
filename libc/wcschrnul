@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcschrnul
+contributor: heychenbin@gmail.com
+# key: wcschrnul
+# group: W
+# --
+wcschrnul(${const wchar_t *WSTRING}, ${wchar_t WC});$0

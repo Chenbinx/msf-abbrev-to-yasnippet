@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: updwtmp
+contributor: heychenbin@gmail.com
+# key: updwtmp
+# group: U
+# --
+updwtmp(${const char *WTMP_FILE}, ${const struct utmp *UTMP});$0

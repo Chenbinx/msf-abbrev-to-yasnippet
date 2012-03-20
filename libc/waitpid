@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: waitpid
+contributor: heychenbin@gmail.com
+# key: waitpid
+# group: W
+# --
+waitpid(${pid_t PID}, ${int *STATUS-PTR}, ${int OPTIONS});$0

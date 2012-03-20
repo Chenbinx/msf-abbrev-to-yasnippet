@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tgammal
+contributor: heychenbin@gmail.com
+# key: tgammal
+# group: T
+# --
+tgammal(${long double X});$0

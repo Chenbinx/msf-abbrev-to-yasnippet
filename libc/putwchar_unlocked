@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putwchar_unlocked
+contributor: heychenbin@gmail.com
+# key: putwchar_unlocked
+# group: P
+# --
+putwchar_unlocked(${wchar_t WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: localtime
+contributor: heychenbin@gmail.com
+# key: localtime
+# group: L
+# --
+localtime(${const time_t *TIME});$0

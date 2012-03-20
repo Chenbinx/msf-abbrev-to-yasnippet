@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cprojl
+contributor: heychenbin@gmail.com
+# key: cprojl
+# group: C
+# --
+cprojl(${complex long double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_return
+contributor: heychenbin@gmail.com
+# key: aio_return
+# group: A
+# --
+aio_return(${const struct aiocb *AIOCBP});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_exit
+contributor: heychenbin@gmail.com
+# key: pthread_exit
+# group: P
+# --
+pthread_exit(${void *RETVAL});$0

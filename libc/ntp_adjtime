@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ntp_adjtime
+contributor: heychenbin@gmail.com
+# key: ntp_adjtime
+# group: N
+# --
+ntp_adjtime(${struct timex *TPTR});$0

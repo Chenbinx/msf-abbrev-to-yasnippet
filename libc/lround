@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lround
+contributor: heychenbin@gmail.com
+# key: lround
+# group: L
+# --
+lround(${double X});$0

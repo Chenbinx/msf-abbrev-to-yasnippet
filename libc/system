@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: system
+contributor: heychenbin@gmail.com
+# key: system
+# group: S
+# --
+system(${const char *COMMAND});$0

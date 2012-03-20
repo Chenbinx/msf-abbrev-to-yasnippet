@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsncpy
+contributor: heychenbin@gmail.com
+# key: wcsncpy
+# group: W
+# --
+wcsncpy(${wchar_t *restrict WTO}, ${const wchar_t *restrict WFROM}, ${size_t SIZE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstok
+contributor: heychenbin@gmail.com
+# key: wcstok
+# group: W
+# --
+wcstok(${wchar_t *NEWSTRING}, ${const char *DELIMITERS});$0

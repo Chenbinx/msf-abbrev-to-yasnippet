@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: funlockfile
+contributor: heychenbin@gmail.com
+# key: funlockfile
+# group: F
+# --
+funlockfile(${FILE *STREAM});$0

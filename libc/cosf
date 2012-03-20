@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cosf
+contributor: heychenbin@gmail.com
+# key: cosf
+# group: C
+# --
+cosf(${float X});$0

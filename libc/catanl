@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: catanl
+contributor: heychenbin@gmail.com
+# key: catanl
+# group: C
+# --
+catanl(${complex long double Z});$0

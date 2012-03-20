@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: assert
+contributor: heychenbin@gmail.com
+# key: assert
+# group: A
+# --
+assert(${int EXPRESSION});$0

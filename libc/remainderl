@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: remainderl
+contributor: heychenbin@gmail.com
+# key: remainderl
+# group: R
+# --
+remainderl(${long double NUMERATOR}, ${long double DENOMINATOR});$0

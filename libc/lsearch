@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lsearch
+contributor: heychenbin@gmail.com
+# key: lsearch
+# group: L
+# --
+lsearch(${const void *KEY}, ${void *BASE}, ${size_t *NMEMB}, ${size_t SIZE}, ${comparison_fn_t COMPAR});$0

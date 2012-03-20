@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: creal
+contributor: heychenbin@gmail.com
+# key: creal
+# group: C
+# --
+creal(${complex double Z});$0

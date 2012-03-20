@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_setaffinity
+contributor: heychenbin@gmail.com
+# key: sched_setaffinity
+# group: S
+# --
+sched_setaffinity(${pid_t PID}, ${size_t CPUSETSIZE}, ${const cpu_set_t *CPUSET});$0

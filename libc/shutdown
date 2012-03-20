@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: shutdown
+contributor: heychenbin@gmail.com
+# key: shutdown
+# group: S
+# --
+shutdown(${int SOCKET}, ${int HOW});$0

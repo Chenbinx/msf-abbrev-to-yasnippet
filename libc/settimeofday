@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: settimeofday
+contributor: heychenbin@gmail.com
+# key: settimeofday
+# group: S
+# --
+settimeofday(${const struct timeval *TP}, ${const struct timezone *TZP});$0

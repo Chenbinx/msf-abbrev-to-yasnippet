@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigmask
+contributor: heychenbin@gmail.com
+# key: sigmask
+# group: S
+# --
+sigmask(${int SIGNUM});$0

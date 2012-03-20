@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setstate
+contributor: heychenbin@gmail.com
+# key: setstate
+# group: S
+# --
+setstate(${void *STATE});$0

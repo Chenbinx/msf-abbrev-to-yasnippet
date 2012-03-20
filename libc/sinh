@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sinh
+contributor: heychenbin@gmail.com
+# key: sinh
+# group: S
+# --
+sinh(${double X});$0

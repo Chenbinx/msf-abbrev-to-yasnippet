@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mkfifo
+contributor: heychenbin@gmail.com
+# key: mkfifo
+# group: M
+# --
+mkfifo(${const char *FILENAME}, ${mode_t MODE});$0

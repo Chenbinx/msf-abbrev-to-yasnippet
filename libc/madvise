@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: madvise
+contributor: heychenbin@gmail.com
+# key: madvise
+# group: M
+# --
+madvise(${void *ADDR}, ${size_t LENGTH}, ${int ADVICE});$0

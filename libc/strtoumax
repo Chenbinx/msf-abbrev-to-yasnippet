@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtoumax
+contributor: heychenbin@gmail.com
+# key: strtoumax
+# group: S
+# --
+strtoumax(${const char *restrict STRING}, ${char **restrict TAILPTR}, ${int BASE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstombs
+contributor: heychenbin@gmail.com
+# key: wcstombs
+# group: W
+# --
+wcstombs(${char *STRING}, ${const wchar_t *WSTRING}, ${size_t SIZE});$0

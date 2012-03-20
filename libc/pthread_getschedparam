@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_getschedparam
+contributor: heychenbin@gmail.com
+# key: pthread_getschedparam
+# group: P
+# --
+pthread_getschedparam(${pthread_t target_THREAD}, ${int *POLICY}, ${struct sched_param *PARAM});$0

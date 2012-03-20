@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lseek
+contributor: heychenbin@gmail.com
+# key: lseek
+# group: L
+# --
+lseek(${int FILEDES}, ${off_t OFFSET}, ${int WHENCE});$0

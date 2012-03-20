@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: crealf
+contributor: heychenbin@gmail.com
+# key: crealf
+# group: C
+# --
+crealf(${complex float Z});$0

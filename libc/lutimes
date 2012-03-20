@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lutimes
+contributor: heychenbin@gmail.com
+# key: lutimes
+# group: L
+# --
+lutimes(${const char *FILENAME}, ${struct timeval TVP[2]});$0

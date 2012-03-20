@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: imaxdiv
+contributor: heychenbin@gmail.com
+# key: imaxdiv
+# group: I
+# --
+imaxdiv(${intmax_t NUMERATOR}, ${intmax_t DENOMINATOR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: posix_memalign
+contributor: heychenbin@gmail.com
+# key: posix_memalign
+# group: P
+# --
+posix_memalign(${void **MEMPTR}, ${size_t ALIGNMENT}, ${size_t SIZE});$0

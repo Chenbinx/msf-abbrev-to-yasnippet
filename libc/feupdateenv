@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: feupdateenv
+contributor: heychenbin@gmail.com
+# key: feupdateenv
+# group: F
+# --
+feupdateenv(${const fenv_t *ENVP});$0

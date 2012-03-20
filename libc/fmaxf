@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmaxf
+contributor: heychenbin@gmail.com
+# key: fmaxf
+# group: F
+# --
+fmaxf(${float X}, ${float Y});$0

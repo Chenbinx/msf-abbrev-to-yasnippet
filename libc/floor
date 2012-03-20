@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: floor
+contributor: heychenbin@gmail.com
+# key: floor
+# group: F
+# --
+floor(${double X});$0

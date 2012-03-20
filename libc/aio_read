@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_read
+contributor: heychenbin@gmail.com
+# key: aio_read
+# group: A
+# --
+aio_read(${struct aiocb *AIOCBP});$0

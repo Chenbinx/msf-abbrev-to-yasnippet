@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: catan
+contributor: heychenbin@gmail.com
+# key: catan
+# group: C
+# --
+catan(${complex double Z});$0

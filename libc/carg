@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: carg
+contributor: heychenbin@gmail.com
+# key: carg
+# group: C
+# --
+carg(${complex double Z});$0

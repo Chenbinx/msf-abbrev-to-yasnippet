@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getitimer
+contributor: heychenbin@gmail.com
+# key: getitimer
+# group: G
+# --
+getitimer(${int WHICH}, ${struct itimerval *OLD});$0

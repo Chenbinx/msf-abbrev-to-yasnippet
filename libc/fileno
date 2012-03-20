@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fileno
+contributor: heychenbin@gmail.com
+# key: fileno
+# group: F
+# --
+fileno(${FILE *STREAM});$0

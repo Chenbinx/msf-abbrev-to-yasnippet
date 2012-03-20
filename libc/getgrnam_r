@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgrnam_r
+contributor: heychenbin@gmail.com
+# key: getgrnam_r
+# group: G
+# --
+getgrnam_r(${const char *NAME}, ${struct group *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct group **RESULT});$0

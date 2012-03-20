@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: backtrace
+contributor: heychenbin@gmail.com
+# key: backtrace
+# group: B
+# --
+backtrace(${void **BUFFER}, ${int SIZE});$0

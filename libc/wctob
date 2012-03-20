@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wctob
+contributor: heychenbin@gmail.com
+# key: wctob
+# group: W
+# --
+wctob(${wint_t C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgets_unlocked
+contributor: heychenbin@gmail.com
+# key: fgets_unlocked
+# group: F
+# --
+fgets_unlocked(${char *S}, ${int COUNT}, ${FILE *STREAM});$0

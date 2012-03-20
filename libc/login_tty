@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: login_tty
+contributor: heychenbin@gmail.com
+# key: login_tty
+# group: L
+# --
+login_tty(${int FILEDES});$0

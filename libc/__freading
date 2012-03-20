@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __freading
+contributor: heychenbin@gmail.com
+# key: __freading
+# group: Others
+# --
+__freading(${FILE *STREAM});$0

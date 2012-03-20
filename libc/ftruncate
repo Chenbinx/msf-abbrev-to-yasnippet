@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ftruncate
+contributor: heychenbin@gmail.com
+# key: ftruncate
+# group: F
+# --
+ftruncate(${int FD}, ${off_t LENGTH});$0

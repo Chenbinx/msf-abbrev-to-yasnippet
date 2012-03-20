@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmax
+contributor: heychenbin@gmail.com
+# key: fmax
+# group: F
+# --
+fmax(${double X}, ${double Y});$0

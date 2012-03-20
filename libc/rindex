@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rindex
+contributor: heychenbin@gmail.com
+# key: rindex
+# group: R
+# --
+rindex(${const char *STRING}, ${int C});$0

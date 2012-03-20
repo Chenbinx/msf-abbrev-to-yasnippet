@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: acosf
+contributor: heychenbin@gmail.com
+# key: acosf
+# group: A
+# --
+acosf(${float X});$0

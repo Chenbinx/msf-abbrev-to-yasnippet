@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getegid
+contributor: heychenbin@gmail.com
+# key: getegid
+# group: G
+# --
+getegid(${void});$0

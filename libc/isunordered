@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isunordered
+contributor: heychenbin@gmail.com
+# key: isunordered
+# group: I
+# --
+isunordered(${_real-floating_ X}, ${_real-floating_ Y});$0

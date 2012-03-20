@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmod
+contributor: heychenbin@gmail.com
+# key: fmod
+# group: F
+# --
+fmod(${double NUMERATOR}, ${double DENOMINATOR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwnam_r
+contributor: heychenbin@gmail.com
+# key: getpwnam_r
+# group: G
+# --
+getpwnam_r(${const char *NAME}, ${struct passwd *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct passwd **RESULT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bindtextdomain
+contributor: heychenbin@gmail.com
+# key: bindtextdomain
+# group: B
+# --
+bindtextdomain(${const char *DOMAINNAME}, ${const char *DIRNAME});$0

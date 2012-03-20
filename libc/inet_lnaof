@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_lnaof
+contributor: heychenbin@gmail.com
+# key: inet_lnaof
+# group: I
+# --
+inet_lnaof(${struct in_addr ADDR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erfc
+contributor: heychenbin@gmail.com
+# key: erfc
+# group: E
+# --
+erfc(${double X});$0

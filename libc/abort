@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: abort
+contributor: heychenbin@gmail.com
+# key: abort
+# group: A
+# --
+abort(${void});$0

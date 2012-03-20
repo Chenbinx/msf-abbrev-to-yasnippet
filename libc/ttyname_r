@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ttyname_r
+contributor: heychenbin@gmail.com
+# key: ttyname_r
+# group: T
+# --
+ttyname_r(${int FILEDES}, ${char *BUF}, ${size_t LEN});$0

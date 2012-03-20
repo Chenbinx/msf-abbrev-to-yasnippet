@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigprocmask
+contributor: heychenbin@gmail.com
+# key: sigprocmask
+# group: S
+# --
+sigprocmask(${int HOW}, ${const sigset_t *restrict SET}, ${sigset_t *restrict OLDSET});$0

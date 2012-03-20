@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: killpg
+contributor: heychenbin@gmail.com
+# key: killpg
+# group: K
+# --
+killpg(${int PGID}, ${int SIGNUM});$0

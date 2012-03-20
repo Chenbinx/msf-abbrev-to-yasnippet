@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strcoll
+contributor: heychenbin@gmail.com
+# key: strcoll
+# group: S
+# --
+strcoll(${const char *S1}, ${const char *S2});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fread
+contributor: heychenbin@gmail.com
+# key: fread
+# group: F
+# --
+fread(${void *DATA}, ${size_t SIZE}, ${size_t COUNT}, ${FILE *STREAM});$0

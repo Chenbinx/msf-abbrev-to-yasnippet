@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: acosh
+contributor: heychenbin@gmail.com
+# key: acosh
+# group: A
+# --
+acosh(${double X});$0

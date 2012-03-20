@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ceill
+contributor: heychenbin@gmail.com
+# key: ceill
+# group: C
+# --
+ceill(${long double X});$0

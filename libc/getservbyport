@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getservbyport
+contributor: heychenbin@gmail.com
+# key: getservbyport
+# group: G
+# --
+getservbyport(${int PORT}, ${const char *PROTO});$0

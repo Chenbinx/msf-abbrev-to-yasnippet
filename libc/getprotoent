@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getprotoent
+contributor: heychenbin@gmail.com
+# key: getprotoent
+# group: G
+# --
+getprotoent(${void});$0

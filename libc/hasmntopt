@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hasmntopt
+contributor: heychenbin@gmail.com
+# key: hasmntopt
+# group: H
+# --
+hasmntopt(${const struct mntent *MNT}, ${const char *OPT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tmpfile
+contributor: heychenbin@gmail.com
+# key: tmpfile
+# group: T
+# --
+tmpfile(${void});$0

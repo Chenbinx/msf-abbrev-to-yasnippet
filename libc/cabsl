@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cabsl
+contributor: heychenbin@gmail.com
+# key: cabsl
+# group: C
+# --
+cabsl(${complex long double Z});$0

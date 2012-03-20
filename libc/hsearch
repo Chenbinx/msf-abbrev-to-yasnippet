@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hsearch
+contributor: heychenbin@gmail.com
+# key: hsearch
+# group: H
+# --
+hsearch(${ENTRY ITEM}, ${ACTION ACTION});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: a64l
+contributor: heychenbin@gmail.com
+# key: a64l
+# group: A
+# --
+a64l(${const char *STRING});$0

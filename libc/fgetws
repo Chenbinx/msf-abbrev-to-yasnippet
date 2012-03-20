@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetws
+contributor: heychenbin@gmail.com
+# key: fgetws
+# group: F
+# --
+fgetws(${wchar_t *WS}, ${int COUNT}, ${FILE *STREAM});$0

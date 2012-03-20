@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: glob64
+contributor: heychenbin@gmail.com
+# key: glob64
+# group: G
+# --
+glob64(${const char *PATTERN}, ${int FLAGS}, ${int(}, ${*ERRFUNC}, ${)(}, ${CONST}, ${CHAR}, ${*FILENAME}, ${ }, ${INT}, ${ERROR-CODE}, ${)}, ${glob64_t *VECTOR-PTR});$0

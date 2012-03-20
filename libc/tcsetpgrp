@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcsetpgrp
+contributor: heychenbin@gmail.com
+# key: tcsetpgrp
+# group: T
+# --
+tcsetpgrp(${int FILEDES}, ${pid_t PGID});$0

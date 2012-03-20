@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cosh
+contributor: heychenbin@gmail.com
+# key: cosh
+# group: C
+# --
+cosh(${double X});$0

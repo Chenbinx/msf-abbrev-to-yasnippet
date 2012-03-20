@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getprotobyname
+contributor: heychenbin@gmail.com
+# key: getprotobyname
+# group: G
+# --
+getprotobyname(${const char *NAME});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: chown
+contributor: heychenbin@gmail.com
+# key: chown
+# group: C
+# --
+chown(${const char *FILENAME}, ${uid_t OWNER}, ${gid_t GROUP});$0

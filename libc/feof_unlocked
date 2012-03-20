@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: feof_unlocked
+contributor: heychenbin@gmail.com
+# key: feof_unlocked
+# group: F
+# --
+feof_unlocked(${FILE *STREAM});$0

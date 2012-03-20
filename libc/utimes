@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: utimes
+contributor: heychenbin@gmail.com
+# key: utimes
+# group: U
+# --
+utimes(${const char *FILENAME}, ${struct timeval TVP[2]});$0

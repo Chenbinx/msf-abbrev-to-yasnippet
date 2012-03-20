@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tdestroy
+contributor: heychenbin@gmail.com
+# key: tdestroy
+# group: T
+# --
+tdestroy(${void *VROOT}, ${__free_fn_t FREEFCT});$0

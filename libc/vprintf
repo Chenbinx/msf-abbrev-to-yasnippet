@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vprintf
+contributor: heychenbin@gmail.com
+# key: vprintf
+# group: V
+# --
+vprintf(${const char *TEMPLATE}, ${va_list AP});$0

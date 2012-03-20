@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nanl
+contributor: heychenbin@gmail.com
+# key: nanl
+# group: N
+# --
+nanl(${const char *TAGP});$0

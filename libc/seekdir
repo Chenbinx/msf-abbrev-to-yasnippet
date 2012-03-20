@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: seekdir
+contributor: heychenbin@gmail.com
+# key: seekdir
+# group: S
+# --
+seekdir(${DIR *DIRSTREAM}, ${off_t POS});$0

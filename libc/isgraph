@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isgraph
+contributor: heychenbin@gmail.com
+# key: isgraph
+# group: I
+# --
+isgraph(${int C});$0

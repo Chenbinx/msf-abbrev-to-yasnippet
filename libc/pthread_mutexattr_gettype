@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutexattr_gettype
+contributor: heychenbin@gmail.com
+# key: pthread_mutexattr_gettype
+# group: P
+# --
+pthread_mutexattr_gettype(${const pthread_mutexattr_t *ATTR}, ${int *TYPE});$0

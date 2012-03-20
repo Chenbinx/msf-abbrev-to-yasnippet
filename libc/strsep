@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strsep
+contributor: heychenbin@gmail.com
+# key: strsep
+# group: S
+# --
+strsep(${char **STRING_PTR}, ${const char *DELIMITER});$0

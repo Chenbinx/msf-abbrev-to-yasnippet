@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mmap64
+contributor: heychenbin@gmail.com
+# key: mmap64
+# group: M
+# --
+mmap64(${void *ADDRESS}, ${size_t LENGTH}, ${int PROTECT}, ${int FLAGS}, ${int FILEDES}, ${off64_t OFFSET});$0

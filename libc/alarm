@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: alarm
+contributor: heychenbin@gmail.com
+# key: alarm
+# group: A
+# --
+alarm(${unsigned int SECONDS});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: textdomain
+contributor: heychenbin@gmail.com
+# key: textdomain
+# group: T
+# --
+textdomain(${const char *DOMAINNAME});$0

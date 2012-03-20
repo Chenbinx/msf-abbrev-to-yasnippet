@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strlen
+contributor: heychenbin@gmail.com
+# key: strlen
+# group: S
+# --
+strlen(${const char *S});$0

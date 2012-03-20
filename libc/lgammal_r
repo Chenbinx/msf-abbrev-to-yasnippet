@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgammal_r
+contributor: heychenbin@gmail.com
+# key: lgammal_r
+# group: L
+# --
+lgammal_r(${long double X}, ${int *SIGNP});$0

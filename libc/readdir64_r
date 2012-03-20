@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readdir64_r
+contributor: heychenbin@gmail.com
+# key: readdir64_r
+# group: R
+# --
+readdir64_r(${DIR *DIRSTREAM}, ${struct dirent64 *ENTRY}, ${struct dirent64 **RESULT});$0

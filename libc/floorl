@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: floorl
+contributor: heychenbin@gmail.com
+# key: floorl
+# group: F
+# --
+floorl(${long double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setjmp
+contributor: heychenbin@gmail.com
+# key: setjmp
+# group: S
+# --
+setjmp(${jmp_buf STATE});$0

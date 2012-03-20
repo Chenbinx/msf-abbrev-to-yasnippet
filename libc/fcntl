@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fcntl
+contributor: heychenbin@gmail.com
+# key: fcntl
+# group: F
+# --
+fcntl(${int FILEDES}, ${int COMMAND}, ${...});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nextafterf
+contributor: heychenbin@gmail.com
+# key: nextafterf
+# group: N
+# --
+nextafterf(${float X}, ${float Y});$0

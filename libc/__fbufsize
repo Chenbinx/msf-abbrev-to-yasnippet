@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fbufsize
+contributor: heychenbin@gmail.com
+# key: __fbufsize
+# group: Others
+# --
+__fbufsize(${FILE *STREAM});$0

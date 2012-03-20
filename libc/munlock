@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: munlock
+contributor: heychenbin@gmail.com
+# key: munlock
+# group: M
+# --
+munlock(${const void *ADDR}, ${size_t LEN});$0

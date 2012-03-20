@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sincosf
+contributor: heychenbin@gmail.com
+# key: sincosf
+# group: S
+# --
+sincosf(${float X}, ${float *SINX}, ${float *COSX});$0

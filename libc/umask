@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: umask
+contributor: heychenbin@gmail.com
+# key: umask
+# group: U
+# --
+umask(${mode_t MASK});$0

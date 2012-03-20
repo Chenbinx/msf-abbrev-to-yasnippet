@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: register_printf_function
+contributor: heychenbin@gmail.com
+# key: register_printf_function
+# group: R
+# --
+register_printf_function(${int SPEC}, ${printf_function HANDLER-FUNCTION}, ${printf_arginfo_function ARGINFO-FUNCTION});$0

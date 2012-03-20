@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pow
+contributor: heychenbin@gmail.com
+# key: pow
+# group: P
+# --
+pow(${double BASE}, ${double POWER});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getopt_long
+contributor: heychenbin@gmail.com
+# key: getopt_long
+# group: G
+# --
+getopt_long(${int ARGC}, ${char *const *ARGV}, ${const char *SHORTOPTS}, ${const struct option *LONGOPTS}, ${int *INDEXPTR});$0

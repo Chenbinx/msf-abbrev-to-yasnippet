@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcgetpgrp
+contributor: heychenbin@gmail.com
+# key: tcgetpgrp
+# group: T
+# --
+tcgetpgrp(${int FILEDES});$0

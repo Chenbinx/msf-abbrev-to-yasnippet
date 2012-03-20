@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: msync
+contributor: heychenbin@gmail.com
+# key: msync
+# group: M
+# --
+msync(${void *ADDRESS}, ${size_t LENGTH}, ${int FLAGS});$0

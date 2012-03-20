@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __freadable
+contributor: heychenbin@gmail.com
+# key: __freadable
+# group: Others
+# --
+__freadable(${FILE *STREAM});$0

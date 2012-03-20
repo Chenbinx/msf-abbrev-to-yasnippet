@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutline_r
+contributor: heychenbin@gmail.com
+# key: getutline_r
+# group: G
+# --
+getutline_r(${const struct utmp *LINE}, ${struct utmp *BUFFER}, ${struct utmp **RESULT});$0

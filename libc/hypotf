@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hypotf
+contributor: heychenbin@gmail.com
+# key: hypotf
+# group: H
+# --
+hypotf(${float X}, ${float Y});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vfprintf
+contributor: heychenbin@gmail.com
+# key: vfprintf
+# group: V
+# --
+vfprintf(${FILE *STREAM}, ${const char *TEMPLATE}, ${va_list AP});$0

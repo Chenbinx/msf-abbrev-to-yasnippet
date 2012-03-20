@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: truncl
+contributor: heychenbin@gmail.com
+# key: truncl
+# group: T
+# --
+truncl(${long double X});$0

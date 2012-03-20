@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fscanf
+contributor: heychenbin@gmail.com
+# key: fscanf
+# group: F
+# --
+fscanf(${FILE *STREAM}, ${const char *TEMPLATE}, ${...});$0

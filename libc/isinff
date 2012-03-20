@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isinff
+contributor: heychenbin@gmail.com
+# key: isinff
+# group: I
+# --
+isinff(${float X});$0

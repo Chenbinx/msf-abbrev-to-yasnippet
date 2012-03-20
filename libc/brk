@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: brk
+contributor: heychenbin@gmail.com
+# key: brk
+# group: B
+# --
+brk(${void *ADDR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetgrent
+contributor: heychenbin@gmail.com
+# key: fgetgrent
+# group: F
+# --
+fgetgrent(${FILE *STREAM});$0

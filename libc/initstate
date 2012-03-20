@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: initstate
+contributor: heychenbin@gmail.com
+# key: initstate
+# group: I
+# --
+initstate(${unsigned int SEED}, ${void *STATE}, ${size_t SIZE});$0

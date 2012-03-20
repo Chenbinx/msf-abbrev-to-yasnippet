@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsncasecmp
+contributor: heychenbin@gmail.com
+# key: wcsncasecmp
+# group: W
+# --
+wcsncasecmp(${const wchar_t *WS1}, ${const wchar_t *S2}, ${size_t N});$0

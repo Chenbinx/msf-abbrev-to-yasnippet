@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mbtowc
+contributor: heychenbin@gmail.com
+# key: mbtowc
+# group: M
+# --
+mbtowc(${wchar_t *restrict RESULT}, ${const char *restrict STRING}, ${size_t SIZE});$0

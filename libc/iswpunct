@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswpunct
+contributor: heychenbin@gmail.com
+# key: iswpunct
+# group: I
+# --
+iswpunct(${wint_t WC});$0

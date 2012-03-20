@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISCHR
+contributor: heychenbin@gmail.com
+# key: S_ISCHR
+# group: S
+# --
+S_ISCHR(${mode_t M});$0

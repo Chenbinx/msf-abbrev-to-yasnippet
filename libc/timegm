@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: timegm
+contributor: heychenbin@gmail.com
+# key: timegm
+# group: T
+# --
+timegm(${struct tm *BROKENTIME});$0

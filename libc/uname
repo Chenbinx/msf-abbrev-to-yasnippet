@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: uname
+contributor: heychenbin@gmail.com
+# key: uname
+# group: U
+# --
+uname(${struct utsname *INFO});$0

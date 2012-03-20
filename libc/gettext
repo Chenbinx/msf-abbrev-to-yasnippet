@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gettext
+contributor: heychenbin@gmail.com
+# key: gettext
+# group: G
+# --
+gettext(${const char *MSGID});$0

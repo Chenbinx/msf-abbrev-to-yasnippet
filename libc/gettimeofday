@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gettimeofday
+contributor: heychenbin@gmail.com
+# key: gettimeofday
+# group: G
+# --
+gettimeofday(${struct timeval *TP}, ${struct timezone *TZP});$0

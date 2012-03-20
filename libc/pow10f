@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pow10f
+contributor: heychenbin@gmail.com
+# key: pow10f
+# group: P
+# --
+pow10f(${float X});$0

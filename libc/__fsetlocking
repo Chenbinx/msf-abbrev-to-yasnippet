@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fsetlocking
+contributor: heychenbin@gmail.com
+# key: __fsetlocking
+# group: Others
+# --
+__fsetlocking(${FILE *STREAM}, ${int TYPE});$0

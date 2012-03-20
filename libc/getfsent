@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getfsent
+contributor: heychenbin@gmail.com
+# key: getfsent
+# group: G
+# --
+getfsent(${void});$0

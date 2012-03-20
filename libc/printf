@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: printf
+contributor: heychenbin@gmail.com
+# key: printf
+# group: P
+# --
+printf(${const char *TEMPLATE}, ${...});$0

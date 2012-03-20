@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bind_textdomain_codeset
+contributor: heychenbin@gmail.com
+# key: bind_textdomain_codeset
+# group: B
+# --
+bind_textdomain_codeset(${const char *DOMAINNAME}, ${const char *CODESET});$0

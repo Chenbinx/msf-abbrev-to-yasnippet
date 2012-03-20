@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cexp
+contributor: heychenbin@gmail.com
+# key: cexp
+# group: C
+# --
+cexp(${complex double Z});$0

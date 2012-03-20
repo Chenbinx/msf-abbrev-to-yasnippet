@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ilogbl
+contributor: heychenbin@gmail.com
+# key: ilogbl
+# group: I
+# --
+ilogbl(${long double X});$0

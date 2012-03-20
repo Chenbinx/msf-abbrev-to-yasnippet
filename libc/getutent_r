@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutent_r
+contributor: heychenbin@gmail.com
+# key: getutent_r
+# group: G
+# --
+getutent_r(${struct utmp *BUFFER}, ${struct utmp **RESULT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ferror
+contributor: heychenbin@gmail.com
+# key: ferror
+# group: F
+# --
+ferror(${FILE *STREAM});$0

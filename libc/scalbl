@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalbl
+contributor: heychenbin@gmail.com
+# key: scalbl
+# group: S
+# --
+scalbl(${long double VALUE}, ${int EXPONENT});$0

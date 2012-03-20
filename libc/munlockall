@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: munlockall
+contributor: heychenbin@gmail.com
+# key: munlockall
+# group: M
+# --
+munlockall(${void});$0

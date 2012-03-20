@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: execlp
+contributor: heychenbin@gmail.com
+# key: execlp
+# group: E
+# --
+execlp(${const char *FILENAME}, ${const char *ARG0}, ${...});$0

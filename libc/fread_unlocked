@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fread_unlocked
+contributor: heychenbin@gmail.com
+# key: fread_unlocked
+# group: F
+# --
+fread_unlocked(${void *DATA}, ${size_t SIZE}, ${size_t COUNT}, ${FILE *STREAM});$0

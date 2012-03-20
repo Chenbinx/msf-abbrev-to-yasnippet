@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: llrintf
+contributor: heychenbin@gmail.com
+# key: llrintf
+# group: L
+# --
+llrintf(${float X});$0

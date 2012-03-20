@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcflow
+contributor: heychenbin@gmail.com
+# key: tcflow
+# group: T
+# --
+tcflow(${int FILEDES}, ${int ACTION});$0

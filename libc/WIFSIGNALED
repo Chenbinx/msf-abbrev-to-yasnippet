@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WIFSIGNALED
+contributor: heychenbin@gmail.com
+# key: WIFSIGNALED
+# group: W
+# --
+WIFSIGNALED(${int STATUS});$0

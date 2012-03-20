@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: freopen64
+contributor: heychenbin@gmail.com
+# key: freopen64
+# group: F
+# --
+freopen64(${const char *FILENAME}, ${const char *OPENTYPE}, ${FILE *STREAM});$0

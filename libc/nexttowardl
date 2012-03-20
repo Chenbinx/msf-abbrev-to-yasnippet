@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nexttowardl
+contributor: heychenbin@gmail.com
+# key: nexttowardl
+# group: N
+# --
+nexttowardl(${long double X}, ${long double Y});$0

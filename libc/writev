@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: writev
+contributor: heychenbin@gmail.com
+# key: writev
+# group: W
+# --
+writev(${int FILEDES}, ${const struct iovec *VECTOR}, ${int COUNT});$0

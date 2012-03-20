@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vasprintf
+contributor: heychenbin@gmail.com
+# key: vasprintf
+# group: V
+# --
+vasprintf(${char **PTR}, ${const char *TEMPLATE}, ${va_list AP});$0

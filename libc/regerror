@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: regerror
+contributor: heychenbin@gmail.com
+# key: regerror
+# group: R
+# --
+regerror(${int ERRCODE}, ${regex_t *COMPILED}, ${char *BUFFER}, ${size_t LENGTH});$0

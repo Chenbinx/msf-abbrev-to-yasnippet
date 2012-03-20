@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISFIFO
+contributor: heychenbin@gmail.com
+# key: S_ISFIFO
+# group: S
+# --
+S_ISFIFO(${mode_t M});$0

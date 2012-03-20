@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rint
+contributor: heychenbin@gmail.com
+# key: rint
+# group: R
+# --
+rint(${double X});$0

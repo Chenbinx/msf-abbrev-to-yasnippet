@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetpos
+contributor: heychenbin@gmail.com
+# key: fgetpos
+# group: F
+# --
+fgetpos(${FILE *STREAM}, ${fpos_t *POSITION});$0

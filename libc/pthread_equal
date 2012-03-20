@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_equal
+contributor: heychenbin@gmail.com
+# key: pthread_equal
+# group: P
+# --
+pthread_equal(${pthread_t thread1}, ${pthread_t thread2});$0

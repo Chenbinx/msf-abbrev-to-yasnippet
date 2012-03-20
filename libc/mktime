@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mktime
+contributor: heychenbin@gmail.com
+# key: mktime
+# group: M
+# --
+mktime(${struct tm *BROKENTIME});$0

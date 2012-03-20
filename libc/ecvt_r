@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ecvt_r
+contributor: heychenbin@gmail.com
+# key: ecvt_r
+# group: E
+# --
+ecvt_r(${double VALUE}, ${int NDIGIT}, ${int *DECPT}, ${int *NEG}, ${char *BUF}, ${size_t LEN});$0

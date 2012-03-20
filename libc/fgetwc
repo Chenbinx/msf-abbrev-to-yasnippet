@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetwc
+contributor: heychenbin@gmail.com
+# key: fgetwc
+# group: F
+# --
+fgetwc(${FILE *STREAM});$0

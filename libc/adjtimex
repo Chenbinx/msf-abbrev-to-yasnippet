@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: adjtimex
+contributor: heychenbin@gmail.com
+# key: adjtimex
+# group: A
+# --
+adjtimex(${struct timex *TIMEX});$0

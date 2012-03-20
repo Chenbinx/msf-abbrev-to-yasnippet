@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: error
+contributor: heychenbin@gmail.com
+# key: error
+# group: E
+# --
+error(${int STATUS}, ${int ERRNUM}, ${const char *FORMAT}, ${...});$0

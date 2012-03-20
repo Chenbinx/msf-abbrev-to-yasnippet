@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isblank
+contributor: heychenbin@gmail.com
+# key: isblank
+# group: I
+# --
+isblank(${int C});$0

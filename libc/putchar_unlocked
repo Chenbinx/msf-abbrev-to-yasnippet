@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putchar_unlocked
+contributor: heychenbin@gmail.com
+# key: putchar_unlocked
+# group: P
+# --
+putchar_unlocked(${int C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: envz_entry
+contributor: heychenbin@gmail.com
+# key: envz_entry
+# group: E
+# --
+envz_entry(${const char *ENVZ}, ${size_t ENVZ_LEN}, ${const char *NAME});$0

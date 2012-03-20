@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: log10f
+contributor: heychenbin@gmail.com
+# key: log10f
+# group: L
+# --
+log10f(${float X});$0

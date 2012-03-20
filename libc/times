@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: times
+contributor: heychenbin@gmail.com
+# key: times
+# group: T
+# --
+times(${struct tms *BUFFER});$0

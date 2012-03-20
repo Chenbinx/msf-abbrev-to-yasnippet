@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISREG
+contributor: heychenbin@gmail.com
+# key: S_ISREG
+# group: S
+# --
+S_ISREG(${mode_t M});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: drem
+contributor: heychenbin@gmail.com
+# key: drem
+# group: D
+# --
+drem(${double NUMERATOR}, ${double DENOMINATOR});$0

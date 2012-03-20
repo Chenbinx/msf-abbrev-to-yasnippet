@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erff
+contributor: heychenbin@gmail.com
+# key: erff
+# group: E
+# --
+erff(${float X});$0

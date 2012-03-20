@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwnam
+contributor: heychenbin@gmail.com
+# key: getpwnam
+# group: G
+# --
+getpwnam(${const char *NAME});$0

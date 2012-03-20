@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: snprintf
+contributor: heychenbin@gmail.com
+# key: snprintf
+# group: S
+# --
+snprintf(${char *S}, ${size_t SIZE}, ${const char *TEMPLATE}, ${...});$0

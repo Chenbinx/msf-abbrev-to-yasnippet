@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: modfl
+contributor: heychenbin@gmail.com
+# key: modfl
+# group: M
+# --
+modfl(${long double VALUE}, ${long double *INTEGER-PART});$0

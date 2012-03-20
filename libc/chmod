@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: chmod
+contributor: heychenbin@gmail.com
+# key: chmod
+# group: C
+# --
+chmod(${const char *FILENAME}, ${mode_t MODE});$0

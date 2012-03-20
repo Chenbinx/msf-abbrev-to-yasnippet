@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtof
+contributor: heychenbin@gmail.com
+# key: strtof
+# group: S
+# --
+strtof(${const char *STRING}, ${char **TAILPTR});$0

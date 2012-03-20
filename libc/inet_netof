@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_netof
+contributor: heychenbin@gmail.com
+# key: inet_netof
+# group: I
+# --
+inet_netof(${struct in_addr ADDR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sincos
+contributor: heychenbin@gmail.com
+# key: sincos
+# group: S
+# --
+sincos(${double X}, ${double *SINX}, ${double *COSX});$0

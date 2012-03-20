@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setpgid
+contributor: heychenbin@gmail.com
+# key: setpgid
+# group: S
+# --
+setpgid(${pid_t PID}, ${pid_t PGID});$0

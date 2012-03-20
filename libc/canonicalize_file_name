@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: canonicalize_file_name
+contributor: heychenbin@gmail.com
+# key: canonicalize_file_name
+# group: C
+# --
+canonicalize_file_name(${const char *NAME});$0

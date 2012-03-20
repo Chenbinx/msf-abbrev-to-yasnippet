@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtoul
+contributor: heychenbin@gmail.com
+# key: strtoul
+# group: S
+# --
+strtoul(${const char *retrict STRING}, ${char **restrict TAILPTR}, ${int BASE});$0

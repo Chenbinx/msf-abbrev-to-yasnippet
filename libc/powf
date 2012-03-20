@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: powf
+contributor: heychenbin@gmail.com
+# key: powf
+# group: P
+# --
+powf(${float BASE}, ${float POWER});$0

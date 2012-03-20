@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcgetsid
+contributor: heychenbin@gmail.com
+# key: tcgetsid
+# group: T
+# --
+tcgetsid(${int FILDES});$0

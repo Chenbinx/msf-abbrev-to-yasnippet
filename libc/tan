@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tan
+contributor: heychenbin@gmail.com
+# key: tan
+# group: T
+# --
+tan(${double X});$0

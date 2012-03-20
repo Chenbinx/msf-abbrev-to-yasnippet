@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigpending
+contributor: heychenbin@gmail.com
+# key: sigpending
+# group: S
+# --
+sigpending(${sigset_t *SET});$0

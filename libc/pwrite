@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pwrite
+contributor: heychenbin@gmail.com
+# key: pwrite
+# group: P
+# --
+pwrite(${int FILEDES}, ${const void *BUFFER}, ${size_t SIZE}, ${off_t OFFSET});$0

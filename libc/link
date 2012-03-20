@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: link
+contributor: heychenbin@gmail.com
+# key: link
+# group: L
+# --
+link(${const char *OLDNAME}, ${const char *NEWNAME});$0

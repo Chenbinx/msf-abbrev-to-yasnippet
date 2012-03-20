@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vwprintf
+contributor: heychenbin@gmail.com
+# key: vwprintf
+# group: V
+# --
+vwprintf(${const wchar_t *TEMPLATE}, ${va_list AP});$0

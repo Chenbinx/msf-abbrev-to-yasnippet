@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswlower
+contributor: heychenbin@gmail.com
+# key: iswlower
+# group: I
+# --
+iswlower(${wint_t WC});$0

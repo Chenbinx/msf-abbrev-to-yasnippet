@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scandir
+contributor: heychenbin@gmail.com
+# key: scandir
+# group: S
+# --
+scandir(${const char *DIR}, ${struct dirent ***NAMELIST}, ${int(}, ${*SELECTOR}, ${)(}, ${CONST}, ${STRUCT}, ${DIRENT}, ${*}, ${)}, ${int(}, ${*CMP}, ${)(}, ${CONST}, ${VOID}, ${*}, ${ }, ${CONST}, ${VOID}, ${*}, ${)});$0

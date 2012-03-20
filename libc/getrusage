@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getrusage
+contributor: heychenbin@gmail.com
+# key: getrusage
+# group: G
+# --
+getrusage(${int PROCESSES}, ${struct rusage *RUSAGE});$0

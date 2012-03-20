@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: accept
+contributor: heychenbin@gmail.com
+# key: accept
+# group: A
+# --
+accept(${int SOCKET}, ${struct sockaddr *ADDR}, ${socklen_t *LENGTH_PTR});$0

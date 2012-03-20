@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmaf
+contributor: heychenbin@gmail.com
+# key: fmaf
+# group: F
+# --
+fmaf(${float X}, ${float Y}, ${float Z});$0

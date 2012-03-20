@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigstack
+contributor: heychenbin@gmail.com
+# key: sigstack
+# group: S
+# --
+sigstack(${const struct sigstack *STACK}, ${struct sigstack *OLDSTACK});$0

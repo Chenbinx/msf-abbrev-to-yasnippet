@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iconv_open
+contributor: heychenbin@gmail.com
+# key: iconv_open
+# group: I
+# --
+iconv_open(${const char *TOCODE}, ${const char *FROMCODE});$0

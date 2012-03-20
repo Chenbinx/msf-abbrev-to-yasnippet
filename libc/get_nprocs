@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: get_nprocs
+contributor: heychenbin@gmail.com
+# key: get_nprocs
+# group: G
+# --
+get_nprocs(${void});$0

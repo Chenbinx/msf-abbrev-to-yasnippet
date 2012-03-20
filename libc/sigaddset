@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigaddset
+contributor: heychenbin@gmail.com
+# key: sigaddset
+# group: S
+# --
+sigaddset(${sigset_t *SET}, ${int SIGNUM});$0

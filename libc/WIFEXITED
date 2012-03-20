@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WIFEXITED
+contributor: heychenbin@gmail.com
+# key: WIFEXITED
+# group: W
+# --
+WIFEXITED(${int STATUS});$0

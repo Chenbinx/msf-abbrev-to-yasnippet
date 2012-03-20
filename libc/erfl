@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erfl
+contributor: heychenbin@gmail.com
+# key: erfl
+# group: E
+# --
+erfl(${long double X});$0

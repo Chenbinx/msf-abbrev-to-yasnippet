@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getmntent_r
+contributor: heychenbin@gmail.com
+# key: getmntent_r
+# group: G
+# --
+getmntent_r(${FILE *STREAM}, ${struct mentent *RESULT}, ${char *BUFFER}, ${int BUFSIZE});$0

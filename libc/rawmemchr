@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rawmemchr
+contributor: heychenbin@gmail.com
+# key: rawmemchr
+# group: R
+# --
+rawmemchr(${const void *BLOCK}, ${int C});$0

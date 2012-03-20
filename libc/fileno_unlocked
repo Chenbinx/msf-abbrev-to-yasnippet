@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fileno_unlocked
+contributor: heychenbin@gmail.com
+# key: fileno_unlocked
+# group: F
+# --
+fileno_unlocked(${FILE *STREAM});$0

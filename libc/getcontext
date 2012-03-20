@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getcontext
+contributor: heychenbin@gmail.com
+# key: getcontext
+# group: G
+# --
+getcontext(${ucontext_t *UCP});$0

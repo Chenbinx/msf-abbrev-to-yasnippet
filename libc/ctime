@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctime
+contributor: heychenbin@gmail.com
+# key: ctime
+# group: C
+# --
+ctime(${const time_t *TIME});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalbf
+contributor: heychenbin@gmail.com
+# key: scalbf
+# group: S
+# --
+scalbf(${float VALUE}, ${int EXPONENT});$0

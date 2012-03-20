@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ldexpf
+contributor: heychenbin@gmail.com
+# key: ldexpf
+# group: L
+# --
+ldexpf(${float VALUE}, ${int EXPONENT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cacos
+contributor: heychenbin@gmail.com
+# key: cacos
+# group: C
+# --
+cacos(${complex double Z});$0

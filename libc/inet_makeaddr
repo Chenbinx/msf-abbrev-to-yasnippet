@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_makeaddr
+contributor: heychenbin@gmail.com
+# key: inet_makeaddr
+# group: I
+# --
+inet_makeaddr(${uint32_t NET}, ${uint32_t LOCAL});$0

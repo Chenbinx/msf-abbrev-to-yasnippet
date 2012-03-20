@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wait3
+contributor: heychenbin@gmail.com
+# key: wait3
+# group: W
+# --
+wait3(${union wait *STATUS-PTR}, ${int OPTIONS}, ${struct rusage *USAGE});$0

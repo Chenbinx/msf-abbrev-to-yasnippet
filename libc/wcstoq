@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstoq
+contributor: heychenbin@gmail.com
+# key: wcstoq
+# group: W
+# --
+wcstoq(${const wchar_t *restrict STRING}, ${wchar_t **restrict TAILPTR}, ${int BASE});$0

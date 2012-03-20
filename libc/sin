@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sin
+contributor: heychenbin@gmail.com
+# key: sin
+# group: S
+# --
+sin(${double X});$0

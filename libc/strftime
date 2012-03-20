@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strftime
+contributor: heychenbin@gmail.com
+# key: strftime
+# group: S
+# --
+strftime(${char *S}, ${size_t SIZE}, ${const char *TEMPLATE}, ${const struct tm *BROKENTIME});$0

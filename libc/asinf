@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asinf
+contributor: heychenbin@gmail.com
+# key: asinf
+# group: A
+# --
+asinf(${float X});$0

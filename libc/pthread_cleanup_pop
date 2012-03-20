@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cleanup_pop
+contributor: heychenbin@gmail.com
+# key: pthread_cleanup_pop
+# group: P
+# --
+pthread_cleanup_pop(${int EXECUTE});$0

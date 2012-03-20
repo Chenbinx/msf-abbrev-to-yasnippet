@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cabsf
+contributor: heychenbin@gmail.com
+# key: cabsf
+# group: C
+# --
+cabsf(${complex float Z});$0

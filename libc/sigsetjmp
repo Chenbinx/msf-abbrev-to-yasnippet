@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigsetjmp
+contributor: heychenbin@gmail.com
+# key: sigsetjmp
+# group: S
+# --
+sigsetjmp(${sigjmp_buf STATE}, ${int SAVESIGS});$0

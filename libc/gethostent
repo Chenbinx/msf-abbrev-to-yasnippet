@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gethostent
+contributor: heychenbin@gmail.com
+# key: gethostent
+# group: G
+# --
+gethostent(${void});$0

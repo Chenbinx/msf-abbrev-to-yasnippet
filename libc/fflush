@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fflush
+contributor: heychenbin@gmail.com
+# key: fflush
+# group: F
+# --
+fflush(${FILE *STREAM});$0

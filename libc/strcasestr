@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strcasestr
+contributor: heychenbin@gmail.com
+# key: strcasestr
+# group: S
+# --
+strcasestr(${const char *HAYSTACK}, ${const char *NEEDLE});$0

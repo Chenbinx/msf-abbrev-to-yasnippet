@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cfmakeraw
+contributor: heychenbin@gmail.com
+# key: cfmakeraw
+# group: C
+# --
+cfmakeraw(${struct termios *TERMIOS-P});$0

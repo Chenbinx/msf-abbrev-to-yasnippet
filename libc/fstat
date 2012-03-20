@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fstat
+contributor: heychenbin@gmail.com
+# key: fstat
+# group: F
+# --
+fstat(${int FILEDES}, ${struct stat *BUF});$0

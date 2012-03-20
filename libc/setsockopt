@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setsockopt
+contributor: heychenbin@gmail.com
+# key: setsockopt
+# group: S
+# --
+setsockopt(${int SOCKET}, ${int LEVEL}, ${int OPTNAME}, ${void *OPTVAL}, ${socklen_t OPTLEN});$0

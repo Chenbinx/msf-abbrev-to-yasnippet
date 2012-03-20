@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memmove
+contributor: heychenbin@gmail.com
+# key: memmove
+# group: M
+# --
+memmove(${void *TO}, ${const void *FROM}, ${size_t SIZE});$0

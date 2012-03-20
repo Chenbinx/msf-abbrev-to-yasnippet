@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nextafterl
+contributor: heychenbin@gmail.com
+# key: nextafterl
+# group: N
+# --
+nextafterl(${long double X}, ${long double Y});$0

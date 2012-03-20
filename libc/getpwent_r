@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwent_r
+contributor: heychenbin@gmail.com
+# key: getpwent_r
+# group: G
+# --
+getpwent_r(${struct passwd *RESULT_BUF}, ${char *BUFFER}, ${int BUFLEN}, ${struct passwd **RESULT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setnetgrent
+contributor: heychenbin@gmail.com
+# key: setnetgrent
+# group: S
+# --
+setnetgrent(${const char *NETGROUP});$0

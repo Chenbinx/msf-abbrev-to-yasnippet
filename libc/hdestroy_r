@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hdestroy_r
+contributor: heychenbin@gmail.com
+# key: hdestroy_r
+# group: H
+# --
+hdestroy_r(${struct hsearch_data *HTAB});$0

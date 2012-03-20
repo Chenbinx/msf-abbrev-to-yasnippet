@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iconv
+contributor: heychenbin@gmail.com
+# key: iconv
+# group: I
+# --
+iconv(${iconv_t CD}, ${char **INBUF}, ${size_t *INBYTESLEFT}, ${char **OUTBUF}, ${size_t *OUTBYTESLEFT});$0

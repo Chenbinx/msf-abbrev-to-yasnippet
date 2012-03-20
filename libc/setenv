@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setenv
+contributor: heychenbin@gmail.com
+# key: setenv
+# group: S
+# --
+setenv(${const char *NAME}, ${const char *VALUE}, ${int REPLACE});$0

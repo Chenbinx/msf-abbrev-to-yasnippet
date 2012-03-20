@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtold
+contributor: heychenbin@gmail.com
+# key: strtold
+# group: S
+# --
+strtold(${const char *STRING}, ${char **TAILPTR});$0

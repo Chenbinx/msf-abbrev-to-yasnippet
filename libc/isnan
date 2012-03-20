@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isnan
+contributor: heychenbin@gmail.com
+# key: isnan
+# group: I
+# --
+isnan(${double X});$0

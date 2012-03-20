@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: FD_CLR
+contributor: heychenbin@gmail.com
+# key: FD_CLR
+# group: F
+# --
+FD_CLR(${int FILEDES}, ${fd_set *SET});$0

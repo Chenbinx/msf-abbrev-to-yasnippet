@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setregid
+contributor: heychenbin@gmail.com
+# key: setregid
+# group: S
+# --
+setregid(${gid_t RGID}, ${gid_t EGID});$0

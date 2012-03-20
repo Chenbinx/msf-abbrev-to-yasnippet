@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nearbyintf
+contributor: heychenbin@gmail.com
+# key: nearbyintf
+# group: N
+# --
+nearbyintf(${float X});$0

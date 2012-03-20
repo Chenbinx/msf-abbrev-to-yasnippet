@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_ntop
+contributor: heychenbin@gmail.com
+# key: inet_ntop
+# group: I
+# --
+inet_ntop(${int AF}, ${const void *CP}, ${char *BUF}, ${size_t LEN});$0

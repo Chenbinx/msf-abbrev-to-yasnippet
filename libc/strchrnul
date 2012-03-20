@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strchrnul
+contributor: heychenbin@gmail.com
+# key: strchrnul
+# group: S
+# --
+strchrnul(${const char *STRING}, ${int C});$0

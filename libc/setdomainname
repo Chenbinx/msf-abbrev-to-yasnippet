@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setdomainname
+contributor: heychenbin@gmail.com
+# key: setdomainname
+# group: S
+# --
+setdomainname(${const char *NAME}, ${size_t LENGTH});$0

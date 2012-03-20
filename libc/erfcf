@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erfcf
+contributor: heychenbin@gmail.com
+# key: erfcf
+# group: E
+# --
+erfcf(${float X});$0

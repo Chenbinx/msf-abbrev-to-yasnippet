@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fdopen
+contributor: heychenbin@gmail.com
+# key: fdopen
+# group: F
+# --
+fdopen(${int FILEDES}, ${const char *OPENTYPE});$0

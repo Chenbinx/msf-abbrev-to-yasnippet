@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pututline
+contributor: heychenbin@gmail.com
+# key: pututline
+# group: P
+# --
+pututline(${const struct utmp *UTMP});$0

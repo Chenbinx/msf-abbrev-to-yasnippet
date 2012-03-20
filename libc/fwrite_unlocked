@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fwrite_unlocked
+contributor: heychenbin@gmail.com
+# key: fwrite_unlocked
+# group: F
+# --
+fwrite_unlocked(${const void *DATA}, ${size_t SIZE}, ${size_t COUNT}, ${FILE *STREAM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_condattr_init
+contributor: heychenbin@gmail.com
+# key: pthread_condattr_init
+# group: P
+# --
+pthread_condattr_init(${pthread_condattr_t *ATTR});$0

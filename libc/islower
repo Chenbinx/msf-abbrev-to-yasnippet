@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: islower
+contributor: heychenbin@gmail.com
+# key: islower
+# group: I
+# --
+islower(${int C});$0

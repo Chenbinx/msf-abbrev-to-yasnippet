@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readv
+contributor: heychenbin@gmail.com
+# key: readv
+# group: R
+# --
+readv(${int FILEDES}, ${const struct iovec *VECTOR}, ${int COUNT});$0

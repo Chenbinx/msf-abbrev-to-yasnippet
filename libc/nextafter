@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nextafter
+contributor: heychenbin@gmail.com
+# key: nextafter
+# group: N
+# --
+nextafter(${double X}, ${double Y});$0

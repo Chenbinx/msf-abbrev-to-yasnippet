@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigblock
+contributor: heychenbin@gmail.com
+# key: sigblock
+# group: S
+# --
+sigblock(${int MASK});$0

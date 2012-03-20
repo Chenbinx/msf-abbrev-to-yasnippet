@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getwchar
+contributor: heychenbin@gmail.com
+# key: getwchar
+# group: G
+# --
+getwchar(${void});$0

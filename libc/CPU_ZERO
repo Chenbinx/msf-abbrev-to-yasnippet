@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: CPU_ZERO
+contributor: heychenbin@gmail.com
+# key: CPU_ZERO
+# group: C
+# --
+CPU_ZERO(${cpu_set_t *SET});$0

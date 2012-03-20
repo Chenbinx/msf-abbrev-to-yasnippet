@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setbuf
+contributor: heychenbin@gmail.com
+# key: setbuf
+# group: S
+# --
+setbuf(${FILE *STREAM}, ${char *BUF});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jn
+contributor: heychenbin@gmail.com
+# key: jn
+# group: J
+# --
+jn(${int n}, ${double X});$0

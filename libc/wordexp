@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wordexp
+contributor: heychenbin@gmail.com
+# key: wordexp
+# group: W
+# --
+wordexp(${const char *WORDS}, ${wordexp_t *WORD-VECTOR-PTR}, ${int FLAGS});$0

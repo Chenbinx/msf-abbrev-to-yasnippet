@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: free
+contributor: heychenbin@gmail.com
+# key: free
+# group: F
+# --
+free(${void *PTR});$0

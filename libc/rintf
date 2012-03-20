@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rintf
+contributor: heychenbin@gmail.com
+# key: rintf
+# group: R
+# --
+rintf(${float X});$0

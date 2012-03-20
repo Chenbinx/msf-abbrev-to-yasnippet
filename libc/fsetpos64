@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fsetpos64
+contributor: heychenbin@gmail.com
+# key: fsetpos64
+# group: F
+# --
+fsetpos64(${FILE *STREAM}, ${const fpos64_t *POSITION});$0

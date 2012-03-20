@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ccos
+contributor: heychenbin@gmail.com
+# key: ccos
+# group: C
+# --
+ccos(${complex double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mlockall
+contributor: heychenbin@gmail.com
+# key: mlockall
+# group: M
+# --
+mlockall(${int FLAGS});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutex_unlock
+contributor: heychenbin@gmail.com
+# key: pthread_mutex_unlock
+# group: P
+# --
+pthread_mutex_unlock(${pthread_mutex_t *MUTEX});$0

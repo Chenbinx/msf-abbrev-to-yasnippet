@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setitimer
+contributor: heychenbin@gmail.com
+# key: setitimer
+# group: S
+# --
+setitimer(${int WHICH}, ${struct itimerval *NEW}, ${struct itimerval *OLD});$0

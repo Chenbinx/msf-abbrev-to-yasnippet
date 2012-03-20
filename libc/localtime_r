@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: localtime_r
+contributor: heychenbin@gmail.com
+# key: localtime_r
+# group: L
+# --
+localtime_r(${const time_t *TIME}, ${struct tm *RESULTP});$0

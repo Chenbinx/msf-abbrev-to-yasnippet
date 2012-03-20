@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isxdigit
+contributor: heychenbin@gmail.com
+# key: isxdigit
+# group: I
+# --
+isxdigit(${int C});$0

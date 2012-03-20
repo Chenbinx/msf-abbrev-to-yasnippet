@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pututxline
+contributor: heychenbin@gmail.com
+# key: pututxline
+# group: P
+# --
+pututxline(${const struct utmpx *UTMP});$0

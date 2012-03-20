@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argp_failure
+contributor: heychenbin@gmail.com
+# key: argp_failure
+# group: A
+# --
+argp_failure(${const struct argp_state *STATE}, ${int STATUS}, ${int ERRNUM}, ${const char *FMT}, ${...});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: modff
+contributor: heychenbin@gmail.com
+# key: modff
+# group: M
+# --
+modff(${float VALUE}, ${float *INTEGER-PART});$0

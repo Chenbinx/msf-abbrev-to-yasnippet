@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pread64
+contributor: heychenbin@gmail.com
+# key: pread64
+# group: P
+# --
+pread64(${int FILEDES}, ${void *BUFFER}, ${size_t SIZE}, ${off64_t OFFSET});$0

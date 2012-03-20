@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getline
+contributor: heychenbin@gmail.com
+# key: getline
+# group: G
+# --
+getline(${char **LINEPTR}, ${size_t *N}, ${FILE *STREAM});$0

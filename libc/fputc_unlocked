@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputc_unlocked
+contributor: heychenbin@gmail.com
+# key: fputc_unlocked
+# group: F
+# --
+fputc_unlocked(${int C}, ${FILE *STREAM});$0

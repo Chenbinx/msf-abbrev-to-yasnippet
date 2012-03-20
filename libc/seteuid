@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: seteuid
+contributor: heychenbin@gmail.com
+# key: seteuid
+# group: S
+# --
+seteuid(${uid_t NEWEUID});$0

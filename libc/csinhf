@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: csinhf
+contributor: heychenbin@gmail.com
+# key: csinhf
+# group: C
+# --
+csinhf(${complex float Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strcat
+contributor: heychenbin@gmail.com
+# key: strcat
+# group: S
+# --
+strcat(${char *restrict TO}, ${const char *restrict FROM});$0

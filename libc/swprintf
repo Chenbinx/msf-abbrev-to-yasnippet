@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: swprintf
+contributor: heychenbin@gmail.com
+# key: swprintf
+# group: S
+# --
+swprintf(${wchar_t *S}, ${size_t SIZE}, ${const wchar_t *TEMPLATE}, ${...});$0

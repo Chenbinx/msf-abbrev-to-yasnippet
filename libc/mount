@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mount
+contributor: heychenbin@gmail.com
+# key: mount
+# group: M
+# --
+mount(${const char *SPECIAL_FILE}, ${const char *DIR}, ${const char *FSTYPE}, ${unsigned long int OPTIONS}, ${const void *DATA});$0

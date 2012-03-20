@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: unsetenv
+contributor: heychenbin@gmail.com
+# key: unsetenv
+# group: U
+# --
+unsetenv(${const char *NAME});$0

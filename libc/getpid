@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpid
+contributor: heychenbin@gmail.com
+# key: getpid
+# group: G
+# --
+getpid(${void});$0

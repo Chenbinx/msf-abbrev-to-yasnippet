@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getservbyname
+contributor: heychenbin@gmail.com
+# key: getservbyname
+# group: G
+# --
+getservbyname(${const char *NAME}, ${const char *PROTO});$0

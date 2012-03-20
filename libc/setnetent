@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setnetent
+contributor: heychenbin@gmail.com
+# key: setnetent
+# group: S
+# --
+setnetent(${int STAYOPEN});$0

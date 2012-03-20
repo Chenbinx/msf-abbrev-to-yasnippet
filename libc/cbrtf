@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cbrtf
+contributor: heychenbin@gmail.com
+# key: cbrtf
+# group: C
+# --
+cbrtf(${float X});$0

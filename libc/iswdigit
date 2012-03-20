@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswdigit
+contributor: heychenbin@gmail.com
+# key: iswdigit
+# group: I
+# --
+iswdigit(${wint_t WC});$0

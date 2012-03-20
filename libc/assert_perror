@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: assert_perror
+contributor: heychenbin@gmail.com
+# key: assert_perror
+# group: A
+# --
+assert_perror(${int ERRNUM});$0

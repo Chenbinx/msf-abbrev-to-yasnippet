@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nl_langinfo
+contributor: heychenbin@gmail.com
+# key: nl_langinfo
+# group: N
+# --
+nl_langinfo(${nl_item ITEM});$0

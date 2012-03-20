@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WIFSTOPPED
+contributor: heychenbin@gmail.com
+# key: WIFSTOPPED
+# group: W
+# --
+WIFSTOPPED(${int STATUS});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: malloc
+contributor: heychenbin@gmail.com
+# key: malloc
+# group: M
+# --
+malloc(${size_t SIZE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strnlen
+contributor: heychenbin@gmail.com
+# key: strnlen
+# group: S
+# --
+strnlen(${const char *S}, ${size_t MAXLEN});$0

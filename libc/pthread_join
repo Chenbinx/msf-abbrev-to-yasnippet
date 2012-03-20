@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_join
+contributor: heychenbin@gmail.com
+# key: pthread_join
+# group: P
+# --
+pthread_join(${pthread_t TH}, ${void **thread_RETURN});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcspbrk
+contributor: heychenbin@gmail.com
+# key: wcspbrk
+# group: W
+# --
+wcspbrk(${const wchar_t *WSTRING}, ${const wchar_t *STOPSET});$0

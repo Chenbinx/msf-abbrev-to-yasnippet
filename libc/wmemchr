@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wmemchr
+contributor: heychenbin@gmail.com
+# key: wmemchr
+# group: W
+# --
+wmemchr(${const wchar_t *BLOCK}, ${wchar_t WC}, ${size_t SIZE});$0

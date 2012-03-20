@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strndupa
+contributor: heychenbin@gmail.com
+# key: strndupa
+# group: S
+# --
+strndupa(${const char *S}, ${size_t SIZE});$0

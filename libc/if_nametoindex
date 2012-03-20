@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: if_nametoindex
+contributor: heychenbin@gmail.com
+# key: if_nametoindex
+# group: I
+# --
+if_nametoindex(${const char *ifname});$0

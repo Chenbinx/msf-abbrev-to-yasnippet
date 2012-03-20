@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tgamma
+contributor: heychenbin@gmail.com
+# key: tgamma
+# group: T
+# --
+tgamma(${double X});$0

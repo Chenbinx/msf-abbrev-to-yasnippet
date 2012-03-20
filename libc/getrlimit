@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getrlimit
+contributor: heychenbin@gmail.com
+# key: getrlimit
+# group: G
+# --
+getrlimit(${int RESOURCE}, ${struct rlimit *RLP});$0

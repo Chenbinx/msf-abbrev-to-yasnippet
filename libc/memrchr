@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memrchr
+contributor: heychenbin@gmail.com
+# key: memrchr
+# group: M
+# --
+memrchr(${const void *BLOCK}, ${int C}, ${size_t SIZE});$0

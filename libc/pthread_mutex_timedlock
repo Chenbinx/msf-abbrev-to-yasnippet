@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutex_timedlock
+contributor: heychenbin@gmail.com
+# key: pthread_mutex_timedlock
+# group: P
+# --
+pthread_mutex_timedlock(${pthread_mutex_t *MUTEX}, ${const struct timespec *ABSTIME});$0

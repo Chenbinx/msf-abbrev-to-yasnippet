@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: timelocal
+contributor: heychenbin@gmail.com
+# key: timelocal
+# group: T
+# --
+timelocal(${struct tm *BROKENTIME});$0

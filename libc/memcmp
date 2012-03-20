@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memcmp
+contributor: heychenbin@gmail.com
+# key: memcmp
+# group: M
+# --
+memcmp(${const void *A1}, ${const void *A2}, ${size_t SIZE});$0

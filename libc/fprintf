@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fprintf
+contributor: heychenbin@gmail.com
+# key: fprintf
+# group: F
+# --
+fprintf(${FILE *STREAM}, ${const char *TEMPLATE}, ${...});$0

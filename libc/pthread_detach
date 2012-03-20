@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_detach
+contributor: heychenbin@gmail.com
+# key: pthread_detach
+# group: P
+# --
+pthread_detach(${pthread_t TH});$0

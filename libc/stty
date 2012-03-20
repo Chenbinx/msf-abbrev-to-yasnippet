@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: stty
+contributor: heychenbin@gmail.com
+# key: stty
+# group: S
+# --
+stty(${int FILEDES}, ${struct sgttyb * attributes});$0

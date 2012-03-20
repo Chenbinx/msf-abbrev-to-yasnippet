@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: regfree
+contributor: heychenbin@gmail.com
+# key: regfree
+# group: R
+# --
+regfree(${regex_t *COMPILED});$0

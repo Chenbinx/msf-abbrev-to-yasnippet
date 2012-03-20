@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ntohs
+contributor: heychenbin@gmail.com
+# key: ntohs
+# group: N
+# --
+ntohs(${uint16_t NETSHORT});$0

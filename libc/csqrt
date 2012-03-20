@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: csqrt
+contributor: heychenbin@gmail.com
+# key: csqrt
+# group: C
+# --
+csqrt(${complex double Z});$0

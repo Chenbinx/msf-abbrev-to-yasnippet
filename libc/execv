@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: execv
+contributor: heychenbin@gmail.com
+# key: execv
+# group: E
+# --
+execv(${const char *FILENAME}, ${char *const ARGV[]});$0

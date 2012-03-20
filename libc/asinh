@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asinh
+contributor: heychenbin@gmail.com
+# key: asinh
+# group: A
+# --
+asinh(${double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: endnetent
+contributor: heychenbin@gmail.com
+# key: endnetent
+# group: E
+# --
+endnetent(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswblank
+contributor: heychenbin@gmail.com
+# key: iswblank
+# group: I
+# --
+iswblank(${wint_t WC});$0

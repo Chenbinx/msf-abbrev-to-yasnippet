@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: roundl
+contributor: heychenbin@gmail.com
+# key: roundl
+# group: R
+# --
+roundl(${long double X});$0

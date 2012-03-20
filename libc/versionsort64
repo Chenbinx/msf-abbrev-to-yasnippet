@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: versionsort64
+contributor: heychenbin@gmail.com
+# key: versionsort64
+# group: V
+# --
+versionsort64(${const void *A}, ${const void *B});$0

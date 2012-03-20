@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: open
+contributor: heychenbin@gmail.com
+# key: open
+# group: O
+# --
+open(${const char *FILENAME}, ${int FLAGS[}, ${mode_t MODE]});$0

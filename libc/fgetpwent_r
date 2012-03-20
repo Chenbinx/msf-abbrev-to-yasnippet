@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetpwent_r
+contributor: heychenbin@gmail.com
+# key: fgetpwent_r
+# group: F
+# --
+fgetpwent_r(${FILE *STREAM}, ${struct passwd *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct passwd **RESULT});$0

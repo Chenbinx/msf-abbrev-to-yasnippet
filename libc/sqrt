@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sqrt
+contributor: heychenbin@gmail.com
+# key: sqrt
+# group: S
+# --
+sqrt(${double X});$0

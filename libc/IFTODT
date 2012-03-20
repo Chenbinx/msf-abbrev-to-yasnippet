@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: IFTODT
+contributor: heychenbin@gmail.com
+# key: IFTODT
+# group: I
+# --
+IFTODT(${mode_t MODE});$0

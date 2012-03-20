@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tanh
+contributor: heychenbin@gmail.com
+# key: tanh
+# group: T
+# --
+tanh(${double X});$0

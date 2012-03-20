@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: basename
+contributor: heychenbin@gmail.com
+# key: basename
+# group: B
+# --
+basename(${const char *FILENAME});$0

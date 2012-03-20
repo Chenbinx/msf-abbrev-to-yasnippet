@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_once
+contributor: heychenbin@gmail.com
+# key: pthread_once
+# group: P
+# --
+pthread_once(${pthread_once_t *once_CONTROL}, ${void(}, ${*INIT_ROUTINE}, ${)(}, ${VOID}, ${)});$0

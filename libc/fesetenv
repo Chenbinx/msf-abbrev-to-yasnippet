@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fesetenv
+contributor: heychenbin@gmail.com
+# key: fesetenv
+# group: F
+# --
+fesetenv(${const fenv_t *ENVP});$0

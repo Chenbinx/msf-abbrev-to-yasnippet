@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isinfl
+contributor: heychenbin@gmail.com
+# key: isinfl
+# group: I
+# --
+isinfl(${long double X});$0

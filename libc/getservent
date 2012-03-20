@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getservent
+contributor: heychenbin@gmail.com
+# key: getservent
+# group: G
+# --
+getservent(${void});$0

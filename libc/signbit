@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: signbit
+contributor: heychenbin@gmail.com
+# key: signbit
+# group: S
+# --
+signbit(${_float-type_ X});$0

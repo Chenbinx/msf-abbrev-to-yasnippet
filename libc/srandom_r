@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: srandom_r
+contributor: heychenbin@gmail.com
+# key: srandom_r
+# group: S
+# --
+srandom_r(${unsigned int SEED}, ${struct random_data *BUF});$0

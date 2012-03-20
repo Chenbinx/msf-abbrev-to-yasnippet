@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sleep
+contributor: heychenbin@gmail.com
+# key: sleep
+# group: S
+# --
+sleep(${unsigned int SECONDS});$0

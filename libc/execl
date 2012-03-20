@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: execl
+contributor: heychenbin@gmail.com
+# key: execl
+# group: E
+# --
+execl(${const char *FILENAME}, ${const char *ARG0}, ${...});$0

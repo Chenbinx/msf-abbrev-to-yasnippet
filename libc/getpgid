@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpgid
+contributor: heychenbin@gmail.com
+# key: getpgid
+# group: G
+# --
+getpgid(${pid_t PID});$0

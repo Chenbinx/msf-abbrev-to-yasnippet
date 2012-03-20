@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scandir64
+contributor: heychenbin@gmail.com
+# key: scandir64
+# group: S
+# --
+scandir64(${const char *DIR}, ${struct dirent64 ***NAMELIST}, ${int(}, ${*SELECTOR}, ${)(}, ${CONST}, ${STRUCT}, ${DIRENT64}, ${*}, ${)}, ${int(}, ${*CMP}, ${)(}, ${CONST}, ${VOID}, ${*}, ${ }, ${CONST}, ${VOID}, ${*}, ${)});$0

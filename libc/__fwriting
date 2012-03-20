@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fwriting
+contributor: heychenbin@gmail.com
+# key: __fwriting
+# group: Others
+# --
+__fwriting(${FILE *STREAM});$0

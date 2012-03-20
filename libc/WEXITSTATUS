@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WEXITSTATUS
+contributor: heychenbin@gmail.com
+# key: WEXITSTATUS
+# group: W
+# --
+WEXITSTATUS(${int STATUS});$0

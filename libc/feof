@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: feof
+contributor: heychenbin@gmail.com
+# key: feof
+# group: F
+# --
+feof(${FILE *STREAM});$0

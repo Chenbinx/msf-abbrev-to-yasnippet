@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clock
+contributor: heychenbin@gmail.com
+# key: clock
+# group: C
+# --
+clock(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getsockopt
+contributor: heychenbin@gmail.com
+# key: getsockopt
+# group: G
+# --
+getsockopt(${int SOCKET}, ${int LEVEL}, ${int OPTNAME}, ${void *OPTVAL}, ${socklen_t *OPTLEN-PTR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wmemmove
+contributor: heychenbin@gmail.com
+# key: wmemmove
+# group: W
+# --
+wmemmove(${wchar *WTO}, ${const wchar_t *WFROM}, ${size_t SIZE});$0

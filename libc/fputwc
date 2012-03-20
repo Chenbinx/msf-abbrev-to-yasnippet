@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputwc
+contributor: heychenbin@gmail.com
+# key: fputwc
+# group: F
+# --
+fputwc(${wchar_t WC}, ${FILE *STREAM});$0

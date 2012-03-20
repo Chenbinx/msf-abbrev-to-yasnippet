@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: siglongjmp
+contributor: heychenbin@gmail.com
+# key: siglongjmp
+# group: S
+# --
+siglongjmp(${sigjmp_buf STATE}, ${int VALUE});$0

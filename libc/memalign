@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memalign
+contributor: heychenbin@gmail.com
+# key: memalign
+# group: M
+# --
+memalign(${size_t BOUNDARY}, ${size_t SIZE});$0

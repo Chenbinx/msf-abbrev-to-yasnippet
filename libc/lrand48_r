@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lrand48_r
+contributor: heychenbin@gmail.com
+# key: lrand48_r
+# group: L
+# --
+lrand48_r(${struct drand48_data *BUFFER}, ${double *RESULT});$0

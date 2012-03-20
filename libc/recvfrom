@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: recvfrom
+contributor: heychenbin@gmail.com
+# key: recvfrom
+# group: R
+# --
+recvfrom(${int SOCKET}, ${void *BUFFER}, ${size_t SIZE}, ${int FLAGS}, ${struct sockaddr *ADDR}, ${socklen_t *LENGTH-PTR});$0

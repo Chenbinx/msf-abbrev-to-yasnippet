@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: verr
+contributor: heychenbin@gmail.com
+# key: verr
+# group: V
+# --
+verr(${int STATUS}, ${const char *FORMAT}, ${va_list});$0

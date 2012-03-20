@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ioctl
+contributor: heychenbin@gmail.com
+# key: ioctl
+# group: I
+# --
+ioctl(${int FILEDES}, ${int COMMAND}, ${...});$0

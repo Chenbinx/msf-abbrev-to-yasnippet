@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mrand48_r
+contributor: heychenbin@gmail.com
+# key: mrand48_r
+# group: M
+# --
+mrand48_r(${struct drand48_data *BUFFER}, ${double *RESULT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isascii
+contributor: heychenbin@gmail.com
+# key: isascii
+# group: I
+# --
+isascii(${int C});$0

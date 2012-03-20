@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wmemcmp
+contributor: heychenbin@gmail.com
+# key: wmemcmp
+# group: W
+# --
+wmemcmp(${const wchar_t *A1}, ${const wchar_t *A2}, ${size_t SIZE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: syslog
+contributor: heychenbin@gmail.com
+# key: syslog
+# group: S
+# --
+syslog(${int FACILITY_PRIORITY}, ${char *FORMAT}, ${...});$0

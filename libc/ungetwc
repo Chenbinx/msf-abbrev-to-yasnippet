@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ungetwc
+contributor: heychenbin@gmail.com
+# key: ungetwc
+# group: U
+# --
+ungetwc(${wint_t WC}, ${FILE *STREAM});$0

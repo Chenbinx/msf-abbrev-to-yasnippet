@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cpowf
+contributor: heychenbin@gmail.com
+# key: cpowf
+# group: C
+# --
+cpowf(${complex float BASE}, ${complex float POWER});$0

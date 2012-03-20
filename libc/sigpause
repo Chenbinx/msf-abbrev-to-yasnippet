@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigpause
+contributor: heychenbin@gmail.com
+# key: sigpause
+# group: S
+# --
+sigpause(${int MASK});$0

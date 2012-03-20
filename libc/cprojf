@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cprojf
+contributor: heychenbin@gmail.com
+# key: cprojf
+# group: C
+# --
+cprojf(${complex float Z});$0

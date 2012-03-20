@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cuserid
+contributor: heychenbin@gmail.com
+# key: cuserid
+# group: C
+# --
+cuserid(${char *STRING});$0

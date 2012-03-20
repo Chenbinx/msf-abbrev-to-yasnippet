@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asin
+contributor: heychenbin@gmail.com
+# key: asin
+# group: A
+# --
+asin(${double X});$0

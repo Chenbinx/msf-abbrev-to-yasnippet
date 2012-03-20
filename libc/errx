@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: errx
+contributor: heychenbin@gmail.com
+# key: errx
+# group: E
+# --
+errx(${int STATUS}, ${const char *FORMAT}, ${...});$0

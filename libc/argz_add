@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_add
+contributor: heychenbin@gmail.com
+# key: argz_add
+# group: A
+# --
+argz_add(${char **ARGZ}, ${size_t *ARGZ_LEN}, ${const char *STR});$0

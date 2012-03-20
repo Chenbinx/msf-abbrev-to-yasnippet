@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getmntent
+contributor: heychenbin@gmail.com
+# key: getmntent
+# group: G
+# --
+getmntent(${FILE *STREAM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getsid
+contributor: heychenbin@gmail.com
+# key: getsid
+# group: G
+# --
+getsid(${pid_t PID});$0

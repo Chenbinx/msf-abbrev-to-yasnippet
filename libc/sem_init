@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sem_init
+contributor: heychenbin@gmail.com
+# key: sem_init
+# group: S
+# --
+sem_init(${sem_t *SEM}, ${int PSHARED}, ${unsigned int VALUE});$0

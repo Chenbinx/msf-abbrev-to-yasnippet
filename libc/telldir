@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: telldir
+contributor: heychenbin@gmail.com
+# key: telldir
+# group: T
+# --
+telldir(${DIR *DIRSTREAM});$0

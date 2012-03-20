@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nice
+contributor: heychenbin@gmail.com
+# key: nice
+# group: N
+# --
+nice(${int INCREMENT});$0

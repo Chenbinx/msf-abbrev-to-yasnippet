@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getdomainnname
+contributor: heychenbin@gmail.com
+# key: getdomainnname
+# group: G
+# --
+getdomainnname(${char *NAME}, ${size_t LENGTH});$0

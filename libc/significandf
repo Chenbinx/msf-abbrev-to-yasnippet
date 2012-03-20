@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: significandf
+contributor: heychenbin@gmail.com
+# key: significandf
+# group: S
+# --
+significandf(${float X});$0

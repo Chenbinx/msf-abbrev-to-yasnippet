@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmtmsg
+contributor: heychenbin@gmail.com
+# key: fmtmsg
+# group: F
+# --
+fmtmsg(${long int CLASSIFICATION}, ${const char *LABEL}, ${int SEVERITY}, ${const char *TEXT}, ${const char *ACTION}, ${const char *TAG});$0

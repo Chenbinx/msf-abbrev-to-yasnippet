@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rintl
+contributor: heychenbin@gmail.com
+# key: rintl
+# group: R
+# --
+rintl(${long double X});$0

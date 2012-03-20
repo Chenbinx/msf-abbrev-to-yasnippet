@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: unlink
+contributor: heychenbin@gmail.com
+# key: unlink
+# group: U
+# --
+unlink(${const char *FILENAME});$0

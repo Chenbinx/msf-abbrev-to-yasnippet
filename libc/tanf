@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tanf
+contributor: heychenbin@gmail.com
+# key: tanf
+# group: T
+# --
+tanf(${float X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmodf
+contributor: heychenbin@gmail.com
+# key: fmodf
+# group: F
+# --
+fmodf(${float NUMERATOR}, ${float DENOMINATOR});$0

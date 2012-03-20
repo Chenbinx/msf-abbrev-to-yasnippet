@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dreml
+contributor: heychenbin@gmail.com
+# key: dreml
+# group: D
+# --
+dreml(${long double NUMERATOR}, ${long double DENOMINATOR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_suspend
+contributor: heychenbin@gmail.com
+# key: aio_suspend
+# group: A
+# --
+aio_suspend(${const struct aiocb *const LIST[]}, ${int NENT}, ${const struct timespec *TIMEOUT});$0

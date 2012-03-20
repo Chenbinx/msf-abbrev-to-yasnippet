@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_add_sep
+contributor: heychenbin@gmail.com
+# key: argz_add_sep
+# group: A
+# --
+argz_add_sep(${char **ARGZ}, ${size_t *ARGZ_LEN}, ${const char *STR}, ${int DELIM});$0

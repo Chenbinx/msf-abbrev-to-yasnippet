@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bsearch
+contributor: heychenbin@gmail.com
+# key: bsearch
+# group: B
+# --
+bsearch(${const void *KEY}, ${const void *ARRAY}, ${size_t COUNT}, ${size_t SIZE}, ${comparison_fn_t COMPARE});$0

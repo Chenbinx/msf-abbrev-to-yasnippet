@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: warnx
+contributor: heychenbin@gmail.com
+# key: warnx
+# group: W
+# --
+warnx(${const char *FORMAT}, ${...});$0

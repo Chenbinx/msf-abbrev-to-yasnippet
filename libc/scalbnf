@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalbnf
+contributor: heychenbin@gmail.com
+# key: scalbnf
+# group: S
+# --
+scalbnf(${float X}, ${int n});$0

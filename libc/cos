@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cos
+contributor: heychenbin@gmail.com
+# key: cos
+# group: C
+# --
+cos(${double X});$0

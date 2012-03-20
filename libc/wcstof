@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstof
+contributor: heychenbin@gmail.com
+# key: wcstof
+# group: W
+# --
+wcstof(${const wchar_t *STRING}, ${wchar_t **TAILPTR});$0

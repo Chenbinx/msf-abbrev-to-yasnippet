@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mbrtowc
+contributor: heychenbin@gmail.com
+# key: mbrtowc
+# group: M
+# --
+mbrtowc(${wchar_t *restrict PWC}, ${const char *restrict S}, ${size_t N}, ${mbstate_t *restrict PS});$0

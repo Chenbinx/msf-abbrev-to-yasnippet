@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: time
+contributor: heychenbin@gmail.com
+# key: time
+# group: T
+# --
+time(${time_t *RESULT});$0

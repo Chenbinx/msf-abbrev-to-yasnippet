@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ldexp
+contributor: heychenbin@gmail.com
+# key: ldexp
+# group: L
+# --
+ldexp(${double VALUE}, ${int EXPONENT});$0

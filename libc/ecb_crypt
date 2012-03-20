@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ecb_crypt
+contributor: heychenbin@gmail.com
+# key: ecb_crypt
+# group: E
+# --
+ecb_crypt(${char *KEY}, ${char *BLOCKS}, ${unsigned LEN}, ${unsigned MODE});$0

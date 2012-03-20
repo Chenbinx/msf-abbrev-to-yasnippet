@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwent
+contributor: heychenbin@gmail.com
+# key: getpwent
+# group: G
+# --
+getpwent(${void});$0

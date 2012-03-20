@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fpurge
+contributor: heychenbin@gmail.com
+# key: __fpurge
+# group: Others
+# --
+__fpurge(${FILE *STREAM});$0

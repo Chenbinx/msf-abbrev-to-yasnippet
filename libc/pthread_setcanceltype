@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_setcanceltype
+contributor: heychenbin@gmail.com
+# key: pthread_setcanceltype
+# group: P
+# --
+pthread_setcanceltype(${int TYPE}, ${int *OLDTYPE});$0

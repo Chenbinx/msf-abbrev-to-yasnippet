@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: twalk
+contributor: heychenbin@gmail.com
+# key: twalk
+# group: T
+# --
+twalk(${const void *ROOT}, ${__action_fn_t ACTION});$0

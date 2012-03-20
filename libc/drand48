@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: drand48
+contributor: heychenbin@gmail.com
+# key: drand48
+# group: D
+# --
+drand48(${void});$0

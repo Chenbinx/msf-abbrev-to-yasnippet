@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutexattr_settype
+contributor: heychenbin@gmail.com
+# key: pthread_mutexattr_settype
+# group: P
+# --
+pthread_mutexattr_settype(${pthread_mutexattr_t *ATTR}, ${int TYPE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memfrob
+contributor: heychenbin@gmail.com
+# key: memfrob
+# group: M
+# --
+memfrob(${void *MEM}, ${size_t LENGTH});$0

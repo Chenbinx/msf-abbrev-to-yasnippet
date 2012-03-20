@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getumask
+contributor: heychenbin@gmail.com
+# key: getumask
+# group: G
+# --
+getumask(${void});$0

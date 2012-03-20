@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getnetgrent_r
+contributor: heychenbin@gmail.com
+# key: getnetgrent_r
+# group: G
+# --
+getnetgrent_r(${char **HOSTP}, ${char **USERP}, ${char **DOMAINP}, ${char *BUFFER}, ${int BUFLEN});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dirname
+contributor: heychenbin@gmail.com
+# key: dirname
+# group: D
+# --
+dirname(${char *PATH});$0

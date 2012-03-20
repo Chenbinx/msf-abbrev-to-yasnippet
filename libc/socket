@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: socket
+contributor: heychenbin@gmail.com
+# key: socket
+# group: S
+# --
+socket(${int NAMESPACE}, ${int STYLE}, ${int PROTOCOL});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_write
+contributor: heychenbin@gmail.com
+# key: aio_write
+# group: A
+# --
+aio_write(${struct aiocb *AIOCBP});$0

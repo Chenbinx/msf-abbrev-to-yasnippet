@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lcong48
+contributor: heychenbin@gmail.com
+# key: lcong48
+# group: L
+# --
+lcong48(${unsigned short int PARAM[7]});$0

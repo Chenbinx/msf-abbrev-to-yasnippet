@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_kill
+contributor: heychenbin@gmail.com
+# key: pthread_kill
+# group: P
+# --
+pthread_kill(${pthread_t THREAD}, ${int SIGNO});$0

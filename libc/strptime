@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strptime
+contributor: heychenbin@gmail.com
+# key: strptime
+# group: S
+# --
+strptime(${const char *S}, ${const char *FMT}, ${struct tm *TP});$0

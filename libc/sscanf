@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sscanf
+contributor: heychenbin@gmail.com
+# key: sscanf
+# group: S
+# --
+sscanf(${const char *S}, ${const char *TEMPLATE}, ${...});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: listen
+contributor: heychenbin@gmail.com
+# key: listen
+# group: L
+# --
+listen(${int SOCKET}, ${unsigned int N});$0

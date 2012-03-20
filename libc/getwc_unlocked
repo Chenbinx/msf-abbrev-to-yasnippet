@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getwc_unlocked
+contributor: heychenbin@gmail.com
+# key: getwc_unlocked
+# group: G
+# --
+getwc_unlocked(${FILE *STREAM});$0

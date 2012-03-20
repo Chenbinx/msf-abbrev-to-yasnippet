@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strerror
+contributor: heychenbin@gmail.com
+# key: strerror
+# group: S
+# --
+strerror(${int ERRNUM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pathconf
+contributor: heychenbin@gmail.com
+# key: pathconf
+# group: P
+# --
+pathconf(${const char *FILENAME}, ${int PARAMETER});$0

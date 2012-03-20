@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigismember
+contributor: heychenbin@gmail.com
+# key: sigismember
+# group: S
+# --
+sigismember(${const sigset_t *SET}, ${int SIGNUM});$0

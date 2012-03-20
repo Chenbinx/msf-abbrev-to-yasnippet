@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vfwprintf
+contributor: heychenbin@gmail.com
+# key: vfwprintf
+# group: V
+# --
+vfwprintf(${FILE *STREAM}, ${const wchar_t *TEMPLATE}, ${va_list AP});$0

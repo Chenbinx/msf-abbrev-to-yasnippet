@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strxfrm
+contributor: heychenbin@gmail.com
+# key: strxfrm
+# group: S
+# --
+strxfrm(${char *restrict TO}, ${const char *restrict FROM}, ${size_t SIZE});$0

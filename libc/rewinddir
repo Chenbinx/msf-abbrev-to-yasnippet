@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rewinddir
+contributor: heychenbin@gmail.com
+# key: rewinddir
+# group: R
+# --
+rewinddir(${DIR *DIRSTREAM});$0

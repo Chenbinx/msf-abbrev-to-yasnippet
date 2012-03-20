@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fcvt
+contributor: heychenbin@gmail.com
+# key: fcvt
+# group: F
+# --
+fcvt(${double VALUE}, ${int NDIGIT}, ${int *DECPT}, ${int *NEG});$0

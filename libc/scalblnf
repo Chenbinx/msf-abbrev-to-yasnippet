@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalblnf
+contributor: heychenbin@gmail.com
+# key: scalblnf
+# group: S
+# --
+scalblnf(${float X}, ${long int n});$0

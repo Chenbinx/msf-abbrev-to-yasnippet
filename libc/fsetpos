@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fsetpos
+contributor: heychenbin@gmail.com
+# key: fsetpos
+# group: F
+# --
+fsetpos(${FILE *STREAM}, ${const fpos_t *POSITION});$0

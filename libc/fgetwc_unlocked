@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetwc_unlocked
+contributor: heychenbin@gmail.com
+# key: fgetwc_unlocked
+# group: F
+# --
+fgetwc_unlocked(${FILE *STREAM});$0

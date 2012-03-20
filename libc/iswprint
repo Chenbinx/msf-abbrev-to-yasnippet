@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswprint
+contributor: heychenbin@gmail.com
+# key: iswprint
+# group: I
+# --
+iswprint(${wint_t WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcsendbreak
+contributor: heychenbin@gmail.com
+# key: tcsendbreak
+# group: T
+# --
+tcsendbreak(${int FILEDES}, ${int DURATION});$0

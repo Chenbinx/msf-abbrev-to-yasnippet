@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstoull
+contributor: heychenbin@gmail.com
+# key: wcstoull
+# group: W
+# --
+wcstoull(${const wchar_t *restrict STRING}, ${wchar_t **restrict TAILPTR}, ${int BASE});$0

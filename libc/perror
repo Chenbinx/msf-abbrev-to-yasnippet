@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: perror
+contributor: heychenbin@gmail.com
+# key: perror
+# group: P
+# --
+perror(${const char *MESSAGE});$0

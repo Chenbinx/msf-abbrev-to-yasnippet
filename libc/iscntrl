@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iscntrl
+contributor: heychenbin@gmail.com
+# key: iscntrl
+# group: I
+# --
+iscntrl(${int C});$0

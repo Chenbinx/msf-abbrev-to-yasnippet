@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmaxl
+contributor: heychenbin@gmail.com
+# key: fmaxl
+# group: F
+# --
+fmaxl(${long double X}, ${long double Y});$0

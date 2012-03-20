@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwuid_r
+contributor: heychenbin@gmail.com
+# key: getpwuid_r
+# group: G
+# --
+getpwuid_r(${uid_t UID}, ${struct passwd *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct passwd **RESULT});$0

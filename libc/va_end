@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: va_end
+contributor: heychenbin@gmail.com
+# key: va_end
+# group: V
+# --
+va_end(${va_list AP});$0

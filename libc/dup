@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dup
+contributor: heychenbin@gmail.com
+# key: dup
+# group: D
+# --
+dup(${int OLD});$0

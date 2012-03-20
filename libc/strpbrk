@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strpbrk
+contributor: heychenbin@gmail.com
+# key: strpbrk
+# group: S
+# --
+strpbrk(${const char *STRING}, ${const char *STOPSET});$0

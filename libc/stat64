@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: stat64
+contributor: heychenbin@gmail.com
+# key: stat64
+# group: S
+# --
+stat64(${const char *FILENAME}, ${struct stat64 *BUF});$0

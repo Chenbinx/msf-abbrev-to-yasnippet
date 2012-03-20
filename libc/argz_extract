@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_extract
+contributor: heychenbin@gmail.com
+# key: argz_extract
+# group: A
+# --
+argz_extract(${char *ARGZ}, ${size_t ARGZ_LEN}, ${char **ARGV});$0

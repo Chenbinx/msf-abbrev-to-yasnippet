@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nftw64
+contributor: heychenbin@gmail.com
+# key: nftw64
+# group: N
+# --
+nftw64(${const char *FILENAME}, ${__nftw64_func_t FUNC}, ${int DESCRIPTORS}, ${int FLAG});$0

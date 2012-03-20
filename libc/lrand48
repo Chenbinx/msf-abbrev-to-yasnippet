@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lrand48
+contributor: heychenbin@gmail.com
+# key: lrand48
+# group: L
+# --
+lrand48(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fopencookie
+contributor: heychenbin@gmail.com
+# key: fopencookie
+# group: F
+# --
+fopencookie(${void *COOKIE}, ${const char *OPENTYPE}, ${cookie_io_functions_t IO-FUNCTIONS});$0

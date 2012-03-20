@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_network
+contributor: heychenbin@gmail.com
+# key: inet_network
+# group: I
+# --
+inet_network(${const char *NAME});$0

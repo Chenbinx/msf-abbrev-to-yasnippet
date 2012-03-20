@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putc
+contributor: heychenbin@gmail.com
+# key: putc
+# group: P
+# --
+putc(${int C}, ${FILE *STREAM});$0

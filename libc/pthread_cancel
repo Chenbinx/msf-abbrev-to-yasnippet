@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cancel
+contributor: heychenbin@gmail.com
+# key: pthread_cancel
+# group: P
+# --
+pthread_cancel(${pthread_t THREAD});$0

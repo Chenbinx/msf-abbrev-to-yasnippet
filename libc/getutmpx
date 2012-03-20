@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutmpx
+contributor: heychenbin@gmail.com
+# key: getutmpx
+# group: G
+# --
+getutmpx(${const struct utmp *utmp}, ${struct utmpx *utmpx});$0

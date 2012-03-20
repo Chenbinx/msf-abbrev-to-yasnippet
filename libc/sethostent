@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sethostent
+contributor: heychenbin@gmail.com
+# key: sethostent
+# group: S
+# --
+sethostent(${int STAYOPEN});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cacoshf
+contributor: heychenbin@gmail.com
+# key: cacoshf
+# group: C
+# --
+cacoshf(${complex float Z});$0

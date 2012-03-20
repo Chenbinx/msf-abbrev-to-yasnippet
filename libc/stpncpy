@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: stpncpy
+contributor: heychenbin@gmail.com
+# key: stpncpy
+# group: S
+# --
+stpncpy(${char *restrict TO}, ${const char *restrict FROM}, ${size_t SIZE});$0

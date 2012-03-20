@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: umount
+contributor: heychenbin@gmail.com
+# key: umount
+# group: U
+# --
+umount(${const char *FILE});$0

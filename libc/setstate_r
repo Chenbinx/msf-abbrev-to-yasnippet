@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setstate_r
+contributor: heychenbin@gmail.com
+# key: setstate_r
+# group: S
+# --
+setstate_r(${char *restrict STATEBUF}, ${struct random_data *restrict BUF});$0

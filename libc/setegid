@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setegid
+contributor: heychenbin@gmail.com
+# key: setegid
+# group: S
+# --
+setegid(${gid_t NEWGID});$0

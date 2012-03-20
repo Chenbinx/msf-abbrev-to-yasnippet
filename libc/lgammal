@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgammal
+contributor: heychenbin@gmail.com
+# key: lgammal
+# group: L
+# --
+lgammal(${long double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgamma_r
+contributor: heychenbin@gmail.com
+# key: lgamma_r
+# group: L
+# --
+lgamma_r(${double X}, ${int *SIGNP});$0

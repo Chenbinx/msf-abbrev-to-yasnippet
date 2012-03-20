@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sendmsg
+contributor: heychenbin@gmail.com
+# key: sendmsg
+# group: S
+# --
+sendmsg(${int SOCKET}, ${const struct msghdr *MESSAGE}, ${int FLAGS});$0

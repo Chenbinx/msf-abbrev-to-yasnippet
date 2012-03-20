@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: catanh
+contributor: heychenbin@gmail.com
+# key: catanh
+# group: C
+# --
+catanh(${complex double Z});$0

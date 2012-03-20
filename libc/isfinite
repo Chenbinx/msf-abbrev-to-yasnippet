@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isfinite
+contributor: heychenbin@gmail.com
+# key: isfinite
+# group: I
+# --
+isfinite(${_float-type_ X});$0

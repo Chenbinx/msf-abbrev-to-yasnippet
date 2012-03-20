@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isgreater
+contributor: heychenbin@gmail.com
+# key: isgreater
+# group: I
+# --
+isgreater(${_real-floating_ X}, ${_real-floating_ Y});$0

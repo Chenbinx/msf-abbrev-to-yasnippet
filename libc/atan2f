@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atan2f
+contributor: heychenbin@gmail.com
+# key: atan2f
+# group: A
+# --
+atan2f(${float Y}, ${float X});$0

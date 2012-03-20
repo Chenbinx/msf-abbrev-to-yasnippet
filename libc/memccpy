@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: memccpy
+contributor: heychenbin@gmail.com
+# key: memccpy
+# group: M
+# --
+memccpy(${void *restrict TO}, ${const void *restrict FROM}, ${int C}, ${size_t SIZE});$0

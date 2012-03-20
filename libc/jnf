@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jnf
+contributor: heychenbin@gmail.com
+# key: jnf
+# group: J
+# --
+jnf(${int n}, ${float X});$0

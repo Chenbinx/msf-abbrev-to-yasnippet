@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_copy
+contributor: heychenbin@gmail.com
+# key: obstack_copy
+# group: O
+# --
+obstack_copy(${struct obstack *OBSTACK-PTR}, ${void *ADDRESS}, ${int SIZE});$0

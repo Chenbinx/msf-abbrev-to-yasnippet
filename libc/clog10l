@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clog10l
+contributor: heychenbin@gmail.com
+# key: clog10l
+# group: C
+# --
+clog10l(${complex long double Z});$0

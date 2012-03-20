@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: srand48_r
+contributor: heychenbin@gmail.com
+# key: srand48_r
+# group: S
+# --
+srand48_r(${long int SEEDVAL}, ${struct drand48_data *BUFFER});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctanf
+contributor: heychenbin@gmail.com
+# key: ctanf
+# group: C
+# --
+ctanf(${complex float Z});$0

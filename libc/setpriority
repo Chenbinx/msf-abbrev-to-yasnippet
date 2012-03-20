@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setpriority
+contributor: heychenbin@gmail.com
+# key: setpriority
+# group: S
+# --
+setpriority(${int CLASS}, ${int ID}, ${int NICEVAL});$0

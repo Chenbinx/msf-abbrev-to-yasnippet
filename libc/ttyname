@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ttyname
+contributor: heychenbin@gmail.com
+# key: ttyname
+# group: T
+# --
+ttyname(${int FILEDES});$0

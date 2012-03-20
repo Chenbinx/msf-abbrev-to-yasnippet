@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WSTOPSIG
+contributor: heychenbin@gmail.com
+# key: WSTOPSIG
+# group: W
+# --
+WSTOPSIG(${int STATUS});$0

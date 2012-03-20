@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutline
+contributor: heychenbin@gmail.com
+# key: getutline
+# group: G
+# --
+getutline(${const struct utmp *LINE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_stringify
+contributor: heychenbin@gmail.com
+# key: argz_stringify
+# group: A
+# --
+argz_stringify(${char *ARGZ}, ${size_t LEN}, ${int SEP});$0

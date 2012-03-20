@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sysconf
+contributor: heychenbin@gmail.com
+# key: sysconf
+# group: S
+# --
+sysconf(${int PARAMETER});$0

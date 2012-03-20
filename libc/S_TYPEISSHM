@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_TYPEISSHM
+contributor: heychenbin@gmail.com
+# key: S_TYPEISSHM
+# group: S
+# --
+S_TYPEISSHM(${struct stat *S});$0

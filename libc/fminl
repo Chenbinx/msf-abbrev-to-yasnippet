@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fminl
+contributor: heychenbin@gmail.com
+# key: fminl
+# group: F
+# --
+fminl(${long double X}, ${long double Y});$0

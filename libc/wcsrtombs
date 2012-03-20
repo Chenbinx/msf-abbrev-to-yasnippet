@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsrtombs
+contributor: heychenbin@gmail.com
+# key: wcsrtombs
+# group: W
+# --
+wcsrtombs(${char *restrict DST}, ${const wchar_t **restrict SRC}, ${size_t LEN}, ${mbstate_t *restrict PS});$0

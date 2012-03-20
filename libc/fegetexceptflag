@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fegetexceptflag
+contributor: heychenbin@gmail.com
+# key: fegetexceptflag
+# group: F
+# --
+fegetexceptflag(${fexcept_t *FLAGP}, ${int EXCEPTS});$0

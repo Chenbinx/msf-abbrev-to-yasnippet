@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: alloca
+contributor: heychenbin@gmail.com
+# key: alloca
+# group: A
+# --
+alloca(${size_t SIZE});$0

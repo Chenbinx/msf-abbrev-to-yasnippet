@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: frexp
+contributor: heychenbin@gmail.com
+# key: frexp
+# group: F
+# --
+frexp(${double VALUE}, ${int *EXPONENT});$0

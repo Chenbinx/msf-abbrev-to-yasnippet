@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isdigit
+contributor: heychenbin@gmail.com
+# key: isdigit
+# group: I
+# --
+isdigit(${int C});$0

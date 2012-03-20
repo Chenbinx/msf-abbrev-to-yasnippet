@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cbc_crypt
+contributor: heychenbin@gmail.com
+# key: cbc_crypt
+# group: C
+# --
+cbc_crypt(${char *KEY}, ${char *BLOCKS}, ${unsigned LEN}, ${unsigned MODE}, ${char *IVEC});$0

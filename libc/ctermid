@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctermid
+contributor: heychenbin@gmail.com
+# key: ctermid
+# group: C
+# --
+ctermid(${char *STRING});$0

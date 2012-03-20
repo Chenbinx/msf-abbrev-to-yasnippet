@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pclose
+contributor: heychenbin@gmail.com
+# key: pclose
+# group: P
+# --
+pclose(${FILE *STREAM});$0

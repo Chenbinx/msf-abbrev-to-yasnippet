@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: FD_SET
+contributor: heychenbin@gmail.com
+# key: FD_SET
+# group: F
+# --
+FD_SET(${int FILEDES}, ${fd_set *SET});$0

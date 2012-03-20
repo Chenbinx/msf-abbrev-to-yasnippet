@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logwtmp
+contributor: heychenbin@gmail.com
+# key: logwtmp
+# group: L
+# --
+logwtmp(${const char *UT_LINE}, ${const char *UT_NAME}, ${const char *UT_HOST});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: on_exit
+contributor: heychenbin@gmail.com
+# key: on_exit
+# group: O
+# --
+on_exit(${void(}, ${*FUNCTION}, ${)(}, ${INT}, ${STATUS}, ${ }, ${VOID}, ${*ARG}, ${)}, ${void *ARG});$0

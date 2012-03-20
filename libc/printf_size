@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: printf_size
+contributor: heychenbin@gmail.com
+# key: printf_size
+# group: P
+# --
+printf_size(${FILE *FP}, ${const struct printf_info *INFO}, ${const void *const *ARGS});$0

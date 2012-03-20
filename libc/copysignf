@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: copysignf
+contributor: heychenbin@gmail.com
+# key: copysignf
+# group: C
+# --
+copysignf(${float X}, ${float Y});$0

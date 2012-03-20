@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isnanl
+contributor: heychenbin@gmail.com
+# key: isnanl
+# group: I
+# --
+isnanl(${long double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: kill
+contributor: heychenbin@gmail.com
+# key: kill
+# group: K
+# --
+kill(${pid_t PID}, ${int SIGNUM});$0

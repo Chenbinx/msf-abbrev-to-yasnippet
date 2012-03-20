@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: if_nameindex
+contributor: heychenbin@gmail.com
+# key: if_nameindex
+# group: I
+# --
+if_nameindex(${void});$0

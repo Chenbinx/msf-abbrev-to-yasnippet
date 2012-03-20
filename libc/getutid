@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutid
+contributor: heychenbin@gmail.com
+# key: getutid
+# group: G
+# --
+getutid(${const struct utmp *ID});$0

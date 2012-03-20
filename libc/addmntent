@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: addmntent
+contributor: heychenbin@gmail.com
+# key: addmntent
+# group: A
+# --
+addmntent(${FILE *STREAM}, ${const struct mntent *MNT});$0

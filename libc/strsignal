@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strsignal
+contributor: heychenbin@gmail.com
+# key: strsignal
+# group: S
+# --
+strsignal(${int SIGNUM});$0

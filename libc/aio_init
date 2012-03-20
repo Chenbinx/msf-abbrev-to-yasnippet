@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_init
+contributor: heychenbin@gmail.com
+# key: aio_init
+# group: A
+# --
+aio_init(${const struct aioinit *INIT});$0

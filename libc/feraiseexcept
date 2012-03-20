@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: feraiseexcept
+contributor: heychenbin@gmail.com
+# key: feraiseexcept
+# group: F
+# --
+feraiseexcept(${int EXCEPTS});$0

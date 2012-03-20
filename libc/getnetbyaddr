@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getnetbyaddr
+contributor: heychenbin@gmail.com
+# key: getnetbyaddr
+# group: G
+# --
+getnetbyaddr(${unsigned long int NET}, ${int TYPE});$0

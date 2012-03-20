@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setbuffer
+contributor: heychenbin@gmail.com
+# key: setbuffer
+# group: S
+# --
+setbuffer(${FILE *STREAM}, ${char *BUF}, ${size_t SIZE});$0

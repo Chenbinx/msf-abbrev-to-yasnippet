@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: conjf
+contributor: heychenbin@gmail.com
+# key: conjf
+# group: C
+# --
+conjf(${complex float Z});$0

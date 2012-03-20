@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: _flushlbf
+contributor: heychenbin@gmail.com
+# key: _flushlbf
+# group: Others
+# --
+_flushlbf(${void});$0

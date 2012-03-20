@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtok_r
+contributor: heychenbin@gmail.com
+# key: strtok_r
+# group: S
+# --
+strtok_r(${char *NEWSTRING}, ${const char *DELIMITERS}, ${char **SAVE_PTR});$0

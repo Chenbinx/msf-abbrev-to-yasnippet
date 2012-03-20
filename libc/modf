@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: modf
+contributor: heychenbin@gmail.com
+# key: modf
+# group: M
+# --
+modf(${double VALUE}, ${double *INTEGER-PART});$0

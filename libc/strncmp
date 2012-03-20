@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strncmp
+contributor: heychenbin@gmail.com
+# key: strncmp
+# group: S
+# --
+strncmp(${const char *S1}, ${const char *S2}, ${size_t SIZE});$0

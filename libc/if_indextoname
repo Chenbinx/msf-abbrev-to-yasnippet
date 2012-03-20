@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: if_indextoname
+contributor: heychenbin@gmail.com
+# key: if_indextoname
+# group: I
+# --
+if_indextoname(${unsigned int ifindex}, ${char *ifname});$0

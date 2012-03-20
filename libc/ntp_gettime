@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ntp_gettime
+contributor: heychenbin@gmail.com
+# key: ntp_gettime
+# group: N
+# --
+ntp_gettime(${struct ntptimeval *TPTR});$0

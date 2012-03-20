@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gammal
+contributor: heychenbin@gmail.com
+# key: gammal
+# group: G
+# --
+gammal(${long double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsdup
+contributor: heychenbin@gmail.com
+# key: wcsdup
+# group: W
+# --
+wcsdup(${const wchar_t *WS});$0

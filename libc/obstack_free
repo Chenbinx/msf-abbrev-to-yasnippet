@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_free
+contributor: heychenbin@gmail.com
+# key: obstack_free
+# group: O
+# --
+obstack_free(${struct obstack *OBSTACK-PTR}, ${void *OBJECT});$0

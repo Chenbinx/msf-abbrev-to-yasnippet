@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: grantpt
+contributor: heychenbin@gmail.com
+# key: grantpt
+# group: G
+# --
+grantpt(${int FILEDES});$0

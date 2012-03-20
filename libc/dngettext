@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dngettext
+contributor: heychenbin@gmail.com
+# key: dngettext
+# group: D
+# --
+dngettext(${const char *DOMAIN}, ${const char *MSGID1}, ${const char *MSGID2}, ${unsigned long int N});$0

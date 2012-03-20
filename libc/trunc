@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: trunc
+contributor: heychenbin@gmail.com
+# key: trunc
+# group: T
+# --
+trunc(${double X});$0

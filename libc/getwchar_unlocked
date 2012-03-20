@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getwchar_unlocked
+contributor: heychenbin@gmail.com
+# key: getwchar_unlocked
+# group: G
+# --
+getwchar_unlocked(${void});$0

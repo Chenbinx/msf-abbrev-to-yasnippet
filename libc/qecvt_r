@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: qecvt_r
+contributor: heychenbin@gmail.com
+# key: qecvt_r
+# group: Q
+# --
+qecvt_r(${long double VALUE}, ${int NDIGIT}, ${int *DECPT}, ${int *NEG}, ${char *BUF}, ${size_t LEN});$0

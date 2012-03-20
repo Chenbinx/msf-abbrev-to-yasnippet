@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pause
+contributor: heychenbin@gmail.com
+# key: pause
+# group: P
+# --
+pause(<field "">);$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hcreate
+contributor: heychenbin@gmail.com
+# key: hcreate
+# group: H
+# --
+hcreate(${size_t NEL});$0

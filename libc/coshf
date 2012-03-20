@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: coshf
+contributor: heychenbin@gmail.com
+# key: coshf
+# group: C
+# --
+coshf(${float X});$0

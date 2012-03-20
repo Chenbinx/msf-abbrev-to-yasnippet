@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigaltstack
+contributor: heychenbin@gmail.com
+# key: sigaltstack
+# group: S
+# --
+sigaltstack(${const stack_t *restrict STACK}, ${stack_t *restrict OLDSTACK});$0

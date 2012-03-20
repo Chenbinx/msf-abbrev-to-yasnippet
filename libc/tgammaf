@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tgammaf
+contributor: heychenbin@gmail.com
+# key: tgammaf
+# group: T
+# --
+tgammaf(${float X});$0

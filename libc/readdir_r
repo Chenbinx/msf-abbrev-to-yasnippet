@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readdir_r
+contributor: heychenbin@gmail.com
+# key: readdir_r
+# group: R
+# --
+readdir_r(${DIR *DIRSTREAM}, ${struct dirent *ENTRY}, ${struct dirent **RESULT});$0

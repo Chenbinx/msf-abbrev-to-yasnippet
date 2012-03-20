@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fwritable
+contributor: heychenbin@gmail.com
+# key: __fwritable
+# group: Others
+# --
+__fwritable(${FILE *STREAM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asctime_r
+contributor: heychenbin@gmail.com
+# key: asctime_r
+# group: A
+# --
+asctime_r(${const struct tm *BROKENTIME}, ${char *BUFFER});$0

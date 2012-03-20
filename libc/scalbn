@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalbn
+contributor: heychenbin@gmail.com
+# key: scalbn
+# group: S
+# --
+scalbn(${double X}, ${int n});$0

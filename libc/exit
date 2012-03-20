@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: exit
+contributor: heychenbin@gmail.com
+# key: exit
+# group: E
+# --
+exit(${int STATUS});$0

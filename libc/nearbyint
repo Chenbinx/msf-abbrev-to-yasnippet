@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nearbyint
+contributor: heychenbin@gmail.com
+# key: nearbyint
+# group: N
+# --
+nearbyint(${double X});$0

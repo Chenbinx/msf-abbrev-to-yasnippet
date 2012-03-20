@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: copysignl
+contributor: heychenbin@gmail.com
+# key: copysignl
+# group: C
+# --
+copysignl(${long double X}, ${long double Y});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_error64
+contributor: heychenbin@gmail.com
+# key: aio_error64
+# group: A
+# --
+aio_error64(${const struct aiocb64 *AIOCBP});$0

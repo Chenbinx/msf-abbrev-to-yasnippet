@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mktemp
+contributor: heychenbin@gmail.com
+# key: mktemp
+# group: M
+# --
+mktemp(${char *TEMPLATE});$0

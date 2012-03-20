@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_int_grow
+contributor: heychenbin@gmail.com
+# key: obstack_int_grow
+# group: O
+# --
+obstack_int_grow(${struct obstack *OBSTACK-PTR}, ${int DATA});$0

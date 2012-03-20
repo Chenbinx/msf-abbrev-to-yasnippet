@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: execvp
+contributor: heychenbin@gmail.com
+# key: execvp
+# group: E
+# --
+execvp(${const char *FILENAME}, ${char *const ARGV[]});$0

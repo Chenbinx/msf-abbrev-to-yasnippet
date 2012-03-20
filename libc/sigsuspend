@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigsuspend
+contributor: heychenbin@gmail.com
+# key: sigsuspend
+# group: S
+# --
+sigsuspend(${const sigset_t *SET});$0

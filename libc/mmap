@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mmap
+contributor: heychenbin@gmail.com
+# key: mmap
+# group: M
+# --
+mmap(${void *ADDRESS}, ${size_t LENGTH}, ${int PROTECT}, ${int FLAGS}, ${int FILEDES}, ${off_t OFFSET});$0

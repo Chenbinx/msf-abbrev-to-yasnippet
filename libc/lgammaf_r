@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgammaf_r
+contributor: heychenbin@gmail.com
+# key: lgammaf_r
+# group: L
+# --
+lgammaf_r(${float X}, ${int *SIGNP});$0

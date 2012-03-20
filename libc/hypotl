@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hypotl
+contributor: heychenbin@gmail.com
+# key: hypotl
+# group: H
+# --
+hypotl(${long double X}, ${long double Y});$0

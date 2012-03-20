@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: symlink
+contributor: heychenbin@gmail.com
+# key: symlink
+# group: S
+# --
+symlink(${const char *OLDNAME}, ${const char *NEWNAME});$0

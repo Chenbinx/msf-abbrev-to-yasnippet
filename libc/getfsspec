@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getfsspec
+contributor: heychenbin@gmail.com
+# key: getfsspec
+# group: G
+# --
+getfsspec(${const char *NAME});$0

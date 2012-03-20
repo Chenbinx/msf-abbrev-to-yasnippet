@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcgetattr
+contributor: heychenbin@gmail.com
+# key: tcgetattr
+# group: T
+# --
+tcgetattr(${int FILEDES}, ${struct termios *TERMIOS-P});$0

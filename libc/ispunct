@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ispunct
+contributor: heychenbin@gmail.com
+# key: ispunct
+# group: I
+# --
+ispunct(${int C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cproj
+contributor: heychenbin@gmail.com
+# key: cproj
+# group: C
+# --
+cproj(${complex double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ynf
+contributor: heychenbin@gmail.com
+# key: ynf
+# group: Y
+# --
+ynf(${int n}, ${float X});$0

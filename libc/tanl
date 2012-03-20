@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tanl
+contributor: heychenbin@gmail.com
+# key: tanl
+# group: T
+# --
+tanl(${long double X});$0

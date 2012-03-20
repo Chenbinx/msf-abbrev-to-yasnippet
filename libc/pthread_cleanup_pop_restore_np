@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cleanup_pop_restore_np
+contributor: heychenbin@gmail.com
+# key: pthread_cleanup_pop_restore_np
+# group: P
+# --
+pthread_cleanup_pop_restore_np(${int EXECUTE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fma
+contributor: heychenbin@gmail.com
+# key: fma
+# group: F
+# --
+fma(${double X}, ${double Y}, ${double Z});$0

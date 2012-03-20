@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sinhf
+contributor: heychenbin@gmail.com
+# key: sinhf
+# group: S
+# --
+sinhf(${float X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argp_usage
+contributor: heychenbin@gmail.com
+# key: argp_usage
+# group: A
+# --
+argp_usage(${const struct argp_state *STATE});$0

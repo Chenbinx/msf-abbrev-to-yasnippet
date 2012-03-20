@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sendto
+contributor: heychenbin@gmail.com
+# key: sendto
+# group: S
+# --
+sendto(${int SOCKET}, ${void *BUFFER. size_t SIZE}, ${int FLAGS}, ${struct sockaddr *ADDR}, ${socklen_t LENGTH});$0

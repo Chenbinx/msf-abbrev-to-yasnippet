@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putenv
+contributor: heychenbin@gmail.com
+# key: putenv
+# group: P
+# --
+putenv(${char *STRING});$0

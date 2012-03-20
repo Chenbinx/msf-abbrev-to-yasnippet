@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bzero
+contributor: heychenbin@gmail.com
+# key: bzero
+# group: B
+# --
+bzero(${void *BLOCK}, ${size_t SIZE});$0

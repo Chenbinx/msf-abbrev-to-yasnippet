@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_key_delete
+contributor: heychenbin@gmail.com
+# key: pthread_key_delete
+# group: P
+# --
+pthread_key_delete(${pthread_key_t KEY});$0

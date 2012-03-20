@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_cancel
+contributor: heychenbin@gmail.com
+# key: aio_cancel
+# group: A
+# --
+aio_cancel(${int FILDES}, ${struct aiocb *AIOCBP});$0

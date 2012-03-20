@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gmtime_r
+contributor: heychenbin@gmail.com
+# key: gmtime_r
+# group: G
+# --
+gmtime_r(${const time_t *TIME}, ${struct tm *RESULTP});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: scalblnl
+contributor: heychenbin@gmail.com
+# key: scalblnl
+# group: S
+# --
+scalblnl(${long double X}, ${long int n});$0

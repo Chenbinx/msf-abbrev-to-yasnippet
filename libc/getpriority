@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpriority
+contributor: heychenbin@gmail.com
+# key: getpriority
+# group: G
+# --
+getpriority(${int CLASS}, ${int ID});$0

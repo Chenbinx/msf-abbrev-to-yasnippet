@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: casinh
+contributor: heychenbin@gmail.com
+# key: casinh
+# group: C
+# --
+casinh(${complex double Z});$0

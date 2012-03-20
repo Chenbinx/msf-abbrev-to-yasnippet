@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: DES_FAILED
+contributor: heychenbin@gmail.com
+# key: DES_FAILED
+# group: D
+# --
+DES_FAILED(${int ERR});$0

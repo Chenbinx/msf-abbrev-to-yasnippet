@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fpathconf
+contributor: heychenbin@gmail.com
+# key: fpathconf
+# group: F
+# --
+fpathconf(${int FILEDES}, ${int PARAMETER});$0

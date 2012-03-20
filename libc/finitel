@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: finitel
+contributor: heychenbin@gmail.com
+# key: finitel
+# group: F
+# --
+finitel(${long double X});$0

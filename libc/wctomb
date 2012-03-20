@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wctomb
+contributor: heychenbin@gmail.com
+# key: wctomb
+# group: W
+# --
+wctomb(${char *STRING}, ${wchar_t WCHAR});$0

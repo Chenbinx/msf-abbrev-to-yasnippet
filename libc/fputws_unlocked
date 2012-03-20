@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputws_unlocked
+contributor: heychenbin@gmail.com
+# key: fputws_unlocked
+# group: F
+# --
+fputws_unlocked(${const wchar_t *WS}, ${FILE *STREAM});$0

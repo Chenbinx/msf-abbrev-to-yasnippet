@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gethostbyname2_r
+contributor: heychenbin@gmail.com
+# key: gethostbyname2_r
+# group: G
+# --
+gethostbyname2_r(${const char *NAME}, ${int AF}, ${struct hostent *restrict RESULT_BUF}, ${char *restrict BUF}, ${size_t BUFLEN}, ${struct hostent **restrict RESULT}, ${int *restrict H_ERRNOP});$0

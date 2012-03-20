@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_next
+contributor: heychenbin@gmail.com
+# key: argz_next
+# group: A
+# --
+argz_next(${char *ARGZ}, ${size_t ARGZ_LEN}, ${const char *ENTRY});$0

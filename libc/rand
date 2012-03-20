@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rand
+contributor: heychenbin@gmail.com
+# key: rand
+# group: R
+# --
+rand(${void});$0

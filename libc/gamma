@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gamma
+contributor: heychenbin@gmail.com
+# key: gamma
+# group: G
+# --
+gamma(${double X});$0

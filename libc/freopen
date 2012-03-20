@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: freopen
+contributor: heychenbin@gmail.com
+# key: freopen
+# group: F
+# --
+freopen(${const char *FILENAME}, ${const char *OPENTYPE}, ${FILE *STREAM});$0

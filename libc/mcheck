@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mcheck
+contributor: heychenbin@gmail.com
+# key: mcheck
+# group: M
+# --
+mcheck(${void(}, ${*ABORTFN}, ${)(}, ${ENUM}, ${MCHECK_STATUS}, ${STATUS}, ${)});$0

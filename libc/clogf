@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clogf
+contributor: heychenbin@gmail.com
+# key: clogf
+# group: C
+# --
+clogf(${complex float Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: acoshf
+contributor: heychenbin@gmail.com
+# key: acoshf
+# group: A
+# --
+acoshf(${float X});$0

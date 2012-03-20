@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: close
+contributor: heychenbin@gmail.com
+# key: close
+# group: C
+# --
+close(${int FILEDES});$0

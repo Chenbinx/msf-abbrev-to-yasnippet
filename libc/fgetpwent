@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetpwent
+contributor: heychenbin@gmail.com
+# key: fgetpwent
+# group: F
+# --
+fgetpwent(${FILE *STREAM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fesetround
+contributor: heychenbin@gmail.com
+# key: fesetround
+# group: F
+# --
+fesetround(${int ROUND});$0

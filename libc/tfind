@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tfind
+contributor: heychenbin@gmail.com
+# key: tfind
+# group: T
+# --
+tfind(${const void *KEY}, ${void *const *ROOTP}, ${comparison_fn_t COMPAR});$0

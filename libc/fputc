@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputc
+contributor: heychenbin@gmail.com
+# key: fputc
+# group: F
+# --
+fputc(${int C}, ${FILE *STREAM});$0

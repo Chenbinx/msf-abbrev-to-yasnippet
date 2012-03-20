@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_create
+contributor: heychenbin@gmail.com
+# key: pthread_create
+# group: P
+# --
+pthread_create(${pthread_t * THREAD}, ${pthread_attr_t * ATTR}, ${void *(}, ${*START_ROUTINE}, ${)(}, ${VOID}, ${*}, ${)}, ${void * ARG});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcrtomb
+contributor: heychenbin@gmail.com
+# key: wcrtomb
+# group: W
+# --
+wcrtomb(${char *restrict S}, ${wchar_t WC}, ${mbstate_t *restrict PS});$0

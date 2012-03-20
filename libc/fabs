@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fabs
+contributor: heychenbin@gmail.com
+# key: fabs
+# group: F
+# --
+fabs(${double NUMBER});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asprintf
+contributor: heychenbin@gmail.com
+# key: asprintf
+# group: A
+# --
+asprintf(${char **PTR}, ${const char *TEMPLATE}, ${...});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgamma
+contributor: heychenbin@gmail.com
+# key: lgamma
+# group: L
+# --
+lgamma(${double X});$0

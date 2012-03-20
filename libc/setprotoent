@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setprotoent
+contributor: heychenbin@gmail.com
+# key: setprotoent
+# group: S
+# --
+setprotoent(${int STAYOPEN});$0

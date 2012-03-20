@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: significand
+contributor: heychenbin@gmail.com
+# key: significand
+# group: S
+# --
+significand(${double X});$0

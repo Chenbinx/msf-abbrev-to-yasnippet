@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgrouplist
+contributor: heychenbin@gmail.com
+# key: getgrouplist
+# group: G
+# --
+getgrouplist(${const char *USER}, ${gid_t GROUP}, ${gid_t *GROUPS}, ${int *NGROUPS});$0

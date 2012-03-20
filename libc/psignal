@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: psignal
+contributor: heychenbin@gmail.com
+# key: psignal
+# group: P
+# --
+psignal(${int SIGNUM}, ${const char *MESSAGE});$0

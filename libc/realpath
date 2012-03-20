@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: realpath
+contributor: heychenbin@gmail.com
+# key: realpath
+# group: R
+# --
+realpath(${const char *restrict NAME}, ${char *restrict RESOLVED});$0

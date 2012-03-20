@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: expf
+contributor: heychenbin@gmail.com
+# key: expf
+# group: E
+# --
+expf(${float X});$0

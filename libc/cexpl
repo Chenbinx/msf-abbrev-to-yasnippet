@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cexpl
+contributor: heychenbin@gmail.com
+# key: cexpl
+# group: C
+# --
+cexpl(${complex long double Z});$0

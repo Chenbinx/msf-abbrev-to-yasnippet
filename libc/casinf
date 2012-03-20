@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: casinf
+contributor: heychenbin@gmail.com
+# key: casinf
+# group: C
+# --
+casinf(${complex float Z});$0

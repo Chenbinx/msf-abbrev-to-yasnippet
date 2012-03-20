@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sincosl
+contributor: heychenbin@gmail.com
+# key: sincosl
+# group: S
+# --
+sincosl(${long double X}, ${long double *SINX}, ${long double *COSX});$0

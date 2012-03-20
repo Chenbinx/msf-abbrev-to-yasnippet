@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logl
+contributor: heychenbin@gmail.com
+# key: logl
+# group: L
+# --
+logl(${long double X});$0

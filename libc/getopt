@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getopt
+contributor: heychenbin@gmail.com
+# key: getopt
+# group: G
+# --
+getopt(${int ARGC}, ${char **ARGV}, ${const char *OPTIONS});$0

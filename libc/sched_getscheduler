@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_getscheduler
+contributor: heychenbin@gmail.com
+# key: sched_getscheduler
+# group: S
+# --
+sched_getscheduler(${pid_t PID});$0

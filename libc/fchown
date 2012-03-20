@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fchown
+contributor: heychenbin@gmail.com
+# key: fchown
+# group: F
+# --
+fchown(${int FILEDES}, ${int OWNER}, ${int GROUP});$0

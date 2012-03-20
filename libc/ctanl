@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctanl
+contributor: heychenbin@gmail.com
+# key: ctanl
+# group: C
+# --
+ctanl(${complex long double Z});$0

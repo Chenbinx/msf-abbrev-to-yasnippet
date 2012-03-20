@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcscoll
+contributor: heychenbin@gmail.com
+# key: wcscoll
+# group: W
+# --
+wcscoll(${const wchar_t *WS1}, ${const wchar_t *WS2});$0

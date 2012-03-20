@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcscmp
+contributor: heychenbin@gmail.com
+# key: wcscmp
+# group: W
+# --
+wcscmp(${const wchar_t *WS1}, ${const wchar_t *WS2});$0

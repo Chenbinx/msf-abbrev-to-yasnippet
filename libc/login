@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: login
+contributor: heychenbin@gmail.com
+# key: login
+# group: L
+# --
+login(${const struct utmp *ENTRY});$0

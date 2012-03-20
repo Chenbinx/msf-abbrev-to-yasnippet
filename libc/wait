@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wait
+contributor: heychenbin@gmail.com
+# key: wait
+# group: W
+# --
+wait(${int *STATUS-PTR});$0

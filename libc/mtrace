@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mtrace
+contributor: heychenbin@gmail.com
+# key: mtrace
+# group: M
+# --
+mtrace(${void});$0

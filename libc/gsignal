@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gsignal
+contributor: heychenbin@gmail.com
+# key: gsignal
+# group: G
+# --
+gsignal(${int SIGNUM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: open64
+contributor: heychenbin@gmail.com
+# key: open64
+# group: O
+# --
+open64(${const char *FILENAME}, ${int FLAGS[}, ${mode_t MODE]});$0

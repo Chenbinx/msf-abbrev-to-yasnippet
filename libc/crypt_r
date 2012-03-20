@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: crypt_r
+contributor: heychenbin@gmail.com
+# key: crypt_r
+# group: C
+# --
+crypt_r(${const char *KEY}, ${const char *SALT}, ${struct crypt_data * DATA});$0

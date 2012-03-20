@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: forkpty
+contributor: heychenbin@gmail.com
+# key: forkpty
+# group: F
+# --
+forkpty(${int *AMASTER}, ${char *NAME}, ${struct termios *TERMP}, ${struct winsize *WINP});$0

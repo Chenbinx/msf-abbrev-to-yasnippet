@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctime_r
+contributor: heychenbin@gmail.com
+# key: ctime_r
+# group: C
+# --
+ctime_r(${const time_t *TIME}, ${char *BUFFER});$0

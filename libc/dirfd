@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dirfd
+contributor: heychenbin@gmail.com
+# key: dirfd
+# group: D
+# --
+dirfd(${DIR *DIRSTREAM});$0

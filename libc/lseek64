@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lseek64
+contributor: heychenbin@gmail.com
+# key: lseek64
+# group: L
+# --
+lseek64(${int FILEDES}, ${off64_t OFFSET}, ${int WHENCE});$0

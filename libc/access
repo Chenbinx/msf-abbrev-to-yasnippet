@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: access
+contributor: heychenbin@gmail.com
+# key: access
+# group: A
+# --
+access(${const char *FILENAME}, ${int HOW});$0

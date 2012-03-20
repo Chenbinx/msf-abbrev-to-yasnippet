@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsxfrm
+contributor: heychenbin@gmail.com
+# key: wcsxfrm
+# group: W
+# --
+wcsxfrm(${wchar_t *restrict WTO}, ${const wchar_t *WFROM}, ${size_t SIZE});$0

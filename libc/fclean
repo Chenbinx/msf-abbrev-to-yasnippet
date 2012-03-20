@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fclean
+contributor: heychenbin@gmail.com
+# key: fclean
+# group: F
+# --
+fclean(${FILE *STREAM});$0

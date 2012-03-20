@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: raise
+contributor: heychenbin@gmail.com
+# key: raise
+# group: R
+# --
+raise(${int SIGNUM});$0

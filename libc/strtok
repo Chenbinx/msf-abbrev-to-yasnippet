@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtok
+contributor: heychenbin@gmail.com
+# key: strtok
+# group: S
+# --
+strtok(${char *restrict NEWSTRING}, ${const char *restrict DELIMITERS});$0

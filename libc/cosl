@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cosl
+contributor: heychenbin@gmail.com
+# key: cosl
+# group: C
+# --
+cosl(${long double X});$0

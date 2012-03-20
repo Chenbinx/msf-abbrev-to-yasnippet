@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswcntrl
+contributor: heychenbin@gmail.com
+# key: iswcntrl
+# group: I
+# --
+iswcntrl(${wint_t WC});$0

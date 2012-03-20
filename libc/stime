@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: stime
+contributor: heychenbin@gmail.com
+# key: stime
+# group: S
+# --
+stime(${time_t *NEWTIME});$0

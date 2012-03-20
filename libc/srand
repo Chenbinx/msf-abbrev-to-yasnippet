@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: srand
+contributor: heychenbin@gmail.com
+# key: srand
+# group: S
+# --
+srand(${unsigned int SEED});$0

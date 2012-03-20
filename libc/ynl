@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ynl
+contributor: heychenbin@gmail.com
+# key: ynl
+# group: Y
+# --
+ynl(${int n}, ${long double X});$0

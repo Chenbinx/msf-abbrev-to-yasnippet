@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: btowc
+contributor: heychenbin@gmail.com
+# key: btowc
+# group: B
+# --
+btowc(${int C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fpclassify
+contributor: heychenbin@gmail.com
+# key: fpclassify
+# group: F
+# --
+fpclassify(${_float-type_ X});$0

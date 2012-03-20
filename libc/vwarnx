@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vwarnx
+contributor: heychenbin@gmail.com
+# key: vwarnx
+# group: V
+# --
+vwarnx(${const char *FORMAT}, ${va_list});$0

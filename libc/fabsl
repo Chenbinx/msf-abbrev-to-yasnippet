@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fabsl
+contributor: heychenbin@gmail.com
+# key: fabsl
+# group: F
+# --
+fabsl(${long double NUMBER});$0

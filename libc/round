@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: round
+contributor: heychenbin@gmail.com
+# key: round
+# group: R
+# --
+round(${double X});$0

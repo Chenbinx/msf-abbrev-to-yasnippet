@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetc
+contributor: heychenbin@gmail.com
+# key: fgetc
+# group: F
+# --
+fgetc(${FILE *STREAM});$0

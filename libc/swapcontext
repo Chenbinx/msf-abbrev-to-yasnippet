@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: swapcontext
+contributor: heychenbin@gmail.com
+# key: swapcontext
+# group: S
+# --
+swapcontext(${ucontext_t *restrict OUCP}, ${const ucontext_t *restrict UCP});$0

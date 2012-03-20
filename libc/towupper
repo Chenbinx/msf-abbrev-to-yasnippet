@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: towupper
+contributor: heychenbin@gmail.com
+# key: towupper
+# group: T
+# --
+towupper(${wint_t WC});$0

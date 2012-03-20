@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sbrk
+contributor: heychenbin@gmail.com
+# key: sbrk
+# group: S
+# --
+sbrk(${ptrdiff_t DELTA});$0

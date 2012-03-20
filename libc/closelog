@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: closelog
+contributor: heychenbin@gmail.com
+# key: closelog
+# group: C
+# --
+closelog(${void});$0

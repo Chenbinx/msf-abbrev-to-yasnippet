@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dremf
+contributor: heychenbin@gmail.com
+# key: dremf
+# group: D
+# --
+dremf(${float NUMERATOR}, ${float DENOMINATOR});$0

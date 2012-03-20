@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ptsname
+contributor: heychenbin@gmail.com
+# key: ptsname
+# group: P
+# --
+ptsname(${int FILEDES});$0

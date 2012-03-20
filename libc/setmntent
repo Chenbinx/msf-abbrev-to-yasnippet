@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setmntent
+contributor: heychenbin@gmail.com
+# key: setmntent
+# group: S
+# --
+setmntent(${const char *FILE}, ${const char *MODE});$0

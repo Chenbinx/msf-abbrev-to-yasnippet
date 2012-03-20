@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ecvt
+contributor: heychenbin@gmail.com
+# key: ecvt
+# group: E
+# --
+ecvt(${double VALUE}, ${int NDIGIT}, ${int *DECPT}, ${int *NEG});$0

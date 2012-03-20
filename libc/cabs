@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cabs
+contributor: heychenbin@gmail.com
+# key: cabs
+# group: C
+# --
+cabs(${complex double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erf
+contributor: heychenbin@gmail.com
+# key: erf
+# group: E
+# --
+erf(${double X});$0

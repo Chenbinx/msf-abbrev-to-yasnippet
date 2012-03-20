@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: creat
+contributor: heychenbin@gmail.com
+# key: creat
+# group: C
+# --
+creat(${const char *FILENAME}, ${mode_t MODE});$0

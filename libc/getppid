@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getppid
+contributor: heychenbin@gmail.com
+# key: getppid
+# group: G
+# --
+getppid(${void});$0

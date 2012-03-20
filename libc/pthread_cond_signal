@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cond_signal
+contributor: heychenbin@gmail.com
+# key: pthread_cond_signal
+# group: P
+# --
+pthread_cond_signal(${pthread_cond_t *COND});$0

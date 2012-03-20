@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setpwent
+contributor: heychenbin@gmail.com
+# key: setpwent
+# group: S
+# --
+setpwent(${void});$0

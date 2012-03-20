@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: CPU_SET
+contributor: heychenbin@gmail.com
+# key: CPU_SET
+# group: C
+# --
+CPU_SET(${int CPU}, ${cpu_set_t *SET});$0

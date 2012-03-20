@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_init
+contributor: heychenbin@gmail.com
+# key: obstack_init
+# group: O
+# --
+obstack_init(${struct obstack *OBSTACK-PTR});$0

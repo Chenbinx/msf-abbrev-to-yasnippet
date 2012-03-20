@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_blank
+contributor: heychenbin@gmail.com
+# key: obstack_blank
+# group: O
+# --
+obstack_blank(${struct obstack *OBSTACK-PTR}, ${int SIZE});$0

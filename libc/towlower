@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: towlower
+contributor: heychenbin@gmail.com
+# key: towlower
+# group: T
+# --
+towlower(${wint_t WC});$0

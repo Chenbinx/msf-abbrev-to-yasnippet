@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: envz_strip
+contributor: heychenbin@gmail.com
+# key: envz_strip
+# group: E
+# --
+envz_strip(${char **ENVZ}, ${size_t *ENVZ_LEN});$0

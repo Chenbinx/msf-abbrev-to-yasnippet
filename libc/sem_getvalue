@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sem_getvalue
+contributor: heychenbin@gmail.com
+# key: sem_getvalue
+# group: S
+# --
+sem_getvalue(${sem_t * SEM}, ${int * SVAL});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getloadavg
+contributor: heychenbin@gmail.com
+# key: getloadavg
+# group: G
+# --
+getloadavg(${double LOADAVG[]}, ${int NELEM});$0

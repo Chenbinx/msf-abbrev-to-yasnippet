@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fdatasync
+contributor: heychenbin@gmail.com
+# key: fdatasync
+# group: F
+# --
+fdatasync(${int FILDES});$0

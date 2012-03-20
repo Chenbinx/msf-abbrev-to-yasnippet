@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: copysign
+contributor: heychenbin@gmail.com
+# key: copysign
+# group: C
+# --
+copysign(${double X}, ${double Y});$0

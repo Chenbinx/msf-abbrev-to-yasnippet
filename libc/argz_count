@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_count
+contributor: heychenbin@gmail.com
+# key: argz_count
+# group: A
+# --
+argz_count(${const char *ARGZ}, ${size_t ARG_LEN});$0

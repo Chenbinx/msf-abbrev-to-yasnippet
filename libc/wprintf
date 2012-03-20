@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wprintf
+contributor: heychenbin@gmail.com
+# key: wprintf
+# group: W
+# --
+wprintf(${const wchar_t *TEMPLATE}, ${...});$0

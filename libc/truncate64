@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: truncate64
+contributor: heychenbin@gmail.com
+# key: truncate64
+# group: T
+# --
+truncate64(${const char *NAME}, ${off64_t LENGTH});$0

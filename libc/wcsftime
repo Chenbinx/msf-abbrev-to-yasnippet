@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsftime
+contributor: heychenbin@gmail.com
+# key: wcsftime
+# group: W
+# --
+wcsftime(${wchar_t *S}, ${size_t SIZE}, ${const wchar_t *TEMPLATE}, ${const struct tm *BROKENTIME});$0

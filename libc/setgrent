@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setgrent
+contributor: heychenbin@gmail.com
+# key: setgrent
+# group: S
+# --
+setgrent(${void});$0

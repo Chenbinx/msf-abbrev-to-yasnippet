@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fdimf
+contributor: heychenbin@gmail.com
+# key: fdimf
+# group: F
+# --
+fdimf(${float X}, ${float Y});$0

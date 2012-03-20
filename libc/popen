@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: popen
+contributor: heychenbin@gmail.com
+# key: popen
+# group: P
+# --
+popen(${const char *COMMAND}, ${const char *MODE});$0

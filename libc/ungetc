@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ungetc
+contributor: heychenbin@gmail.com
+# key: ungetc
+# group: U
+# --
+ungetc(${int C}, ${FILE *STREAM});$0

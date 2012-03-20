@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ccoshl
+contributor: heychenbin@gmail.com
+# key: ccoshl
+# group: C
+# --
+ccoshl(${complex long double Z});$0

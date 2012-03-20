@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lgammaf
+contributor: heychenbin@gmail.com
+# key: lgammaf
+# group: L
+# --
+lgammaf(${float X});$0

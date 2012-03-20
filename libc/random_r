@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: random_r
+contributor: heychenbin@gmail.com
+# key: random_r
+# group: R
+# --
+random_r(${struct random_data *restrict BUF}, ${int32_t *restrict RESULT});$0

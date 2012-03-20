@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswgraph
+contributor: heychenbin@gmail.com
+# key: iswgraph
+# group: I
+# --
+iswgraph(${wint_t WC});$0

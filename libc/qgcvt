@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: qgcvt
+contributor: heychenbin@gmail.com
+# key: qgcvt
+# group: Q
+# --
+qgcvt(${long double VALUE}, ${int NDIGIT}, ${char *BUF});$0

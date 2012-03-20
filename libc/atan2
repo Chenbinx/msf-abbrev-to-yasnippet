@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atan2
+contributor: heychenbin@gmail.com
+# key: atan2
+# group: A
+# --
+atan2(${double Y}, ${double X});$0

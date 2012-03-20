@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lldiv
+contributor: heychenbin@gmail.com
+# key: lldiv
+# group: L
+# --
+lldiv(${long long int NUMERATOR}, ${long long int DENOMINATOR});$0

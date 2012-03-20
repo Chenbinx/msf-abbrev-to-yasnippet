@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_aton
+contributor: heychenbin@gmail.com
+# key: inet_aton
+# group: I
+# --
+inet_aton(${const char *NAME}, ${struct in_addr *ADDR});$0

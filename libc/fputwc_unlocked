@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputwc_unlocked
+contributor: heychenbin@gmail.com
+# key: fputwc_unlocked
+# group: F
+# --
+fputwc_unlocked(${wint_t WC}, ${FILE *STREAM});$0

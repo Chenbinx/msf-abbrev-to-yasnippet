@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readdir64
+contributor: heychenbin@gmail.com
+# key: readdir64
+# group: R
+# --
+readdir64(${DIR *DIRSTREAM});$0

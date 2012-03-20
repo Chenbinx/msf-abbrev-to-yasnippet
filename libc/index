@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: index
+contributor: heychenbin@gmail.com
+# key: index
+# group: I
+# --
+index(${const char *STRING}, ${int C});$0

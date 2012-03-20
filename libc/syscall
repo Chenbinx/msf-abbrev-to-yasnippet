@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: syscall
+contributor: heychenbin@gmail.com
+# key: syscall
+# group: S
+# --
+syscall(${long int SYSNO}, ${...});$0

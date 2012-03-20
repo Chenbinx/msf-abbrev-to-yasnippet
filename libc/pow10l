@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pow10l
+contributor: heychenbin@gmail.com
+# key: pow10l
+# group: P
+# --
+pow10l(${long double X});$0

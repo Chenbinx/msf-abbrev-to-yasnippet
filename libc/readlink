@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readlink
+contributor: heychenbin@gmail.com
+# key: readlink
+# group: R
+# --
+readlink(${const char *FILENAME}, ${char *BUFFER}, ${size_t SIZE});$0

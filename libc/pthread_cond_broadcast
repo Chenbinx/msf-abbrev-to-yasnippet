@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cond_broadcast
+contributor: heychenbin@gmail.com
+# key: pthread_cond_broadcast
+# group: P
+# --
+pthread_cond_broadcast(${pthread_cond_t *COND});$0

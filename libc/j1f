@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: j1f
+contributor: heychenbin@gmail.com
+# key: j1f
+# group: J
+# --
+j1f(${float X});$0

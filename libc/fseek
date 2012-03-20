@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fseek
+contributor: heychenbin@gmail.com
+# key: fseek
+# group: F
+# --
+fseek(${FILE *STREAM}, ${long int OFFSET}, ${int WHENCE});$0

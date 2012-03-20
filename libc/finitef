@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: finitef
+contributor: heychenbin@gmail.com
+# key: finitef
+# group: F
+# --
+finitef(${float X});$0

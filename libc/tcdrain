@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcdrain
+contributor: heychenbin@gmail.com
+# key: tcdrain
+# group: T
+# --
+tcdrain(${int FILEDES});$0

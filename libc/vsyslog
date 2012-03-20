@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vsyslog
+contributor: heychenbin@gmail.com
+# key: vsyslog
+# group: V
+# --
+vsyslog(${int FACILITY_PRIORITY}, ${char *FORMAT}, ${va_list arglist});$0

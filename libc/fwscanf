@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fwscanf
+contributor: heychenbin@gmail.com
+# key: fwscanf
+# group: F
+# --
+fwscanf(${FILE *STREAM}, ${const wchar_t *TEMPLATE}, ${...});$0

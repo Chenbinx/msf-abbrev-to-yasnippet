@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setvbuf
+contributor: heychenbin@gmail.com
+# key: setvbuf
+# group: S
+# --
+setvbuf(${FILE *STREAM}, ${char *BUF}, ${int MODE}, ${size_t SIZE});$0

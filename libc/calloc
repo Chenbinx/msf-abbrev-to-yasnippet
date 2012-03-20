@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: calloc
+contributor: heychenbin@gmail.com
+# key: calloc
+# group: C
+# --
+calloc(${size_t COUNT}, ${size_t ELTSIZE});$0

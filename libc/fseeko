@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fseeko
+contributor: heychenbin@gmail.com
+# key: fseeko
+# group: F
+# --
+fseeko(${FILE *STREAM}, ${off_t OFFSET}, ${int WHENCE});$0

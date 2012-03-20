@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nrand48
+contributor: heychenbin@gmail.com
+# key: nrand48
+# group: N
+# --
+nrand48(${unsigned short int XSUBI[3]});$0

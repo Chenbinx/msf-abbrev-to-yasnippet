@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setutent
+contributor: heychenbin@gmail.com
+# key: setutent
+# group: S
+# --
+setutent(${void});$0

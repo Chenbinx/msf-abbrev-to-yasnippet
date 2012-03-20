@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISDIR
+contributor: heychenbin@gmail.com
+# key: S_ISDIR
+# group: S
+# --
+S_ISDIR(${mode_t M});$0

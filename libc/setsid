@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setsid
+contributor: heychenbin@gmail.com
+# key: setsid
+# group: S
+# --
+setsid(${void});$0

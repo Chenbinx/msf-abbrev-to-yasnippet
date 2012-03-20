@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vscanf
+contributor: heychenbin@gmail.com
+# key: vscanf
+# group: V
+# --
+vscanf(${const char *TEMPLATE}, ${va_list AP});$0

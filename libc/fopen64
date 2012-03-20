@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fopen64
+contributor: heychenbin@gmail.com
+# key: fopen64
+# group: F
+# --
+fopen64(${const char *FILENAME}, ${const char *OPENTYPE});$0

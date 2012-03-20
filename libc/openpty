@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: openpty
+contributor: heychenbin@gmail.com
+# key: openpty
+# group: O
+# --
+openpty(${int *AMASTER}, ${int *ASLAVE}, ${char *NAME}, ${struct termios *TERMP}, ${struct winsize *WINP});$0

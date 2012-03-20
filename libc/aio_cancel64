@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_cancel64
+contributor: heychenbin@gmail.com
+# key: aio_cancel64
+# group: A
+# --
+aio_cancel64(${int FILDES}, ${struct aiocb64 *AIOCBP});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strfry
+contributor: heychenbin@gmail.com
+# key: strfry
+# group: S
+# --
+strfry(${char *STRING});$0

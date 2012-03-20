@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gmtime
+contributor: heychenbin@gmail.com
+# key: gmtime
+# group: G
+# --
+gmtime(${const time_t *TIME});$0

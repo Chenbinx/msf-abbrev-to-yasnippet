@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: localeconv
+contributor: heychenbin@gmail.com
+# key: localeconv
+# group: L
+# --
+localeconv(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tdelete
+contributor: heychenbin@gmail.com
+# key: tdelete
+# group: T
+# --
+tdelete(${const void *KEY}, ${void **ROOTP}, ${comparison_fn_t COMPAR});$0

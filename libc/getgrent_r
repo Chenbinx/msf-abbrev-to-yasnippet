@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgrent_r
+contributor: heychenbin@gmail.com
+# key: getgrent_r
+# group: G
+# --
+getgrent_r(${struct group *RESULT_BUF}, ${char *BUFFER}, ${size_t BUFLEN}, ${struct group **RESULT});$0

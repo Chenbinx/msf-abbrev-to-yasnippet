@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: open_memstream
+contributor: heychenbin@gmail.com
+# key: open_memstream
+# group: O
+# --
+open_memstream(${char **PTR}, ${size_t *SIZELOC});$0

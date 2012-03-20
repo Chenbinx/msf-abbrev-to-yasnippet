@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ntohl
+contributor: heychenbin@gmail.com
+# key: ntohl
+# group: N
+# --
+ntohl(${uint32_t NETLONG});$0

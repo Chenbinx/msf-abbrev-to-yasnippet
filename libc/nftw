@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nftw
+contributor: heychenbin@gmail.com
+# key: nftw
+# group: N
+# --
+nftw(${const char *FILENAME}, ${__nftw_func_t FUNC}, ${int DESCRIPTORS}, ${int FLAG});$0

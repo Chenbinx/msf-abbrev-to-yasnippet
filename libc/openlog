@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: openlog
+contributor: heychenbin@gmail.com
+# key: openlog
+# group: O
+# --
+openlog(${const char *IDENT}, ${int OPTION}, ${int FACILITY});$0

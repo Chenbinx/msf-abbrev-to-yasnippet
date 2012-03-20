@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fchmod
+contributor: heychenbin@gmail.com
+# key: fchmod
+# group: F
+# --
+fchmod(${int FILEDES}, ${int MODE});$0

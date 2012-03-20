@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: chdir
+contributor: heychenbin@gmail.com
+# key: chdir
+# group: C
+# --
+chdir(${const char *FILENAME});$0

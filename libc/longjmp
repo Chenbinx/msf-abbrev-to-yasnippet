@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: longjmp
+contributor: heychenbin@gmail.com
+# key: longjmp
+# group: L
+# --
+longjmp(${jmp_buf STATE}, ${int VALUE});$0

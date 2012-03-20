@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isalpha
+contributor: heychenbin@gmail.com
+# key: isalpha
+# group: I
+# --
+isalpha(${int C});$0

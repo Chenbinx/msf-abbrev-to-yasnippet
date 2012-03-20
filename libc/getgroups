@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getgroups
+contributor: heychenbin@gmail.com
+# key: getgroups
+# group: G
+# --
+getgroups(${int COUNT}, ${gid_t *GROUPS});$0

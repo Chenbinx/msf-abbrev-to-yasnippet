@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gets
+contributor: heychenbin@gmail.com
+# key: gets
+# group: G
+# --
+gets(${char *S});$0

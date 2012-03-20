@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hsearch_r
+contributor: heychenbin@gmail.com
+# key: hsearch_r
+# group: H
+# --
+hsearch_r(${ENTRY ITEM}, ${ACTION ACTION}, ${ENTRY **RETVAL}, ${struct hsearch_data *HTAB});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmemopen
+contributor: heychenbin@gmail.com
+# key: fmemopen
+# group: F
+# --
+fmemopen(${void *BUF}, ${size_t SIZE}, ${const char *OPENTYPE});$0

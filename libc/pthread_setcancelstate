@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_setcancelstate
+contributor: heychenbin@gmail.com
+# key: pthread_setcancelstate
+# group: P
+# --
+pthread_setcancelstate(${int STATE}, ${int *OLDSTATE});$0

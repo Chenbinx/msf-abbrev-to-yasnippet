@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getnetent
+contributor: heychenbin@gmail.com
+# key: getnetent
+# group: G
+# --
+getnetent(${void});$0

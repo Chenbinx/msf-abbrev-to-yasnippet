@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hypot
+contributor: heychenbin@gmail.com
+# key: hypot
+# group: H
+# --
+hypot(${double X}, ${double Y});$0

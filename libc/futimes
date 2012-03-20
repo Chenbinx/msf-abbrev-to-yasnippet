@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: futimes
+contributor: heychenbin@gmail.com
+# key: futimes
+# group: F
+# --
+futimes(${int *FD}, ${struct timeval TVP[2]});$0

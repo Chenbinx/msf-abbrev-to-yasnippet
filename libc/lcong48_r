@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lcong48_r
+contributor: heychenbin@gmail.com
+# key: lcong48_r
+# group: L
+# --
+lcong48_r(${unsigned short int PARAM[7]}, ${struct drand48_data *BUFFER});$0

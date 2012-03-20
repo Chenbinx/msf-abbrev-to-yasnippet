@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lstat
+contributor: heychenbin@gmail.com
+# key: lstat
+# group: L
+# --
+lstat(${const char *FILENAME}, ${struct stat *BUF});$0

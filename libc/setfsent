@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setfsent
+contributor: heychenbin@gmail.com
+# key: setfsent
+# group: S
+# --
+setfsent(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cfree
+contributor: heychenbin@gmail.com
+# key: cfree
+# group: C
+# --
+cfree(${void *PTR});$0

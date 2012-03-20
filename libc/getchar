@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getchar
+contributor: heychenbin@gmail.com
+# key: getchar
+# group: G
+# --
+getchar(${void});$0

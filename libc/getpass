@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpass
+contributor: heychenbin@gmail.com
+# key: getpass
+# group: G
+# --
+getpass(${const char *PROMPT});$0

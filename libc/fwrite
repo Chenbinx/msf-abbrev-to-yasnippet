@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fwrite
+contributor: heychenbin@gmail.com
+# key: fwrite
+# group: F
+# --
+fwrite(${const void *DATA}, ${size_t SIZE}, ${size_t COUNT}, ${FILE *STREAM});$0

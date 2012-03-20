@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __va_copy
+contributor: heychenbin@gmail.com
+# key: __va_copy
+# group: Others
+# --
+__va_copy(${va_list DEST}, ${va_list SRC});$0

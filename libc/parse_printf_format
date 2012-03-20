@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: parse_printf_format
+contributor: heychenbin@gmail.com
+# key: parse_printf_format
+# group: P
+# --
+parse_printf_format(${const char *TEMPLATE}, ${size_t N}, ${int *ARGTYPES});$0

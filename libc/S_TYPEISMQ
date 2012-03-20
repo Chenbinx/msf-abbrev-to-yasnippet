@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_TYPEISMQ
+contributor: heychenbin@gmail.com
+# key: S_TYPEISMQ
+# group: S
+# --
+S_TYPEISMQ(${struct stat *S});$0

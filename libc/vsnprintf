@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vsnprintf
+contributor: heychenbin@gmail.com
+# key: vsnprintf
+# group: V
+# --
+vsnprintf(${char *S}, ${size_t SIZE}, ${const char *TEMPLATE}, ${va_list AP});$0

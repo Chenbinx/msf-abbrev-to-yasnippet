@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_fsync
+contributor: heychenbin@gmail.com
+# key: aio_fsync
+# group: A
+# --
+aio_fsync(${int OP}, ${struct aiocb *AIOCBP});$0

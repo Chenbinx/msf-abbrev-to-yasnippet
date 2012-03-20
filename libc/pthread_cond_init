@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cond_init
+contributor: heychenbin@gmail.com
+# key: pthread_cond_init
+# group: P
+# --
+pthread_cond_init(${pthread_cond_t *COND}, ${pthread_condattr_t *cond_ATTR});$0

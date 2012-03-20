@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: frexpf
+contributor: heychenbin@gmail.com
+# key: frexpf
+# group: F
+# --
+frexpf(${float VALUE}, ${int *EXPONENT});$0

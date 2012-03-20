@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nanosleep
+contributor: heychenbin@gmail.com
+# key: nanosleep
+# group: N
+# --
+nanosleep(${const struct timespec *REQUESTED_TIME}, ${struct timespec *REMAINING});$0

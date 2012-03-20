@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ctanhl
+contributor: heychenbin@gmail.com
+# key: ctanhl
+# group: C
+# --
+ctanhl(${complex long double Z});$0

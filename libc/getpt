@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpt
+contributor: heychenbin@gmail.com
+# key: getpt
+# group: G
+# --
+getpt(${void});$0

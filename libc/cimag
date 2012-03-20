@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cimag
+contributor: heychenbin@gmail.com
+# key: cimag
+# group: C
+# --
+cimag(${complex double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_key_create
+contributor: heychenbin@gmail.com
+# key: pthread_key_create
+# group: P
+# --
+pthread_key_create(${pthread_key_t *KEY}, ${void(}, ${*DESTR_FUNCTION}, ${)(}, ${VOID}, ${*}, ${)});$0

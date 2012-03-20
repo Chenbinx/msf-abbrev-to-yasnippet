@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vfscanf
+contributor: heychenbin@gmail.com
+# key: vfscanf
+# group: V
+# --
+vfscanf(${FILE *STREAM}, ${const char *TEMPLATE}, ${va_list AP});$0

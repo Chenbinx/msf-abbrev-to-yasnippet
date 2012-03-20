@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ilogb
+contributor: heychenbin@gmail.com
+# key: ilogb
+# group: I
+# --
+ilogb(${double X});$0

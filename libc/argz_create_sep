@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_create_sep
+contributor: heychenbin@gmail.com
+# key: argz_create_sep
+# group: A
+# --
+argz_create_sep(${const char *STRING}, ${int SEP}, ${char **ARGZ}, ${size_t *ARGZ_LEN});$0

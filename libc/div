@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: div
+contributor: heychenbin@gmail.com
+# key: div
+# group: D
+# --
+div(${int NUMERATOR}, ${int DENOMINATOR});$0

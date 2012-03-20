@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fchdir
+contributor: heychenbin@gmail.com
+# key: fchdir
+# group: F
+# --
+fchdir(${int FILEDES});$0

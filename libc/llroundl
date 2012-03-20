@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: llroundl
+contributor: heychenbin@gmail.com
+# key: llroundl
+# group: L
+# --
+llroundl(${long double X});$0

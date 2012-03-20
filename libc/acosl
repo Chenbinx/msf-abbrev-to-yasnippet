@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: acosl
+contributor: heychenbin@gmail.com
+# key: acosl
+# group: A
+# --
+acosl(${long double X});$0

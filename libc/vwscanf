@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vwscanf
+contributor: heychenbin@gmail.com
+# key: vwscanf
+# group: V
+# --
+vwscanf(${const wchar_t *TEMPLATE}, ${va_list AP});$0

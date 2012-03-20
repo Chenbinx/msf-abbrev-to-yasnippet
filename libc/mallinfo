@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mallinfo
+contributor: heychenbin@gmail.com
+# key: mallinfo
+# group: M
+# --
+mallinfo(${void});$0

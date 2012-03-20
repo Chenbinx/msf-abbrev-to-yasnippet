@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getsubopt
+contributor: heychenbin@gmail.com
+# key: getsubopt
+# group: G
+# --
+getsubopt(${char **OPTIONP}, ${const char* const *TOKENS}, ${char **VALUEP});$0

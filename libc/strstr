@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strstr
+contributor: heychenbin@gmail.com
+# key: strstr
+# group: S
+# --
+strstr(${const char *HAYSTACK}, ${const char *NEEDLE});$0

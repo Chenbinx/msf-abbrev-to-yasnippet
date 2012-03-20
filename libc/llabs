@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: llabs
+contributor: heychenbin@gmail.com
+# key: llabs
+# group: L
+# --
+llabs(${long long int NUMBER});$0

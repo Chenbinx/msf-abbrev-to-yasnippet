@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcsnlen
+contributor: heychenbin@gmail.com
+# key: wcsnlen
+# group: W
+# --
+wcsnlen(${const wchar_t *WS}, ${size_t MAXLEN});$0

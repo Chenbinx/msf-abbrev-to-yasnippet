@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ccosh
+contributor: heychenbin@gmail.com
+# key: ccosh
+# group: C
+# --
+ccosh(${complex double Z});$0

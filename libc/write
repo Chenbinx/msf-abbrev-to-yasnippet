@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: write
+contributor: heychenbin@gmail.com
+# key: write
+# group: W
+# --
+write(${int FILEDES}, ${const void *BUFFER}, ${size_t SIZE});$0

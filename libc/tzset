@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tzset
+contributor: heychenbin@gmail.com
+# key: tzset
+# group: T
+# --
+tzset(${void});$0

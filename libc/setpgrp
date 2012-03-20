@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setpgrp
+contributor: heychenbin@gmail.com
+# key: setpgrp
+# group: S
+# --
+setpgrp(${pid_t PID}, ${pid_t PGID});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: erand48
+contributor: heychenbin@gmail.com
+# key: erand48
+# group: E
+# --
+erand48(${unsigned short int XSUBI[3]});$0

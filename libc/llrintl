@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: llrintl
+contributor: heychenbin@gmail.com
+# key: llrintl
+# group: L
+# --
+llrintl(${long double X});$0

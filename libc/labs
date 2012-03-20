@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: labs
+contributor: heychenbin@gmail.com
+# key: labs
+# group: L
+# --
+labs(${long int NUMBER});$0

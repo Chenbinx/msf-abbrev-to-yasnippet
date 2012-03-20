@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: abs
+contributor: heychenbin@gmail.com
+# key: abs
+# group: A
+# --
+abs(${int NUMBER});$0

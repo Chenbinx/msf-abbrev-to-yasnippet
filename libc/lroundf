@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lroundf
+contributor: heychenbin@gmail.com
+# key: lroundf
+# group: L
+# --
+lroundf(${float X});$0

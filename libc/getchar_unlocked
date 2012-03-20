@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getchar_unlocked
+contributor: heychenbin@gmail.com
+# key: getchar_unlocked
+# group: G
+# --
+getchar_unlocked(${void});$0

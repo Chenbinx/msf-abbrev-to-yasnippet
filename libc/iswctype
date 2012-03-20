@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswctype
+contributor: heychenbin@gmail.com
+# key: iswctype
+# group: I
+# --
+iswctype(${wint_t WC}, ${wctype_t DESC});$0

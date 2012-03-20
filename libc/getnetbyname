@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getnetbyname
+contributor: heychenbin@gmail.com
+# key: getnetbyname
+# group: G
+# --
+getnetbyname(${const char *NAME});$0

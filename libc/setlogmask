@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setlogmask
+contributor: heychenbin@gmail.com
+# key: setlogmask
+# group: S
+# --
+setlogmask(${int MASK});$0

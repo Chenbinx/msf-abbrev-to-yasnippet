@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswupper
+contributor: heychenbin@gmail.com
+# key: iswupper
+# group: I
+# --
+iswupper(${wint_t WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: utmpname
+contributor: heychenbin@gmail.com
+# key: utmpname
+# group: U
+# --
+utmpname(${const char *FILE});$0

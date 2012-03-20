@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sethostid
+contributor: heychenbin@gmail.com
+# key: sethostid
+# group: S
+# --
+sethostid(${long int ID});$0

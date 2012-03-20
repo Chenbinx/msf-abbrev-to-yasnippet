@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ngettext
+contributor: heychenbin@gmail.com
+# key: ngettext
+# group: N
+# --
+ngettext(${const char *MSGID1}, ${const char *MSGID2}, ${unsigned long int N});$0

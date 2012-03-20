@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: globfree
+contributor: heychenbin@gmail.com
+# key: globfree
+# group: G
+# --
+globfree(${glob_t *PGLOB});$0

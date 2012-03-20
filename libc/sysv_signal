@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sysv_signal
+contributor: heychenbin@gmail.com
+# key: sysv_signal
+# group: S
+# --
+sysv_signal(${int SIGNUM}, ${sighandler_t ACTION});$0

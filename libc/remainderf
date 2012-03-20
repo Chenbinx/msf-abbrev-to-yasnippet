@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: remainderf
+contributor: heychenbin@gmail.com
+# key: remainderf
+# group: R
+# --
+remainderf(${float NUMERATOR}, ${float DENOMINATOR});$0

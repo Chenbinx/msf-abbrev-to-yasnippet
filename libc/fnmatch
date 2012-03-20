@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fnmatch
+contributor: heychenbin@gmail.com
+# key: fnmatch
+# group: F
+# --
+fnmatch(${const char *PATTERN}, ${const char *STRING}, ${int FLAGS});$0

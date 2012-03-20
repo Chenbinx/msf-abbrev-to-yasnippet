@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: endgrent
+contributor: heychenbin@gmail.com
+# key: endgrent
+# group: E
+# --
+endgrent(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputs
+contributor: heychenbin@gmail.com
+# key: fputs
+# group: F
+# --
+fputs(${const char *S}, ${FILE *STREAM});$0

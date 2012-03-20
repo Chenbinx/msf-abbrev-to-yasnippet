@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: get_current_dir_name
+contributor: heychenbin@gmail.com
+# key: get_current_dir_name
+# group: G
+# --
+get_current_dir_name(${void});$0

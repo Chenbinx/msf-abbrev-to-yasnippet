@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: difftime
+contributor: heychenbin@gmail.com
+# key: difftime
+# group: D
+# --
+difftime(${time_t TIME1}, ${time_t TIME0});$0

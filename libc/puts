@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: puts
+contributor: heychenbin@gmail.com
+# key: puts
+# group: P
+# --
+puts(${const char *S});$0

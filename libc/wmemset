@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wmemset
+contributor: heychenbin@gmail.com
+# key: wmemset
+# group: W
+# --
+wmemset(${wchar_t *BLOCK}, ${wchar_t WC}, ${size_t SIZE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutexattr_destroy
+contributor: heychenbin@gmail.com
+# key: pthread_mutexattr_destroy
+# group: P
+# --
+pthread_mutexattr_destroy(${pthread_mutexattr_t *ATTR});$0

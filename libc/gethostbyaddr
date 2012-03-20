@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gethostbyaddr
+contributor: heychenbin@gmail.com
+# key: gethostbyaddr
+# group: G
+# --
+gethostbyaddr(${const char *ADDR}, ${size_t LENGTH}, ${int FORMAT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_insert
+contributor: heychenbin@gmail.com
+# key: argz_insert
+# group: A
+# --
+argz_insert(${char **ARGZ}, ${size_t *ARGZ_LEN}, ${char *BEFORE}, ${const char *ENTRY});$0

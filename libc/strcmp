@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strcmp
+contributor: heychenbin@gmail.com
+# key: strcmp
+# group: S
+# --
+strcmp(${const char *S1}, ${const char *S2});$0

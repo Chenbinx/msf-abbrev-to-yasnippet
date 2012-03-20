@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rpmatch
+contributor: heychenbin@gmail.com
+# key: rpmatch
+# group: R
+# --
+rpmatch(${const char *RESPONSE});$0

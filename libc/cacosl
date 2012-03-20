@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cacosl
+contributor: heychenbin@gmail.com
+# key: cacosl
+# group: C
+# --
+cacosl(${complex long double Z});$0

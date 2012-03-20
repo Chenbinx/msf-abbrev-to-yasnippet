@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logout
+contributor: heychenbin@gmail.com
+# key: logout
+# group: L
+# --
+logout(${const char *UT_LINE});$0

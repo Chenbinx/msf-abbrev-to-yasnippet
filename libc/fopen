@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fopen
+contributor: heychenbin@gmail.com
+# key: fopen
+# group: F
+# --
+fopen(${const char *FILENAME}, ${const char *OPENTYPE});$0

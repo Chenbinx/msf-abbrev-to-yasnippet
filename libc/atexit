@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atexit
+contributor: heychenbin@gmail.com
+# key: atexit
+# group: A
+# --
+atexit(${void(}, ${*FUNCTION}, ${)(}, ${VOID}, ${)});$0

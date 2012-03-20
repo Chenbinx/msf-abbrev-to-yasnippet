@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cleanup_push
+contributor: heychenbin@gmail.com
+# key: pthread_cleanup_push
+# group: P
+# --
+pthread_cleanup_push(${void(}, ${*ROUTINE}, ${)(}, ${VOID}, ${*}, ${)}, ${void *ARG});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_error
+contributor: heychenbin@gmail.com
+# key: aio_error
+# group: A
+# --
+aio_error(${const struct aiocb *AIOCBP});$0

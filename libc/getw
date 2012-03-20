@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getw
+contributor: heychenbin@gmail.com
+# key: getw
+# group: G
+# --
+getw(${FILE *STREAM});$0

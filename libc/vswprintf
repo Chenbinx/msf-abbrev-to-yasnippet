@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vswprintf
+contributor: heychenbin@gmail.com
+# key: vswprintf
+# group: V
+# --
+vswprintf(${wchar_t *S}, ${size_t SIZE}, ${const wchar_t *TEMPLATE}, ${va_list AP});$0

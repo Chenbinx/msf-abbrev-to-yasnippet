@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isspace
+contributor: heychenbin@gmail.com
+# key: isspace
+# group: I
+# --
+isspace(${int C});$0

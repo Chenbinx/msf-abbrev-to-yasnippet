@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setkey_r
+contributor: heychenbin@gmail.com
+# key: setkey_r
+# group: S
+# --
+setkey_r(${const char *KEY}, ${struct crypt_data * DATA});$0

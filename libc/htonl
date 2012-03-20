@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: htonl
+contributor: heychenbin@gmail.com
+# key: htonl
+# group: H
+# --
+htonl(${uint32_t HOSTLONG});$0

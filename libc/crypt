@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: crypt
+contributor: heychenbin@gmail.com
+# key: crypt
+# group: C
+# --
+crypt(${const char *KEY}, ${const char *SALT});$0

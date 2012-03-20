@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putc_unlocked
+contributor: heychenbin@gmail.com
+# key: putc_unlocked
+# group: P
+# --
+putc_unlocked(${int C}, ${FILE *STREAM});$0

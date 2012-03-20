@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigsetmask
+contributor: heychenbin@gmail.com
+# key: sigsetmask
+# group: S
+# --
+sigsetmask(${int MASK});$0

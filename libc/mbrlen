@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mbrlen
+contributor: heychenbin@gmail.com
+# key: mbrlen
+# group: M
+# --
+mbrlen(${const char *restrict S}, ${size_t N}, ${mbstate_t *PS});$0

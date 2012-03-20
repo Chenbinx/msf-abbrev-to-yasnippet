@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpgrp
+contributor: heychenbin@gmail.com
+# key: getpgrp
+# group: G
+# --
+getpgrp(${void});$0

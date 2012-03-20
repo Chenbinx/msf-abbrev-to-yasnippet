@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: j0
+contributor: heychenbin@gmail.com
+# key: j0
+# group: J
+# --
+j0(${double X});$0

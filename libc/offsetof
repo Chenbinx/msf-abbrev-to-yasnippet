@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: offsetof
+contributor: heychenbin@gmail.com
+# key: offsetof
+# group: O
+# --
+offsetof(${TYPE}, ${MEMBER});$0

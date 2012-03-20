@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iconv_close
+contributor: heychenbin@gmail.com
+# key: iconv_close
+# group: I
+# --
+iconv_close(${iconv_t CD});$0

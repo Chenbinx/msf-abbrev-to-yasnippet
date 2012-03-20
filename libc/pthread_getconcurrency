@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_getconcurrency
+contributor: heychenbin@gmail.com
+# key: pthread_getconcurrency
+# group: P
+# --
+pthread_getconcurrency(<field "">);$0

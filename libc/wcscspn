@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcscspn
+contributor: heychenbin@gmail.com
+# key: wcscspn
+# group: W
+# --
+wcscspn(${const wchar_t *WSTRING}, ${const wchar_t *STOPSET});$0

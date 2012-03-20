@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_kill_other_threads_np
+contributor: heychenbin@gmail.com
+# key: pthread_kill_other_threads_np
+# group: P
+# --
+pthread_kill_other_threads_np(${VOID});$0

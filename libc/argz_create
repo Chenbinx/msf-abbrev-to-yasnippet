@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: argz_create
+contributor: heychenbin@gmail.com
+# key: argz_create
+# group: A
+# --
+argz_create(${char *const ARGV[]}, ${char **ARGZ}, ${size_t *ARGZ_LEN});$0

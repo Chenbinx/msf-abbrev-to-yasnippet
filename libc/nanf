@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nanf
+contributor: heychenbin@gmail.com
+# key: nanf
+# group: N
+# --
+nanf(${const char *TAGP});$0

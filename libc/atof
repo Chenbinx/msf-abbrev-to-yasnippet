@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atof
+contributor: heychenbin@gmail.com
+# key: atof
+# group: A
+# --
+atof(${const char *STRING});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: muntrace
+contributor: heychenbin@gmail.com
+# key: muntrace
+# group: M
+# --
+muntrace(${void});$0

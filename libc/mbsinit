@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mbsinit
+contributor: heychenbin@gmail.com
+# key: mbsinit
+# group: M
+# --
+mbsinit(${const mbstate_t *PS});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: log10
+contributor: heychenbin@gmail.com
+# key: log10
+# group: L
+# --
+log10(${double X});$0

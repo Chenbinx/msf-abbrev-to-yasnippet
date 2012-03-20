@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: imaxabs
+contributor: heychenbin@gmail.com
+# key: imaxabs
+# group: I
+# --
+imaxabs(${intmax_t NUMBER});$0

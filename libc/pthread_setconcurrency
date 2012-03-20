@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_setconcurrency
+contributor: heychenbin@gmail.com
+# key: pthread_setconcurrency
+# group: P
+# --
+pthread_setconcurrency(${int LEVEL});$0

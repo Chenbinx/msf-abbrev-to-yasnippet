@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fclose
+contributor: heychenbin@gmail.com
+# key: fclose
+# group: F
+# --
+fclose(${FILE *STREAM});$0

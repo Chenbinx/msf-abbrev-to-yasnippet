@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mremap
+contributor: heychenbin@gmail.com
+# key: mremap
+# group: M
+# --
+mremap(${void *ADDRESS}, ${size_t LENGTH}, ${size_t NEW_LENGTH}, ${int FLAG});$0

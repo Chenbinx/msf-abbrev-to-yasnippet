@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: floorf
+contributor: heychenbin@gmail.com
+# key: floorf
+# group: F
+# --
+floorf(${float X});$0

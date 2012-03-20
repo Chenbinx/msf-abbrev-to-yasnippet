@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fcloseall
+contributor: heychenbin@gmail.com
+# key: fcloseall
+# group: F
+# --
+fcloseall(${void});$0

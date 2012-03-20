@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcflush
+contributor: heychenbin@gmail.com
+# key: tcflush
+# group: T
+# --
+tcflush(${int FILEDES}, ${int QUEUE});$0

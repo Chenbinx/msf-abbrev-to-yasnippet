@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_self
+contributor: heychenbin@gmail.com
+# key: pthread_self
+# group: P
+# --
+pthread_self(${VOID});$0

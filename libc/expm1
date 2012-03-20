@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: expm1
+contributor: heychenbin@gmail.com
+# key: expm1
+# group: E
+# --
+expm1(${double X});$0

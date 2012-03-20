@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atanhf
+contributor: heychenbin@gmail.com
+# key: atanhf
+# group: A
+# --
+atanhf(${float X});$0

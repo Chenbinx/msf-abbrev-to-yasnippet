@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: putwchar
+contributor: heychenbin@gmail.com
+# key: putwchar
+# group: P
+# --
+putwchar(${wchar_t WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bcmp
+contributor: heychenbin@gmail.com
+# key: bcmp
+# group: B
+# --
+bcmp(${const void *A1}, ${const void *A2}, ${size_t SIZE});$0

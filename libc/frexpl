@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: frexpl
+contributor: heychenbin@gmail.com
+# key: frexpl
+# group: F
+# --
+frexpl(${long double VALUE}, ${int *EXPONENT});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vfork
+contributor: heychenbin@gmail.com
+# key: vfork
+# group: V
+# --
+vfork(${void});$0

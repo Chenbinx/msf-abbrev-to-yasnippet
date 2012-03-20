@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isupper
+contributor: heychenbin@gmail.com
+# key: isupper
+# group: I
+# --
+isupper(${int C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: remove
+contributor: heychenbin@gmail.com
+# key: remove
+# group: R
+# --
+remove(${const char *FILENAME});$0

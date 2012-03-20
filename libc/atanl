@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atanl
+contributor: heychenbin@gmail.com
+# key: atanl
+# group: A
+# --
+atanl(${long double X});$0

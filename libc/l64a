@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: l64a
+contributor: heychenbin@gmail.com
+# key: l64a
+# group: L
+# --
+l64a(${long int N});$0

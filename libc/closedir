@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: closedir
+contributor: heychenbin@gmail.com
+# key: closedir
+# group: C
+# --
+closedir(${DIR *DIRSTREAM});$0

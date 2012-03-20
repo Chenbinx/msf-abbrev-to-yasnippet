@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setservent
+contributor: heychenbin@gmail.com
+# key: setservent
+# group: S
+# --
+setservent(${int STAYOPEN});$0

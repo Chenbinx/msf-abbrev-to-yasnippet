@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpagesize
+contributor: heychenbin@gmail.com
+# key: getpagesize
+# group: G
+# --
+getpagesize(${void});$0

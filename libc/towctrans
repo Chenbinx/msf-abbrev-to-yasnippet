@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: towctrans
+contributor: heychenbin@gmail.com
+# key: towctrans
+# group: T
+# --
+towctrans(${wint_t WC}, ${wctrans_t DESC});$0

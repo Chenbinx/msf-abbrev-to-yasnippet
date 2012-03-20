@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: makecontext
+contributor: heychenbin@gmail.com
+# key: makecontext
+# group: M
+# --
+makecontext(${ucontext_t *UCP}, ${void(}, ${*FUNC}, ${)(}, ${VOID}, ${)}, ${int ARGC}, ${...});$0

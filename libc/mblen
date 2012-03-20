@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mblen
+contributor: heychenbin@gmail.com
+# key: mblen
+# group: M
+# --
+mblen(${const char *STRING}, ${size_t SIZE});$0

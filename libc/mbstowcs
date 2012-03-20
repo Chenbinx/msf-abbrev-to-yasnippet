@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mbstowcs
+contributor: heychenbin@gmail.com
+# key: mbstowcs
+# group: M
+# --
+mbstowcs(${wchar_t *WSTRING}, ${const char *STRING}, ${size_t SIZE});$0

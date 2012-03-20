@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mknod
+contributor: heychenbin@gmail.com
+# key: mknod
+# group: M
+# --
+mknod(${const char *FILENAME}, ${int MODE}, ${int DEV});$0

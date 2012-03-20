@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: initstate_r
+contributor: heychenbin@gmail.com
+# key: initstate_r
+# group: I
+# --
+initstate_r(${unsigned int SEED}, ${char *restrict STATEBUF}, ${size_t STATELEN}, ${struct random_data *restrict BUF});$0

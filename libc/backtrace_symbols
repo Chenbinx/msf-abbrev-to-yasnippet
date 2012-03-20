@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: backtrace_symbols
+contributor: heychenbin@gmail.com
+# key: backtrace_symbols
+# group: B
+# --
+backtrace_symbols(${void *const *BUFFER}, ${int SIZE});$0

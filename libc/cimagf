@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cimagf
+contributor: heychenbin@gmail.com
+# key: cimagf
+# group: C
+# --
+cimagf(${complex float Z});$0

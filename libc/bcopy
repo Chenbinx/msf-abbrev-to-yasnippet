@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bcopy
+contributor: heychenbin@gmail.com
+# key: bcopy
+# group: B
+# --
+bcopy(${const void *FROM}, ${void *TO}, ${size_t SIZE});$0

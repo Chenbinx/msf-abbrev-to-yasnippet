@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: opendir
+contributor: heychenbin@gmail.com
+# key: opendir
+# group: O
+# --
+opendir(${const char *DIRNAME});$0

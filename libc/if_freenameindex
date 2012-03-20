@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: if_freenameindex
+contributor: heychenbin@gmail.com
+# key: if_freenameindex
+# group: I
+# --
+if_freenameindex(${struct if_nameindex *ptr});$0

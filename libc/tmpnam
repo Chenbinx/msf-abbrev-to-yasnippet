@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tmpnam
+contributor: heychenbin@gmail.com
+# key: tmpnam
+# group: T
+# --
+tmpnam(${char *RESULT});$0

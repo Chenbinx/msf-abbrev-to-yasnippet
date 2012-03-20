@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: endmntent
+contributor: heychenbin@gmail.com
+# key: endmntent
+# group: E
+# --
+endmntent(${FILE *STREAM});$0

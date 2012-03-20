@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cpowl
+contributor: heychenbin@gmail.com
+# key: cpowl
+# group: C
+# --
+cpowl(${complex long double BASE}, ${complex long double POWER});$0

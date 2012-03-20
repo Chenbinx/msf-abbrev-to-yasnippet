@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fwide
+contributor: heychenbin@gmail.com
+# key: fwide
+# group: F
+# --
+fwide(${FILE *STREAM}, ${int MODE});$0

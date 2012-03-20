@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fetestexcept
+contributor: heychenbin@gmail.com
+# key: fetestexcept
+# group: F
+# --
+fetestexcept(${int EXCEPTS});$0

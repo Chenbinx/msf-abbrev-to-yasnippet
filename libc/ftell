@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ftell
+contributor: heychenbin@gmail.com
+# key: ftell
+# group: F
+# --
+ftell(${FILE *STREAM});$0

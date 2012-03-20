@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetws_unlocked
+contributor: heychenbin@gmail.com
+# key: fgetws_unlocked
+# group: F
+# --
+fgetws_unlocked(${wchar_t *WS}, ${int COUNT}, ${FILE *STREAM});$0

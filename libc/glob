@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: glob
+contributor: heychenbin@gmail.com
+# key: glob
+# group: G
+# --
+glob(${const char *PATTERN}, ${int FLAGS}, ${int(}, ${*ERRFUNC}, ${)(}, ${CONST}, ${CHAR}, ${*FILENAME}, ${ }, ${INT}, ${ERROR-CODE}, ${)}, ${glob_t *VECTOR-PTR});$0

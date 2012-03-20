@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sem_wait
+contributor: heychenbin@gmail.com
+# key: sem_wait
+# group: S
+# --
+sem_wait(${sem_t * SEM});$0

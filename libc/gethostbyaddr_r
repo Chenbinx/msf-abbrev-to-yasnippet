@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gethostbyaddr_r
+contributor: heychenbin@gmail.com
+# key: gethostbyaddr_r
+# group: G
+# --
+gethostbyaddr_r(${const char *ADDR}, ${size_t LENGTH}, ${int FORMAT}, ${struct hostent *restrict RESULT_BUF}, ${char *restrict BUF}, ${size_t BUFLEN}, ${struct hostent **restrict RESULT}, ${int *restrict H_ERRNOP});$0

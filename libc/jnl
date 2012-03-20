@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jnl
+contributor: heychenbin@gmail.com
+# key: jnl
+# group: J
+# --
+jnl(${int n}, ${long double X});$0

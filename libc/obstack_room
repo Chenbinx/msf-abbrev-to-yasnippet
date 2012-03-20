@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: obstack_room
+contributor: heychenbin@gmail.com
+# key: obstack_room
+# group: O
+# --
+obstack_room(${struct obstack *OBSTACK-PTR});$0

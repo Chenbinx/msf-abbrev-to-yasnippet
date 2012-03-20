@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: clearerr
+contributor: heychenbin@gmail.com
+# key: clearerr
+# group: C
+# --
+clearerr(${FILE *STREAM});$0

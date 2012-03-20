@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cexpf
+contributor: heychenbin@gmail.com
+# key: cexpf
+# group: C
+# --
+cexpf(${complex float Z});$0

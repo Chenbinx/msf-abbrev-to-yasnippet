@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fegetenv
+contributor: heychenbin@gmail.com
+# key: fegetenv
+# group: F
+# --
+fegetenv(${fenv_t *ENVP});$0

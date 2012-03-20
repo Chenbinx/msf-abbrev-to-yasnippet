@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gethostbyname2
+contributor: heychenbin@gmail.com
+# key: gethostbyname2
+# group: G
+# --
+gethostbyname2(${const char *NAME}, ${int AF});$0

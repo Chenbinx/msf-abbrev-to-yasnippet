@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getpwuid
+contributor: heychenbin@gmail.com
+# key: getpwuid
+# group: G
+# --
+getpwuid(${uid_t UID});$0

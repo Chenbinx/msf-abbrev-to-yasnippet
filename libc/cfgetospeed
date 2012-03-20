@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cfgetospeed
+contributor: heychenbin@gmail.com
+# key: cfgetospeed
+# group: C
+# --
+cfgetospeed(${const struct termios *TERMIOS-P});$0

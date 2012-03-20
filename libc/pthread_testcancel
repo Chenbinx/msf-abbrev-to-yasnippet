@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_testcancel
+contributor: heychenbin@gmail.com
+# key: pthread_testcancel
+# group: P
+# --
+pthread_testcancel(${VOID});$0

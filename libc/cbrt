@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cbrt
+contributor: heychenbin@gmail.com
+# key: cbrt
+# group: C
+# --
+cbrt(${double X});$0

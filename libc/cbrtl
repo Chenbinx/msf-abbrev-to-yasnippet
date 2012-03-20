@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cbrtl
+contributor: heychenbin@gmail.com
+# key: cbrtl
+# group: C
+# --
+cbrtl(${long double X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setcontext
+contributor: heychenbin@gmail.com
+# key: setcontext
+# group: S
+# --
+setcontext(${const ucontext_t *UCP});$0

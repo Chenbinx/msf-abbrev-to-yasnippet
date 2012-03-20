@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sinl
+contributor: heychenbin@gmail.com
+# key: sinl
+# group: S
+# --
+sinl(${long double X});$0

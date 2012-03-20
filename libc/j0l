@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: j0l
+contributor: heychenbin@gmail.com
+# key: j0l
+# group: J
+# --
+j0l(${long double X});$0

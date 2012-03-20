@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: aio_suspend64
+contributor: heychenbin@gmail.com
+# key: aio_suspend64
+# group: A
+# --
+aio_suspend64(${const struct aiocb64 *const LIST[]}, ${int NENT}, ${const struct timespec *TIMEOUT});$0

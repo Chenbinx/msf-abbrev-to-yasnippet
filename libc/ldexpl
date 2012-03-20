@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ldexpl
+contributor: heychenbin@gmail.com
+# key: ldexpl
+# group: L
+# --
+ldexpl(${long double VALUE}, ${int EXPONENT});$0

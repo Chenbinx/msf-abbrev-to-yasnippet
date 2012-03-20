@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getdate_r
+contributor: heychenbin@gmail.com
+# key: getdate_r
+# group: G
+# --
+getdate_r(${const char *STRING}, ${struct tm *TP});$0

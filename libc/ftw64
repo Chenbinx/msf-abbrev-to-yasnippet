@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ftw64
+contributor: heychenbin@gmail.com
+# key: ftw64
+# group: F
+# --
+ftw64(${const char *FILENAME}, ${__ftw64_func_t FUNC}, ${int DESCRIPTORS});$0

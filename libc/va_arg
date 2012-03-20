@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: va_arg
+contributor: heychenbin@gmail.com
+# key: va_arg
+# group: V
+# --
+va_arg(${va_list AP}, ${TYPE});$0

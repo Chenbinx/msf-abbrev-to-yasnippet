@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isnanf
+contributor: heychenbin@gmail.com
+# key: isnanf
+# group: I
+# --
+isnanf(${float X});$0

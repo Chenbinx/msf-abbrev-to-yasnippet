@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: alphasort
+contributor: heychenbin@gmail.com
+# key: alphasort
+# group: A
+# --
+alphasort(${const void *A}, ${const void *B});$0

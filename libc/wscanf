@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wscanf
+contributor: heychenbin@gmail.com
+# key: wscanf
+# group: W
+# --
+wscanf(${const wchar_t *TEMPLATE}, ${...});$0

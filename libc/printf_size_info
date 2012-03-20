@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: printf_size_info
+contributor: heychenbin@gmail.com
+# key: printf_size_info
+# group: P
+# --
+printf_size_info(${const struct printf_info *INFO}, ${size_t N}, ${int *ARGTYPES});$0

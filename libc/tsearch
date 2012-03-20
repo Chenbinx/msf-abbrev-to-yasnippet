@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tsearch
+contributor: heychenbin@gmail.com
+# key: tsearch
+# group: T
+# --
+tsearch(${const void *KEY}, ${void **ROOTP}, ${comparison_fn_t COMPAR});$0

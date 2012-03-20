@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_cond_destroy
+contributor: heychenbin@gmail.com
+# key: pthread_cond_destroy
+# group: P
+# --
+pthread_cond_destroy(${pthread_cond_t *COND});$0

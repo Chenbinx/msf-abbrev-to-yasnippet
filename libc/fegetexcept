@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fegetexcept
+contributor: heychenbin@gmail.com
+# key: fegetexcept
+# group: F
+# --
+fegetexcept(${int EXCEPTS});$0

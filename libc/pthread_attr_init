@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_attr_init
+contributor: heychenbin@gmail.com
+# key: pthread_attr_init
+# group: P
+# --
+pthread_attr_init(${pthread_attr_t *ATTR});$0

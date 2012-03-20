@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strrchr
+contributor: heychenbin@gmail.com
+# key: strrchr
+# group: S
+# --
+strrchr(${const char *STRING}, ${int C});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sched_setscheduler
+contributor: heychenbin@gmail.com
+# key: sched_setscheduler
+# group: S
+# --
+sched_setscheduler(${pid_t PID}, ${int POLICY}, ${const struct sched_param *PARAM});$0

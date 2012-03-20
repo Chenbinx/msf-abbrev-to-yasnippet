@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: feholdexcept
+contributor: heychenbin@gmail.com
+# key: feholdexcept
+# group: F
+# --
+feholdexcept(${fenv_t *ENVP});$0

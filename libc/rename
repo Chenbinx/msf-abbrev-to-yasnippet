@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rename
+contributor: heychenbin@gmail.com
+# key: rename
+# group: R
+# --
+rename(${const char *OLDNAME}, ${const char *NEWNAME});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISSOCK
+contributor: heychenbin@gmail.com
+# key: S_ISSOCK
+# group: S
+# --
+S_ISSOCK(${mode_t M});$0

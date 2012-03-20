@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: csqrtl
+contributor: heychenbin@gmail.com
+# key: csqrtl
+# group: C
+# --
+csqrtl(${complex long double Z});$0

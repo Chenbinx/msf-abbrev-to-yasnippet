@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fcvt_r
+contributor: heychenbin@gmail.com
+# key: fcvt_r
+# group: F
+# --
+fcvt_r(${double VALUE}, ${int NDIGIT}, ${int *DECPT}, ${int *NEG}, ${char *BUF}, ${size_t LEN});$0

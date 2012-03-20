@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cimagl
+contributor: heychenbin@gmail.com
+# key: cimagl
+# group: C
+# --
+cimagl(${complex long double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setrlimit64
+contributor: heychenbin@gmail.com
+# key: setrlimit64
+# group: S
+# --
+setrlimit64(${int RESOURCE}, ${const struct rlimit64 *RLP});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __fpending
+contributor: heychenbin@gmail.com
+# key: __fpending
+# group: Others
+# --
+__fpending(${FILE *STREAM});$0

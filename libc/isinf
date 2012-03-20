@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isinf
+contributor: heychenbin@gmail.com
+# key: isinf
+# group: I
+# --
+isinf(${double X});$0

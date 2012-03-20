@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atan
+contributor: heychenbin@gmail.com
+# key: atan
+# group: A
+# --
+atan(${double X});$0

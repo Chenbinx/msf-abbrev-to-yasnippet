@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: srandom
+contributor: heychenbin@gmail.com
+# key: srandom
+# group: S
+# --
+srandom(${unsigned int SEED});$0

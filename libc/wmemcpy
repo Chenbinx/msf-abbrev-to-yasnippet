@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wmemcpy
+contributor: heychenbin@gmail.com
+# key: wmemcpy
+# group: W
+# --
+wmemcpy(${wchar_t *restrict WTO}, ${const wchar_t *restruct WFROM}, ${size_t SIZE});$0

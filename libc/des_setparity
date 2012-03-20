@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: des_setparity
+contributor: heychenbin@gmail.com
+# key: des_setparity
+# group: D
+# --
+des_setparity(${char *KEY});$0

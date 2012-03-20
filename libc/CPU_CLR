@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: CPU_CLR
+contributor: heychenbin@gmail.com
+# key: CPU_CLR
+# group: C
+# --
+CPU_CLR(${int CPU}, ${cpu_set_t *SET});$0

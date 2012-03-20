@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmal
+contributor: heychenbin@gmail.com
+# key: fmal
+# group: F
+# --
+fmal(${long double X}, ${long double Y}, ${long double Z});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pipe
+contributor: heychenbin@gmail.com
+# key: pipe
+# group: P
+# --
+pipe(${int FILEDES[2]});$0

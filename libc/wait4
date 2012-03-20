@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wait4
+contributor: heychenbin@gmail.com
+# key: wait4
+# group: W
+# --
+wait4(${pid_t PID}, ${int *STATUS-PTR}, ${int OPTIONS}, ${struct rusage *USAGE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sync
+contributor: heychenbin@gmail.com
+# key: sync
+# group: S
+# --
+sync(${void});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: utime
+contributor: heychenbin@gmail.com
+# key: utime
+# group: U
+# --
+utime(${const char *FILENAME}, ${const struct utimbuf *TIMES});$0

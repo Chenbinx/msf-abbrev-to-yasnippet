@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: csqrtf
+contributor: heychenbin@gmail.com
+# key: csqrtf
+# group: C
+# --
+csqrtf(${complex float Z});$0

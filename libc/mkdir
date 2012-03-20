@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mkdir
+contributor: heychenbin@gmail.com
+# key: mkdir
+# group: M
+# --
+mkdir(${const char *FILENAME}, ${mode_t MODE});$0

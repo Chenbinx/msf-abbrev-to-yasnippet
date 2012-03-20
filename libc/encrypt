@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: encrypt
+contributor: heychenbin@gmail.com
+# key: encrypt
+# group: E
+# --
+encrypt(${char *BLOCK}, ${int EDFLAG});$0

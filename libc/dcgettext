@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dcgettext
+contributor: heychenbin@gmail.com
+# key: dcgettext
+# group: D
+# --
+dcgettext(${const char *DOMAINNAME}, ${const char *MSGID}, ${int CATEGORY});$0

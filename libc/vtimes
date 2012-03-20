@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vtimes
+contributor: heychenbin@gmail.com
+# key: vtimes
+# group: V
+# --
+vtimes(${struct vtimes CURRENT}, ${struct vtimes CHILD});$0

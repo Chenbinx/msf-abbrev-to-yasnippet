@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sqrtl
+contributor: heychenbin@gmail.com
+# key: sqrtl
+# group: S
+# --
+sqrtl(${long double X});$0

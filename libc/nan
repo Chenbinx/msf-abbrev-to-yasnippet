@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nan
+contributor: heychenbin@gmail.com
+# key: nan
+# group: N
+# --
+nan(${const char *TAGP});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcstold
+contributor: heychenbin@gmail.com
+# key: wcstold
+# group: W
+# --
+wcstold(${const wchar_t *STRING}, ${wchar_t **TAILPTR});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: siginterrupt
+contributor: heychenbin@gmail.com
+# key: siginterrupt
+# group: S
+# --
+siginterrupt(${int SIGNUM}, ${int FAILFLAG});$0

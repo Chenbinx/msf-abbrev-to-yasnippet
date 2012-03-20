@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jrand48_r
+contributor: heychenbin@gmail.com
+# key: jrand48_r
+# group: J
+# --
+jrand48_r(${unsigned short int XSUBI[3]}, ${struct drand48_data *BUFFER}, ${long int *RESULT});$0

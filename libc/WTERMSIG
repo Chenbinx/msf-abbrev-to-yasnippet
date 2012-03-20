@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: WTERMSIG
+contributor: heychenbin@gmail.com
+# key: WTERMSIG
+# group: W
+# --
+WTERMSIG(${int STATUS});$0

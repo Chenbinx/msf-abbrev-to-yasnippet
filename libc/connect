@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: connect
+contributor: heychenbin@gmail.com
+# key: connect
+# group: C
+# --
+connect(${int SOCKET}, ${struct sockaddr *ADDR}, ${socklen_t LENGTH});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: roundf
+contributor: heychenbin@gmail.com
+# key: roundf
+# group: R
+# --
+roundf(${float X});$0

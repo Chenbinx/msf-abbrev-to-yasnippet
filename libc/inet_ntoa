@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: inet_ntoa
+contributor: heychenbin@gmail.com
+# key: inet_ntoa
+# group: I
+# --
+inet_ntoa(${struct in_addr ADDR});$0

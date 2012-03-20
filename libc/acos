@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: acos
+contributor: heychenbin@gmail.com
+# key: acos
+# group: A
+# --
+acos(${double X});$0

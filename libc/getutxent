@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getutxent
+contributor: heychenbin@gmail.com
+# key: getutxent
+# group: G
+# --
+getutxent(${void});$0

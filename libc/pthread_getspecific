@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_getspecific
+contributor: heychenbin@gmail.com
+# key: pthread_getspecific
+# group: P
+# --
+pthread_getspecific(${pthread_key_t KEY});$0

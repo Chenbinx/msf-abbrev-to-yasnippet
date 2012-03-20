@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ulimit
+contributor: heychenbin@gmail.com
+# key: ulimit
+# group: U
+# --
+ulimit(${int CMD}, ${...});$0

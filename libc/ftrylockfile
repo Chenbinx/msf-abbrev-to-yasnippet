@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ftrylockfile
+contributor: heychenbin@gmail.com
+# key: ftrylockfile
+# group: F
+# --
+ftrylockfile(${FILE *STREAM});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ferror_unlocked
+contributor: heychenbin@gmail.com
+# key: ferror_unlocked
+# group: F
+# --
+ferror_unlocked(${FILE *STREAM});$0

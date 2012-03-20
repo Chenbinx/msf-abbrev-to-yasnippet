@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __flbf
+contributor: heychenbin@gmail.com
+# key: __flbf
+# group: Others
+# --
+__flbf(${FILE *STREAM});$0

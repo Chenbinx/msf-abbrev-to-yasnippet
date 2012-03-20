@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: FD_ZERO
+contributor: heychenbin@gmail.com
+# key: FD_ZERO
+# group: F
+# --
+FD_ZERO(${fd_set *SET});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: valloc
+contributor: heychenbin@gmail.com
+# key: valloc
+# group: V
+# --
+valloc(${size_t SIZE});$0

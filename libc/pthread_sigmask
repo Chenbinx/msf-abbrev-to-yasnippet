@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_sigmask
+contributor: heychenbin@gmail.com
+# key: pthread_sigmask
+# group: P
+# --
+pthread_sigmask(${int HOW}, ${const sigset_t *NEWMASK}, ${sigset_t *OLDMASK});$0

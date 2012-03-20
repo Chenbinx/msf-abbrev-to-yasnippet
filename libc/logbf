@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: logbf
+contributor: heychenbin@gmail.com
+# key: logbf
+# group: L
+# --
+logbf(${float X});$0

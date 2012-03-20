@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: _tolower
+contributor: heychenbin@gmail.com
+# key: _tolower
+# group: Others
+# --
+_tolower(${int C});$0

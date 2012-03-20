@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: encrypt_r
+contributor: heychenbin@gmail.com
+# key: encrypt_r
+# group: E
+# --
+encrypt_r(${char *BLOCK}, ${int EDFLAG}, ${struct crypt_data * DATA});$0

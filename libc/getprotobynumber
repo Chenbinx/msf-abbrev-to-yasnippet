@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getprotobynumber
+contributor: heychenbin@gmail.com
+# key: getprotobynumber
+# group: G
+# --
+getprotobynumber(${int PROTOCOL});$0

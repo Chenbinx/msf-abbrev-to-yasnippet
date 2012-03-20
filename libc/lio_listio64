@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: lio_listio64
+contributor: heychenbin@gmail.com
+# key: lio_listio64
+# group: L
+# --
+lio_listio64(${int MODE}, ${struct aiocb *const LIST}, ${int NENT}, ${struct sigevent *SIG});$0

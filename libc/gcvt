@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gcvt
+contributor: heychenbin@gmail.com
+# key: gcvt
+# group: G
+# --
+gcvt(${double VALUE}, ${int NDIGIT}, ${char *BUF});$0

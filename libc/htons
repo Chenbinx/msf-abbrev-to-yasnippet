@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: htons
+contributor: heychenbin@gmail.com
+# key: htons
+# group: H
+# --
+htons(${uint16_t HOSTSHORT});$0

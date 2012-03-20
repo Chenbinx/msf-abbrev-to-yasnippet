@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: significandl
+contributor: heychenbin@gmail.com
+# key: significandl
+# group: S
+# --
+significandl(${long double X});$0

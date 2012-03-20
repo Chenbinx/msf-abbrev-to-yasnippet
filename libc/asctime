@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: asctime
+contributor: heychenbin@gmail.com
+# key: asctime
+# group: A
+# --
+asctime(${const struct tm *BROKENTIME});$0

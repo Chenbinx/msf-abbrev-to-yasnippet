@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getfsfile
+contributor: heychenbin@gmail.com
+# key: getfsfile
+# group: G
+# --
+getfsfile(${const char *NAME});$0

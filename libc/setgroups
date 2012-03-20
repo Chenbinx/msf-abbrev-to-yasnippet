@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: setgroups
+contributor: heychenbin@gmail.com
+# key: setgroups
+# group: S
+# --
+setgroups(${size_t COUNT}, ${gid_t *GROUPS});$0

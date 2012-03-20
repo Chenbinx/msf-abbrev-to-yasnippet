@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgets
+contributor: heychenbin@gmail.com
+# key: fgets
+# group: F
+# --
+fgets(${char *S}, ${int COUNT}, ${FILE *STREAM});$0

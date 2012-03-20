@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fputs_unlocked
+contributor: heychenbin@gmail.com
+# key: fputs_unlocked
+# group: F
+# --
+fputs_unlocked(${const char *S}, ${FILE *STREAM});$0

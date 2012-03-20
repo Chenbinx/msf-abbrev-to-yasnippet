@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_ISBLK
+contributor: heychenbin@gmail.com
+# key: S_ISBLK
+# group: S
+# --
+S_ISBLK(${mode_t M});$0

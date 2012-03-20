@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: flockfile
+contributor: heychenbin@gmail.com
+# key: flockfile
+# group: F
+# --
+flockfile(${FILE *STREAM});$0

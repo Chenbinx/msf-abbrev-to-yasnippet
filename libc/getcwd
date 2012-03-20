@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getcwd
+contributor: heychenbin@gmail.com
+# key: getcwd
+# group: G
+# --
+getcwd(${char *BUFFER}, ${size_t SIZE});$0

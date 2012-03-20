@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: hdestroy
+contributor: heychenbin@gmail.com
+# key: hdestroy
+# group: H
+# --
+hdestroy(${void});$0

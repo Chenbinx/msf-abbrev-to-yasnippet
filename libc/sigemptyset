@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigemptyset
+contributor: heychenbin@gmail.com
+# key: sigemptyset
+# group: S
+# --
+sigemptyset(${sigset_t *SET});$0

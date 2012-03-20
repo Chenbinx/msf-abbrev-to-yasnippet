@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wctype
+contributor: heychenbin@gmail.com
+# key: wctype
+# group: W
+# --
+wctype(${const char *PROPERTY});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: unlockpt
+contributor: heychenbin@gmail.com
+# key: unlockpt
+# group: U
+# --
+unlockpt(${int FILEDES});$0

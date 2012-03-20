@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtod
+contributor: heychenbin@gmail.com
+# key: strtod
+# group: S
+# --
+strtod(${const char *restrict STRING}, ${char **restrict TAILPTR});$0

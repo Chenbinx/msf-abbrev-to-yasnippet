@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strncat
+contributor: heychenbin@gmail.com
+# key: strncat
+# group: S
+# --
+strncat(${char *restrict TO}, ${const char *restrict FROM}, ${size_t SIZE});$0

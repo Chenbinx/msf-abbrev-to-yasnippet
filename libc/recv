@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: recv
+contributor: heychenbin@gmail.com
+# key: recv
+# group: R
+# --
+recv(${int SOCKET}, ${void *BUFFER}, ${size_t SIZE}, ${int FLAGS});$0

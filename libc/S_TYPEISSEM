@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: S_TYPEISSEM
+contributor: heychenbin@gmail.com
+# key: S_TYPEISSEM
+# group: S
+# --
+S_TYPEISSEM(${struct stat *S});$0

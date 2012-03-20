@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: error_at_line
+contributor: heychenbin@gmail.com
+# key: error_at_line
+# group: E
+# --
+error_at_line(${int STATUS}, ${int ERRNUM}, ${const char *FNAME}, ${unsigned int LINENO}, ${const char *FORMAT}, ${...});$0

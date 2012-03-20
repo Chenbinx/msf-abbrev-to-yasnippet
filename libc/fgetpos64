@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fgetpos64
+contributor: heychenbin@gmail.com
+# key: fgetpos64
+# group: F
+# --
+fgetpos64(${FILE *STREAM}, ${fpos64_t *POSITION});$0

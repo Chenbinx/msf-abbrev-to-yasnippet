@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: send
+contributor: heychenbin@gmail.com
+# key: send
+# group: S
+# --
+send(${int SOCKET}, ${void *BUFFER}, ${size_t SIZE}, ${int FLAGS});$0

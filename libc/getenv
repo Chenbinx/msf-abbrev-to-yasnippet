@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getenv
+contributor: heychenbin@gmail.com
+# key: getenv
+# group: G
+# --
+getenv(${const char *NAME});$0

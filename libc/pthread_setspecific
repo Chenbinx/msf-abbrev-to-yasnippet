@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_setspecific
+contributor: heychenbin@gmail.com
+# key: pthread_setspecific
+# group: P
+# --
+pthread_setspecific(${pthread_key_t KEY}, ${const void *POINTER});$0

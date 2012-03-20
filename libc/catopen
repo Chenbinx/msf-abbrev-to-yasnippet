@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: catopen
+contributor: heychenbin@gmail.com
+# key: catopen
+# group: C
+# --
+catopen(${const char *CAT_NAME}, ${int FLAG});$0

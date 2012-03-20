@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: cargl
+contributor: heychenbin@gmail.com
+# key: cargl
+# group: C
+# --
+cargl(${complex long double Z});$0

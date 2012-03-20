@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: initgroups
+contributor: heychenbin@gmail.com
+# key: initgroups
+# group: I
+# --
+initgroups(${const char *USER}, ${gid_t GROUP});$0

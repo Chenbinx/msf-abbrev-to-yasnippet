@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: powl
+contributor: heychenbin@gmail.com
+# key: powl
+# group: P
+# --
+powl(${long double BASE}, ${long double POWER});$0

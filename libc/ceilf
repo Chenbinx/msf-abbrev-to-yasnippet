@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ceilf
+contributor: heychenbin@gmail.com
+# key: ceilf
+# group: C
+# --
+ceilf(${float X});$0

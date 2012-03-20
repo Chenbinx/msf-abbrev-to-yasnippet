@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: confstr
+contributor: heychenbin@gmail.com
+# key: confstr
+# group: C
+# --
+confstr(${int PARAMETER}, ${char *BUF}, ${size_t LEN});$0

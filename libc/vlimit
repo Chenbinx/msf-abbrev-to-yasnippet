@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: vlimit
+contributor: heychenbin@gmail.com
+# key: vlimit
+# group: V
+# --
+vlimit(${int RESOURCE}, ${int LIMIT});$0

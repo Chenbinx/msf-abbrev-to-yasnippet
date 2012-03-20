@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswalpha
+contributor: heychenbin@gmail.com
+# key: iswalpha
+# group: I
+# --
+iswalpha(${wint_t WC});$0

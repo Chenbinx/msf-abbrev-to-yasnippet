@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wcschr
+contributor: heychenbin@gmail.com
+# key: wcschr
+# group: W
+# --
+wcschr(${const wchar_t *WSTRING}, ${int WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: isnormal
+contributor: heychenbin@gmail.com
+# key: isnormal
+# group: I
+# --
+isnormal(${_float-type_ X});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: truncf
+contributor: heychenbin@gmail.com
+# key: truncf
+# group: T
+# --
+truncf(${float X});$0

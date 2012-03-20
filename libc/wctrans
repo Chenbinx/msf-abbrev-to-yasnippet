@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wctrans
+contributor: heychenbin@gmail.com
+# key: wctrans
+# group: W
+# --
+wctrans(${const char *PROPERTY});$0

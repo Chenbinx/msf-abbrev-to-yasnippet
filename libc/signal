@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: signal
+contributor: heychenbin@gmail.com
+# key: signal
+# group: S
+# --
+signal(${int SIGNUM}, ${sighandler_t ACTION});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: innetgr
+contributor: heychenbin@gmail.com
+# key: innetgr
+# group: I
+# --
+innetgr(${const char *NETGROUP}, ${const char *HOST}, ${const char *USER}, ${const char *DOMAIN});$0

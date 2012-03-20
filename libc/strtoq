@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strtoq
+contributor: heychenbin@gmail.com
+# key: strtoq
+# group: S
+# --
+strtoq(${const char *restrict STRING}, ${char **restrict TAILPTR}, ${int BASE});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigwait
+contributor: heychenbin@gmail.com
+# key: sigwait
+# group: S
+# --
+sigwait(${const sigset_t *SET}, ${int *SIG});$0

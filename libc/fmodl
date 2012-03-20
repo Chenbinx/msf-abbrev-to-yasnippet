@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fmodl
+contributor: heychenbin@gmail.com
+# key: fmodl
+# group: F
+# --
+fmodl(${long double NUMERATOR}, ${long double DENOMINATOR});$0

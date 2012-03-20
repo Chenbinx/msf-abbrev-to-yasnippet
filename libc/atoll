@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: atoll
+contributor: heychenbin@gmail.com
+# key: atoll
+# group: A
+# --
+atoll(${const char *STRING});$0

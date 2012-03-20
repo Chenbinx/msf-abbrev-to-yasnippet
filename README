@@ -1,0 +1,14 @@
+Translate msf-abbrev abbrevation into YASnippets
+
+abbrev_to_ya.py is the script file to do the translate work.
+
+libc directory is all you need to save into yasnippet directory.
+
+Usage: 
+
+1. copy libc/ to yasnippets directory
+2. modify snippets/c-mode/.yas-parents:
+    cc-mode --> libc
+   do the same operation to the snippets/c++-mode/.yas-parents
+3. restart emacs
+4. have fun

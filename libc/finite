@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: finite
+contributor: heychenbin@gmail.com
+# key: finite
+# group: F
+# --
+finite(${double X});$0

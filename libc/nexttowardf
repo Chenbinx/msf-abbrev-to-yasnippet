@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nexttowardf
+contributor: heychenbin@gmail.com
+# key: nexttowardf
+# group: N
+# --
+nexttowardf(${float X}, ${long double Y});$0

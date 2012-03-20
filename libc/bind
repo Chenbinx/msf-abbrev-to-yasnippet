@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: bind
+contributor: heychenbin@gmail.com
+# key: bind
+# group: B
+# --
+bind(${int SOCKET}, ${struct sockaddr *ADDR}, ${socklen_t LENGTH});$0

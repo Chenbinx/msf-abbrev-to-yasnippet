@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fegetround
+contributor: heychenbin@gmail.com
+# key: fegetround
+# group: F
+# --
+fegetround(${void});$0

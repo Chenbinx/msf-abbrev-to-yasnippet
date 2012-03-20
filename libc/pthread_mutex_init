@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_mutex_init
+contributor: heychenbin@gmail.com
+# key: pthread_mutex_init
+# group: P
+# --
+pthread_mutex_init(${pthread_mutex_t *MUTEX}, ${const pthread_mutexattr_t *MUTEXATTR});$0

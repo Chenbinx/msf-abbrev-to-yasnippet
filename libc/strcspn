@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: strcspn
+contributor: heychenbin@gmail.com
+# key: strcspn
+# group: S
+# --
+strcspn(${const char *STRING}, ${const char *STOPSET});$0

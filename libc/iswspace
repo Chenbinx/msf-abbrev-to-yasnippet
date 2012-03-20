@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: iswspace
+contributor: heychenbin@gmail.com
+# key: iswspace
+# group: I
+# --
+iswspace(${wint_t WC});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sqrtf
+contributor: heychenbin@gmail.com
+# key: sqrtf
+# group: S
+# --
+sqrtf(${float X});$0

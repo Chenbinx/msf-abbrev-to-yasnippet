@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tcsetattr
+contributor: heychenbin@gmail.com
+# key: tcsetattr
+# group: T
+# --
+tcsetattr(${int FILEDES}, ${int WHEN}, ${const struct termios *TERMIOS-P});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: read
+contributor: heychenbin@gmail.com
+# key: read
+# group: R
+# --
+read(${int FILEDES}, ${void *BUFFER}, ${size_t SIZE});$0

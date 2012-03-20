@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: adjtime
+contributor: heychenbin@gmail.com
+# key: adjtime
+# group: A
+# --
+adjtime(${const struct timeval *DELTA}, ${struct timeval *OLDDELTA});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: getdate
+contributor: heychenbin@gmail.com
+# key: getdate
+# group: G
+# --
+getdate(${const char *STRING});$0

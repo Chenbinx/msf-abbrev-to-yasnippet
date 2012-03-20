@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: _toupper
+contributor: heychenbin@gmail.com
+# key: _toupper
+# group: Others
+# --
+_toupper(${int C});$0

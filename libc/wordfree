@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wordfree
+contributor: heychenbin@gmail.com
+# key: wordfree
+# group: W
+# --
+wordfree(${wordexp_t *WORD-VECTOR-PTR});$0

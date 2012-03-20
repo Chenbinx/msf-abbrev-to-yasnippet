@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: regcomp
+contributor: heychenbin@gmail.com
+# key: regcomp
+# group: R
+# --
+regcomp(${regex_t *COMPILED}, ${const char *PATTERN}, ${int CFLAGS});$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rmdir
+contributor: heychenbin@gmail.com
+# key: rmdir
+# group: R
+# --
+rmdir(${const char *FILENAME});$0

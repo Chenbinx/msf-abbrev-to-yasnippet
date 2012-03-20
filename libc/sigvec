@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sigvec
+contributor: heychenbin@gmail.com
+# key: sigvec
+# group: S
+# --
+sigvec(${int SIGNUM}, ${const struct sigvec *ACTION}, ${struct sigvec *OLD-ACTION});$0

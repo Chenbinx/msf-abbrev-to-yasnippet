@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: pthread_atfork
+contributor: heychenbin@gmail.com
+# key: pthread_atfork
+# group: P
+# --
+pthread_atfork(${void(}, ${*PREPARE}, ${)(}, ${VOID}, ${)}, ${void(}, ${*PARENT}, ${)(}, ${VOID}, ${)}, ${void(}, ${*CHILD}, ${)(}, ${VOID}, ${)});$0

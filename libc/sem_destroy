@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sem_destroy
+contributor: heychenbin@gmail.com
+# key: sem_destroy
+# group: S
+# --
+sem_destroy(${sem_t * SEM});$0

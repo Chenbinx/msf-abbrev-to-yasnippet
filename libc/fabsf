@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fabsf
+contributor: heychenbin@gmail.com
+# key: fabsf
+# group: F
+# --
+fabsf(${float NUMBER});$0
